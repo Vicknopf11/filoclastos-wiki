@@ -1,0 +1,48 @@
+<aside class="sidebar">
+  <h1 class="sidebar__title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+  <p class="sidebar__tagline">{{ site.tagline }}</p>
+
+  <input type="text" class="cerca" id="cerca" placeholder="Cerca nella wiki…" autocomplete="off">
+  <ul class="risultati-ricerca" id="risultati-ricerca"></ul>
+
+  <ul class="sidebar__categorie" id="lista-categorie">
+    {% for c in site.categorie %}
+    <li>
+      <a href="{{ '/' | append: c.slug | append: '/' | relative_url }}">{{ c.nome }}</a>
+      <p>{{ c.descrizione }}</p>
+    </li>
+    {% endfor %}
+  </ul>
+</aside>
+
+<script>
+(function () {
+  var input = document.getElementById('cerca');
+  var risultati = document.getElementById('risultati-ricerca');
+  var listaCategorie = document.getElementById('lista-categorie');
+  var indice = null;
+
+  fetch('{{ "/search.json" | relative_url }}')
+    .then(function (r) { return r.json(); })
+    .then(function (data) { indice = data; });
+
+  input.addEventListener('input', function () {
+    var q = input.value.trim().toLowerCase();
+    if (!q || !indice) {
+      risultati.classList.remove('attivo');
+      listaCategorie.style.display = '';
+      return;
+    }
+    var match = indice.filter(function (p) {
+      return p.title.toLowerCase().indexOf(q) !== -1;
+    });
+    risultati.innerHTML = match.map(function (p) {
+      return '<li><a href="' + p.url + '">' + p.title + '</a>' +
+             (p.categoria ? '<span class="path">' + p.categoria + '</span>' : '') +
+             '</li>';
+    }).join('');
+    risultati.classList.add('attivo');
+    listaCategorie.style.display = 'none';
+  });
+})();
+</script>

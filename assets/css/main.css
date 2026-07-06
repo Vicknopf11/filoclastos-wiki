@@ -1,0 +1,145 @@
+:root {
+  --paper:      #EFE7D8;
+  --paper-dim:  #E5DBC7;
+  --ink:        #26221B;
+  --ink-soft:   #5C5546;
+  --teal:       #35566B;
+  --olive:      #6B6F47;
+  --line:       #CFC3A8;
+  --line-soft:  #DDD3BC;
+
+  --font-display: "Newsreader", "Iowan Old Style", serif;
+  --font-body: "Source Serif 4", "Source Serif Pro", Georgia, serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: 17px;
+  line-height: 1.65;
+}
+
+a { color: var(--teal); text-decoration-thickness: 1px; text-underline-offset: 2px; }
+a:hover { color: var(--olive); }
+a:focus-visible { outline: 2px solid var(--olive); outline-offset: 3px; }
+
+.layout {
+  display: grid;
+  grid-template-columns: 240px 1fr;
+  min-height: 100vh;
+}
+
+.sidebar {
+  background: var(--paper-dim);
+  border-right: 1px solid var(--line);
+  padding: 28px 22px;
+}
+.sidebar__title {
+  font-family: var(--font-display);
+  font-size: 26px;
+  font-weight: 600;
+  margin: 0 0 4px;
+  color: var(--ink);
+}
+.sidebar__title a { color: inherit; text-decoration: none; }
+.sidebar__tagline {
+  font-size: 13px;
+  color: var(--ink-soft);
+  font-style: italic;
+  margin: 0 0 22px;
+}
+
+.cerca {
+  width: 100%;
+  padding: 7px 10px;
+  border: 1px solid var(--line);
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: 14px;
+  border-radius: 3px;
+  margin-bottom: 20px;
+}
+.cerca:focus { outline: 2px solid var(--olive); outline-offset: 1px; }
+
+.sidebar__categorie {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.sidebar__categorie li { margin-bottom: 14px; }
+.sidebar__categorie a {
+  font-family: var(--font-mono);
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--ink);
+  text-decoration: none;
+  display: block;
+}
+.sidebar__categorie a:hover { color: var(--teal); }
+.sidebar__categorie p {
+  margin: 3px 0 0;
+  font-size: 12.5px;
+  color: var(--ink-soft);
+}
+
+.risultati-ricerca {
+  list-style: none;
+  margin: 0 0 20px;
+  padding: 0;
+  display: none;
+}
+.risultati-ricerca.attivo { display: block; }
+.risultati-ricerca li { margin-bottom: 8px; }
+.risultati-ricerca a { font-size: 13.5px; }
+.risultati-ricerca .path { display: block; font-family: var(--font-mono); font-size: 10.5px; color: var(--ink-soft); }
+
+.contenuto { padding: 44px 48px; max-width: 760px; }
+
+.contenuto h1 {
+  font-family: var(--font-display);
+  font-size: 34px;
+  color: var(--ink);
+  margin: 0 0 8px;
+}
+.contenuto .kicker {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--olive);
+  display: block;
+  margin-bottom: 12px;
+}
+.contenuto h2 {
+  font-family: var(--font-display);
+  font-size: 22px;
+  color: var(--ink);
+  margin-top: 36px;
+}
+.contenuto p { margin: 0 0 16px; }
+.contenuto ul, .contenuto ol { padding-left: 22px; }
+
+.elenco-pagine {
+  list-style: none;
+  margin: 24px 0;
+  padding: 0;
+}
+.elenco-pagine li {
+  padding: 12px 0;
+  border-bottom: 1px solid var(--line-soft);
+}
+.elenco-pagine a { font-family: var(--font-display); font-size: 17px; }
+.elenco-pagine p { margin: 3px 0 0; font-size: 14px; color: var(--ink-soft); }
+
+@media (max-width: 720px) {
+  .layout { grid-template-columns: 1fr; }
+  .sidebar { border-right: none; border-bottom: 1px solid var(--line); }
+  .contenuto { padding: 28px 22px; }
+}

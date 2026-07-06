@@ -1,0 +1,32 @@
+title: Quaderno
+tagline: "Appunti, idee e letture — per ora solo per me."
+url: "https://wiki.filoclastos.it"
+lang: it
+
+# Categorie iniziali — rinominabili, aggiungine altre semplicemente
+# creando una nuova cartella con lo stesso schema (index.md dentro).
+categorie:
+  - slug: note
+    nome: "Note"
+    descrizione: "Appunti sparsi, senza una casa precisa."
+  - slug: idee
+    nome: "Idee"
+    descrizione: "Cose da sviluppare, non ancora mature."
+  - slug: letture
+    nome: "Letture"
+    descrizione: "Libri, articoli, citazioni che voglio ritrovare."
+  - slug: progetti
+    nome: "Progetti"
+    descrizione: "Appunti di lavoro sui progetti in corso."
+
+markdown: kramdown
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "pagina"
+
+exclude:
+  - README.md
+  - Gemfile

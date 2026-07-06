@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<h1>{{ page.title }}</h1>
+<p>{{ page.descrizione }}</p>
+{% assign pagine = site.pages | where: "categoria", page.slug %}
+<ul class="elenco-pagine">
+{% for p in pagine %}
+  {% unless p.url == page.url %}
+  <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a>{% if p.sommario %}<p>{{ p.sommario }}</p>{% endif %}</li>
+  {% endunless %}
+{% endfor %}
+</ul>
