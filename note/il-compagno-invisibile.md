@@ -81,3 +81,7 @@ Forse è questa la più grande misericordia concessa all'essere umano.
 Che la completezza non sia un possesso, ma una direzione.
 
 E che finché continueremo a camminare, con il coraggio di guardare l'ombra e l'umiltà di seguire ciò che ci chiama oltre noi stessi, il viaggio non sarà mai perduto.
+
+![](/assets/img/note/compagno-invisibile-1.jpg)
+
+![](/assets/img/note/compagno-invisibile-2.jpg)
