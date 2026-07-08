@@ -4,6 +4,8 @@ categoria: letture
 sommario: "Commenti capitolo per capitolo ad Aion di C.G. Jung."
 ---
 
+<a id="top"></a>
+
 **Dove trovarlo**
 
 - Edizione italiana (Opere complete): C.G. Jung, *Opere complete* — Bollati Boringhieri: [bollatiboringhieri.it/libri/carl-gustav-jung-opere-complete-9788833974293](https://www.bollatiboringhieri.it/libri/carl-gustav-jung-opere-complete-9788833974293/)
@@ -17,8 +19,9 @@ Commenti al testo di Jung, capitolo per capitolo.
 2. *(in arrivo)*
 
 ---
+<a id="cap1"></a>
 
-## Il Re che non è il Re {: #cap1}
+## Il Re che non è il Re
 
 Ogni essere umano attraversa la vita con una certezza quasi indiscutibile: quella voce che dice “io” siamo noi.
 
