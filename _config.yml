@@ -21,6 +21,8 @@ categorie:
 
 markdown: kramdown
 
+permalink: pretty
+
 defaults:
   - scope:
       path: ""
