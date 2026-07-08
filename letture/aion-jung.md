@@ -16,7 +16,7 @@ sommario: "Commenti capitolo per capitolo ad Aion di C.G. Jung."
 Commenti al testo di Jung, capitolo per capitolo.
 
 1. [Il Re che non è il Re](#cap1)
-2. *(in arrivo)*
+2. [L'Ombra: il volto che rifiutiamo di riconoscere](#cap2)
 
 ---
 <a id="cap1"></a>
@@ -140,3 +140,194 @@ Ma non cammina più da re.
 Cammina come un pellegrino che ha finalmente scoperto che la strada non gli appartiene, e che il mistero che lo guida è molto più antico di lui.
 
 [↑ Torna all'indice](#top)
+
+---
+
+<a id="cap2"></a>
+
+## L'Ombra: il volto che rifiutiamo di riconoscere
+
+Se il primo capitolo di Aion ridimensiona il trono dell'Ego, il secondo lo costringe a guardarsi allo specchio.
+
+È uno specchio particolare. Non riflette ciò che desideriamo mostrare al mondo, né l'immagine che abbiamo costruito di noi stessi. Riflette ciò che abbiamo escluso.
+
+Jung chiama questa regione l'Ombra.
+
+Il termine è diventato famoso, ma proprio per questo è stato spesso banalizzato. Si pensa all'Ombra come al "lato cattivo" della personalità, come se fosse un deposito di rabbia, aggressività e impulsi proibiti. Jung intende qualcosa di molto più profondo.
+
+L'Ombra è tutto ciò che l'Ego non riesce o non vuole riconoscere come proprio.
+
+Può certamente contenere il male, ma può contenere anche il bene. Può custodire la crudeltà di cui ci vergogniamo, ma anche il coraggio che non osiamo esprimere, la creatività soffocata, l'amore rifiutato, la forza che abbiamo imparato a considerare pericolosa. Tutto ciò che viene escluso dalla coscienza continua a vivere nell'inconscio.
+
+L'Ombra non è ciò che siamo.
+
+È ciò che rifiutiamo di essere.
+
+Per questo Jung afferma che il confronto con l'Ombra è anzitutto un problema morale.
+
+Non perché ci renda moralmente peggiori.
+
+Ma perché ci obbliga a rinunciare all'immagine rassicurante della nostra innocenza.
+
+Esiste una differenza enorme tra essere buoni e credersi incapaci di fare il male.
+
+Il primo atteggiamento richiede consapevolezza.
+
+Il secondo richiede ignoranza.
+
+L'uomo che dice: "Io non potrei mai odiare" è spesso più vicino all'odio di quanto immagini. Non lo riconosce, e proprio per questo non lo controlla.
+
+Jung osserva che le caratteristiche dell'Ombra possiedono un'autonomia sorprendente. Non sono semplici pensieri che possiamo decidere di eliminare. Si manifestano come emozioni improvvise, reazioni sproporzionate, impulsi che sembrano impadronirsi della volontà.
+
+L'ira arriva.
+
+La gelosia arriva.
+
+L'invidia arriva.
+
+L'Ego non le produce deliberatamente. Le subisce.
+
+Per questo Jung scrive che le emozioni non sono qualcosa che facciamo, ma qualcosa che ci accade.
+
+Ogni volta che perdiamo il controllo, emerge una parte della personalità meno evoluta, più antica, più istintiva. Non diventiamo qualcun altro. Diventiamo una versione di noi stessi che preferivamo ignorare.
+
+Eppure il fenomeno più affascinante descritto in questo capitolo non riguarda le emozioni.
+
+Riguarda la proiezione.
+
+La proiezione è uno dei grandi meccanismi difensivi della psiche.
+
+Ciò che non posso accettare dentro di me viene visto fuori di me.
+
+Non è una bugia consapevole.
+
+È un errore di percezione.
+
+L'uomo dominato dalla propria aggressività vede ovunque persone aggressive.
+
+Chi non riconosce la propria invidia è circondato da individui invidiosi.
+
+Chi reprime il desiderio di potere finirà per vedere soltanto uomini assetati di potere.
+
+Il mondo diventa lo schermo sul quale l'inconscio proietta il proprio volto.
+
+Per questo Jung scrive una frase straordinaria: non facciamo le proiezioni, le incontriamo.
+
+L'Ego è sinceramente convinto che il problema si trovi negli altri.
+
+Ed è proprio questa sincerità a rendere il fenomeno così difficile da riconoscere.
+
+La proiezione possiede una caratteristica devastante.
+
+Interrompe il rapporto con la realtà.
+
+Non vediamo più la persona davanti a noi.
+
+Vediamo un personaggio costruito dal nostro inconscio.
+
+L'altro diventa il contenitore delle nostre paure, delle nostre colpe, delle nostre possibilità negate.
+
+La relazione autentica scompare.
+
+Rimane soltanto il dialogo con una nostra immagine interiore.
+
+Jung paragona questo processo alla costruzione di un bozzolo.
+
+Ogni proiezione aggiunge un filo.
+
+Ogni giudizio assoluto aggiunge un altro filo.
+
+Ogni nemico immaginario rende il bozzolo più spesso.
+
+Alla fine non siamo più separati dal mondo da muri costruiti dagli altri.
+
+Siamo separati da quelli costruiti da noi stessi.
+
+È una delle intuizioni psicologiche più radicali del Novecento.
+
+L'inferno non è soltanto ciò che il mondo ci infligge.
+
+Può essere anche il mondo che la nostra psiche costruisce.
+
+Naturalmente questo non significa che il male non esista fuori di noi. Sarebbe una caricatura del pensiero junghiano. Esistono persone violente, manipolatrici e distruttive. Esistono ingiustizie reali. La proiezione non consiste nell'inventare completamente il male, ma nell'attribuirgli un'origine esclusivamente esterna, ignorando la risonanza che trova dentro di noi.
+
+La domanda allora cambia.
+
+Non è più: "Perché quella persona mi irrita?"
+
+Diventa: "Perché proprio questa caratteristica suscita in me una reazione così intensa?"
+
+Questa domanda non assolve l'altro.
+
+Responsabilizza me.
+
+È il primo passo verso l'integrazione dell'Ombra.
+
+Ma Jung avverte che esiste un limite.
+
+L'Ombra personale, per quanto difficile da riconoscere, rimane relativamente accessibile. Con sufficiente onestà possiamo arrivare ad ammettere la nostra vanità, la nostra paura, la nostra aggressività, il nostro bisogno di approvazione.
+
+Esiste però un livello più profondo.
+
+A un certo punto le proiezioni non riguardano più soltanto la nostra storia personale.
+
+Entrano in scena gli archetipi.
+
+La donna ideale.
+
+Il salvatore.
+
+Il demonio.
+
+L'eroe.
+
+La madre assoluta.
+
+Il nemico assoluto.
+
+L'Ombra personale lascia il posto a forze più antiche e universali.
+
+È il passaggio che prepara il capitolo successivo, dedicato all'Anima e all'Animus.
+
+Prima, però, Jung conclude con una frase che rappresenta forse il cuore dell'intero capitolo.
+
+Scrive che è relativamente possibile riconoscere la parte malvagia della propria natura.
+
+Molto più raro è guardare in faccia il male assoluto.
+
+Questa espressione non indica semplicemente una maggiore quantità di cattiveria.
+
+Indica la scoperta che il potenziale del male appartiene anche all'essere umano ordinario.
+
+Non soltanto ai criminali.
+
+Non soltanto ai dittatori.
+
+Non soltanto ai mostri della storia.
+
+Anche a noi.
+
+È probabilmente questa la lezione più difficile da accettare.
+
+L'Ombra non ci rende malvagi.
+
+Ci rende umani.
+
+Solo chi riconosce la propria capacità di distruggere può scegliere consapevolmente di costruire.
+
+Solo chi sa di poter odiare può comprendere il valore dell'amore.
+
+Solo chi smette di considerarsi innocente può diventare veramente responsabile.
+
+L'integrazione dell'Ombra non consiste nel darle il comando.
+
+Consiste nel farle perdere il potere che deriva dall'essere invisibile.
+
+Quando l'Ombra viene riconosciuta, non scompare.
+
+Ma smette di governare nell'oscurità.
+
+E forse è proprio questa la definizione più semplice della maturità secondo Jung: non diventare esseri perfetti, ma diventare persone sufficientemente oneste da non scambiare più la propria immagine per la propria realtà.
+
+[↑ Torna all'indice](#top)
+
