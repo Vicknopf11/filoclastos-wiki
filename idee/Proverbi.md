@@ -1,5 +1,5 @@
 ---
-title: "Idee e commenti ispirati dal libro Bibbia "Proverbi" "
+title: "Idee e commenti ispirati dal libro Bibbia Proverbi"
 categoria: idee
 sommario: "Basato sul libro Proverbi della Bibbia"
 ---
