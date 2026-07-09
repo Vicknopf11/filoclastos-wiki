@@ -1,5 +1,5 @@
 ---
-title: "Prima di Credere"
+title: "Idee e commenti ispirati dal libro Bibbia "Proverbi" "
 categoria: idee
 sommario: "Basato sul libro Proverbi della Bibbia"
 ---
@@ -9,8 +9,7 @@ sommario: "Basato sul libro Proverbi della Bibbia"
 # Prima di Credere
 ## Un esperimento di vita ispirato ai Proverbi
 > **Veritas Experimento Probatur**
->
-> *La verità si prova con l'esperienza.*
+> * *La verità si prova con l'esperienza.* *
 ---
 
 Un percorso capitolo per capitolo attraverso il Libro dei Proverbi.
