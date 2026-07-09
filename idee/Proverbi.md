@@ -69,11 +69,11 @@ Ma perché sarà interessante scoprire che qualcuno aveva già osservato quel fe
 
 Alla fine di ogni capitolo non chiederti:
 
-> "Ci credo?"
+>* *"Ci credo?"* *
 
 Chiediti invece:
 
-> "Che cosa ho imparato vivendo questo principio?"
+> * *"Che cosa ho imparato vivendo questo principio?"* *
 
 Perché questo libro non vuole cambiare le tue idee.
 
@@ -135,7 +135,7 @@ Ogni capitolo seguirà lo stesso metodo.
 
 Questo metodo ha un solo criterio.
 
-**Veritas Experimento Probatur.**
+* *Veritas Experimento Probatur.* *
 
 La verità si prova con l'esperienza.
 
@@ -146,14 +146,13 @@ La verità si prova con l'esperienza.
 
 ## La prima scelta: imparare oppure avere già ragione
 
-> **Idea chiave**
->
+> * *Idea chiave* *
 > La differenza tra una persona che cresce e una che rimane sempre uguale non è l'intelligenza.
 > È la disponibilità ad imparare.
 
 ---
 
-# 1. Il problema umano
+### 1. Il problema umano
 
 Immagina due persone.
 
@@ -195,7 +194,7 @@ La vera battaglia della sapienza non è contro l'ignoranza.
 
 ---
 
-# 2. L'ipotesi dei Proverbi
+### 2. L'ipotesi dei Proverbi
 
 Il primo capitolo dei Proverbi propone un'idea semplice ma radicale.
 
@@ -221,11 +220,11 @@ Il problema non è la mancanza di intelligenza.
 
 L'ipotesi che metteremo alla prova questa settimana è quindi la seguente.
 
-> **Le persone che rimangono apprendisti per tutta la vita crescono più di quelle che cercano continuamente di dimostrare il proprio valore.**
+> * *Le persone che rimangono apprendisti per tutta la vita crescono più di quelle che cercano continuamente di dimostrare il proprio valore.* *
 
 ---
 
-# 3. Cosa sappiamo oggi
+### 3. Cosa sappiamo oggi
 
 La psicologia moderna offre diversi elementi che supportano questa intuizione.
 
@@ -239,11 +238,11 @@ Queste ricerche non dimostrano il contenuto teologico dei Proverbi.
 
 Mostrano però una forte convergenza su un punto: **l'umiltà intellettuale favorisce l'apprendimento**.
 
-**Livello di evidenza:** forte consenso nella psicologia dell'apprendimento e della metacognizione.
+* *Livello di evidenza:** forte consenso nella psicologia dell'apprendimento e della metacognizione.* *
 
 ---
 
-# 4. Regole pratiche
+### 4. Regole pratiche
 
 Per questa settimana prova a vivere secondo cinque semplici regole.
 
@@ -259,13 +258,13 @@ Cerca di diventarlo.
 
 ---
 
-# 5. Esperimento di sette giorni
+### 5. Esperimento di sette giorni
 
-## Obiettivo
+### Obiettivo
 
 Allenare l'umiltà intellettuale.
 
-## Ogni mattina
+### Ogni mattina
 
 Ripeti lentamente:
 
@@ -273,7 +272,7 @@ Ripeti lentamente:
 >
 > Oggi posso imparare qualcosa da chiunque.
 
-## Durante la giornata
+### Durante la giornata
 
 Ogni volta che senti il bisogno di dimostrare di avere ragione, fermati.
 
@@ -283,7 +282,7 @@ Domandati:
 
 > Sto cercando la verità o sto difendendo il mio ego?
 
-## Ogni sera
+### Ogni sera
 
 Scrivi tre cose.
 
@@ -293,7 +292,7 @@ Scrivi tre cose.
 
 ---
 
-# 6. Domande di riflessione
+### 6. Domande di riflessione
 
 Quali persone ascolto con sincerità?
 
@@ -307,7 +306,7 @@ Preferisco avere ragione o migliorare?
 
 ---
 
-# 7. Testo originale
+### 7. Testo originale
 
 > "Ascolti il saggio e aumenterà il sapere,
 > e l'uomo accorto acquisterà il dono del consiglio."
@@ -321,7 +320,7 @@ Preferisco avere ragione o migliorare?
 
 ---
 
-# 8. Conclusioni
+### 8. Conclusioni
 
 L'intelligenza ci permette di risolvere problemi.
 
@@ -343,8 +342,7 @@ Solo dopo decidi se questo principio funziona davvero.
 
 ---
 
-> **Veritas Experimento Probatur**
->
+> * *Veritas Experimento Probatur* *
 > *La verità si prova con l'esperienza.*
 
 [↑ Torna all'indice](#top)
