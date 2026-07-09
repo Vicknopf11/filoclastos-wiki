@@ -220,7 +220,7 @@ Il problema non è la mancanza di intelligenza.
 
 L'ipotesi che metteremo alla prova questa settimana è quindi la seguente.
 
-> * *Le persone che rimangono apprendisti per tutta la vita crescono più di quelle che cercano continuamente di dimostrare il proprio valore.* *
+> Le persone che rimangono apprendisti per tutta la vita crescono più di quelle che cercano continuamente di dimostrare il proprio valore.* 
 
 ---
 
@@ -238,7 +238,7 @@ Queste ricerche non dimostrano il contenuto teologico dei Proverbi.
 
 Mostrano però una forte convergenza su un punto: **l'umiltà intellettuale favorisce l'apprendimento**.
 
-* *Livello di evidenza:** forte consenso nella psicologia dell'apprendimento e della metacognizione.* *
+***Livello di evidenza:*** *forte consenso nella psicologia dell'apprendimento e della metacognizione.*
 
 ---
 
