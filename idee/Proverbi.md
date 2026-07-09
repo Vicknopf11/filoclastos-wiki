@@ -8,8 +8,9 @@ sommario: "Basato sul libro Proverbi della Bibbia"
 
 # Prima di Credere
 ## Un esperimento di vita ispirato ai Proverbi
-> **Veritas Experimento Probatur**
-> * *La verità si prova con l'esperienza.* *
+
+**Veritas Experimento Probatur**
+*La verità si prova con l'esperienza.* 
 ---
 
 Un percorso capitolo per capitolo attraverso il Libro dei Proverbi.
@@ -69,11 +70,11 @@ Ma perché sarà interessante scoprire che qualcuno aveva già osservato quel fe
 
 Alla fine di ogni capitolo non chiederti:
 
->* *"Ci credo?"* *
+>*"Ci credo?"* 
 
 Chiediti invece:
 
-> * *"Che cosa ho imparato vivendo questo principio?"* *
+>*"Che cosa ho imparato vivendo questo principio?"*
 
 Perché questo libro non vuole cambiare le tue idee.
 
@@ -135,9 +136,8 @@ Ogni capitolo seguirà lo stesso metodo.
 
 Questo metodo ha un solo criterio.
 
-* *Veritas Experimento Probatur.* *
-
-La verità si prova con l'esperienza.
+***Veritas Experimento Probatur.***  
+*La verità si prova con l'esperienza.*
 
 [↑ Torna all'indice](#top)
 
@@ -146,7 +146,7 @@ La verità si prova con l'esperienza.
 
 ## La prima scelta: imparare oppure avere già ragione
 
-> * *Idea chiave* *
+> *Idea chiave*
 > La differenza tra una persona che cresce e una che rimane sempre uguale non è l'intelligenza.
 > È la disponibilità ad imparare.
 
@@ -269,7 +269,6 @@ Allenare l'umiltà intellettuale.
 Ripeti lentamente:
 
 > Oggi potrei sbagliarmi.
->
 > Oggi posso imparare qualcosa da chiunque.
 
 ### Durante la giornata
@@ -286,9 +285,9 @@ Domandati:
 
 Scrivi tre cose.
 
-- Quale errore ho riconosciuto oggi?
-- Chi mi ha insegnato qualcosa?
-- In quale situazione ho ascoltato davvero?
+> Quale errore ho riconosciuto oggi?
+> Chi mi ha insegnato qualcosa?
+> In quale situazione ho ascoltato davvero?
 
 ---
 
@@ -308,13 +307,13 @@ Preferisco avere ragione o migliorare?
 
 ### 7. Testo originale
 
-> "Ascolti il saggio e aumenterà il sapere,
-> e l'uomo accorto acquisterà il dono del consiglio."
+> *"Ascolti il saggio e aumenterà il sapere,
+> e l'uomo accorto acquisterà il dono del consiglio."*
 >
 > *(Proverbi 1,5)*
 
-> "Il timore del Signore è il principio della scienza;
-> gli stolti disprezzano la sapienza e l'istruzione."
+> *"Il timore del Signore è il principio della scienza;
+> gli stolti disprezzano la sapienza e l'istruzione."*
 >
 > *(Proverbi 1,7)*
 
@@ -341,9 +340,6 @@ Cerca di essere quello che impara di più.
 Solo dopo decidi se questo principio funziona davvero.
 
 ---
-
-> * *Veritas Experimento Probatur* *
-> *La verità si prova con l'esperienza.*
 
 [↑ Torna all'indice](#top)
 
