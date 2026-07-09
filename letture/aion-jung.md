@@ -17,6 +17,7 @@ Commenti al testo di Jung, capitolo per capitolo.
 
 1. [Il Re che non è il Re](#cap1)
 2. [L'Ombra: il volto che rifiutiamo di riconoscere](#cap2)
+3. [L’Anima e l’Animus: l’altro che abita dentro di noi](#cap3)
 
 ---
 <a id="cap1"></a>
@@ -331,3 +332,278 @@ E forse è proprio questa la definizione più semplice della maturità secondo J
 
 [↑ Torna all'indice](#top)
 
+---
+
+<a id="cap3"></a>
+
+## L’Anima e l’Animus: l’altro che abita dentro di noi
+
+Dopo aver mostrato che l’Ego non coincide con l’intera personalità e che l’Ombra contiene tutto ciò che l’Ego rifiuta di riconoscere, Jung compie un ulteriore passo. È forse il più difficile di tutti.
+
+Ci dice che neppure l’amore è ciò che crediamo.
+
+L’uomo pensa di amare una donna.
+
+La donna pensa di amare un uomo.
+
+Ma la psiche, almeno all’inizio, vive qualcosa di diverso.
+
+Ama un’immagine.
+
+Questa è una delle intuizioni più profonde di Aion. Non perché neghi l’esistenza dell’amore autentico, ma perché ne descrive il primo grande ostacolo: la tendenza dell’essere umano a vedere nell’altro non una persona, ma il riflesso di una figura che porta già dentro di sé.
+
+Jung chiama queste figure Anima e Animus.
+
+L’Anima è l’immagine inconscia del femminile nell’uomo.
+
+L’Animus è l’immagine inconscia del maschile nella donna.
+
+Ma sarebbe un errore pensare che esse siano semplicemente il ricordo della madre o del padre. La madre e il padre sono soltanto le prime persone sulle quali questi archetipi trovano una forma concreta. Dietro di loro si nasconde qualcosa di molto più antico.
+
+L’Anima non appartiene alla biografia.
+
+Appartiene alla struttura della psiche.
+
+Per questo Jung inizia il capitolo evocando Maya, la danzatrice che tesse il velo dell’illusione. Non sceglie questo simbolo per gusto dell’esotico. Lo sceglie perché l’Anima è precisamente questo: la forza che avvolge la coscienza in una trama di immagini, desideri e significati fino a farle scambiare il simbolo per la realtà.
+
+L’illusione non consiste nel vedere qualcosa che non esiste.
+
+Consiste nel vedere una cosa reale attraverso un’immagine che appartiene a noi.
+
+Ogni uomo porta dentro di sé una donna invisibile.
+
+Ogni donna porta dentro di sé un uomo invisibile.
+
+Queste figure accompagnano tutta la vita e cercano continuamente un volto sul quale incarnarsi.
+
+Per questo gli incontri decisivi possiedono spesso un carattere numinoso. Ci sembra di conoscere una persona da sempre. Abbiamo la sensazione che il destino ci abbia finalmente condotti davanti a qualcuno che ci completa. Le emozioni sono sproporzionate rispetto al tempo trascorso insieme. L’altro appare improvvisamente unico, necessario, inevitabile.
+
+Jung non considera questa esperienza un’illusione nel senso banale del termine.
+
+È reale.
+
+Ma ciò che è reale non è ancora la persona.
+
+È l’attivazione dell’archetipo.
+
+L’altro è diventato il portatore di qualcosa che viveva già nella nostra psiche.
+
+È qui che il capitolo assume una profondità inattesa.
+
+Noi crediamo di cercare una persona.
+
+In realtà stiamo cercando una parte perduta di noi stessi.
+
+L’uomo cerca inconsciamente la propria Anima.
+
+La donna cerca inconsciamente il proprio Animus.
+
+L’errore consiste nel credere che questa parte interiore possa essere posseduta attraverso un altro essere umano.
+
+Da questa confusione nasce gran parte della sofferenza amorosa.
+
+L’innamoramento assoluto.
+
+La delusione devastante.
+
+La dipendenza affettiva.
+
+La gelosia.
+
+L’idealizzazione.
+
+La convinzione che senza quella persona la vita perda significato.
+
+Sono tutte esperienze che acquistano un senso nuovo se comprese come il tentativo della psiche di raggiungere se stessa attraverso un’altra persona.
+
+Per questo Jung dedica molte pagine alla figura della madre.
+
+Non perché voglia attribuire ogni problema alla madre reale, ma perché vede nella relazione originaria con essa il primo luogo nel quale l’Anima si manifesta.
+
+Il bambino vive immerso in un mondo che lo protegge, lo nutre e lo contiene. Non deve conquistare nulla. La vita gli viene donata.
+
+Una parte della psiche desidera che questa condizione duri per sempre.
+
+L’adulto continua allora a cercare qualcuno che lo salvi dalla fatica dell’esistenza.
+
+Qualcuno che renda il mondo nuovamente materno.
+
+Qualcuno che elimini il rischio, la solitudine e la responsabilità.
+
+È una tentazione universale.
+
+Ma è anche una forma sottile di rifiuto della vita.
+
+Per Jung diventare adulti significa accettare che il mondo non ci verrà più incontro come faceva la madre. La realtà non cade nelle nostre mani come un dono. Deve essere conquistata. Chiede coraggio, perseveranza e capacità di sopportare la frustrazione.
+
+La separazione simbolica dalla madre è dunque una nascita interiore.
+
+Non è un atto contro la madre.
+
+È un atto a favore della vita.
+
+Lo stesso principio vale per l’Animus.
+
+Anche la donna può rimanere inconsciamente legata all’immagine del padre, cercando fuori di sé quella certezza, quella direzione o quella autorità che dovrebbe maturare dentro di lei.
+
+In entrambi i casi il problema non è la madre o il padre.
+
+È la proiezione.
+
+Ed è proprio qui che Jung introduce una delle sue intuizioni più rivoluzionarie.
+
+Le persone che incontriamo sono sempre due.
+
+C’è la persona reale.
+
+E c’è quella che la nostra psiche vi sovrappone.
+
+Noi vediamo entrambe nello stesso momento.
+
+Senza rendercene conto.
+
+Quando diciamo “questa donna è la mia salvezza” oppure “quest’uomo è finalmente quello giusto”, forse stiamo parlando soltanto in parte della persona reale.
+
+L’altra parte appartiene a noi.
+
+L’amore, allora, non viene distrutto dalla psicologia.
+
+Viene purificato.
+
+Finché la proiezione domina la relazione, l’altro porta un peso impossibile.
+
+Deve essere contemporaneamente amante, madre, padre, guida, salvatore, consolatore, fonte di significato e promessa di felicità.
+
+Nessun essere umano può sostenere un compito simile.
+
+Prima o poi l’immagine si incrina.
+
+L’idolo cade.
+
+E la delusione è tanto più violenta quanto più assoluta era stata l’idealizzazione.
+
+Jung non interpreta questa crisi come il fallimento dell’amore.
+
+La considera il suo possibile inizio.
+
+Quando la proiezione comincia a ritirarsi, appare finalmente la persona.
+
+È un momento difficile.
+
+Perché significa rinunciare al sogno.
+
+Ma è anche il momento in cui nasce la possibilità di una relazione autentica.
+
+Amare una persona reale è molto più difficile che amare un archetipo.
+
+Richiede di accettarne i limiti.
+
+Le contraddizioni.
+
+La libertà.
+
+L’alterità.
+
+L’altro smette di essere il protagonista del nostro mito personale.
+
+Diventa finalmente se stesso.
+
+Questo processo non riguarda soltanto le relazioni sentimentali.
+
+Ogni volta che attribuiamo a qualcuno un valore assoluto, positivo o negativo, stiamo probabilmente incontrando un archetipo.
+
+Il maestro perfetto.
+
+Il nemico assoluto.
+
+Il capo infallibile.
+
+Il traditore definitivo.
+
+L’eroe.
+
+Il tiranno.
+
+La vittima.
+
+La strega.
+
+Il salvatore.
+
+La psiche lavora continuamente attraverso immagini.
+
+La maturità consiste nell’imparare a distinguerle dalle persone.
+
+Per questo Jung insiste sul fatto che Anima e Animus non possono essere eliminati.
+
+Non sono nevrosi.
+
+Non sono errori della natura.
+
+Sono strutture fondamentali della psiche.
+
+Possiamo renderne coscienti i contenuti.
+
+Possiamo riconoscere le nostre proiezioni.
+
+Possiamo imparare a dialogare con esse.
+
+Ma non possiamo abolirle.
+
+Rimarranno sempre al confine tra coscienza e inconscio, come mediatori tra il mondo visibile e quello invisibile.
+
+Ed è proprio questa la loro funzione più alta.
+
+Nel loro aspetto maturo, Anima e Animus non ci separano più dalla realtà.
+
+Ci conducono verso il Sé.
+
+L’Anima diventa per l’uomo una sorgente di relazione autentica, immaginazione, intuizione e profondità.
+
+L’Animus diventa per la donna una sorgente di discernimento, riflessione e parola creativa.
+
+Ciò che prima era proiettato sull’altro diventa una capacità interiore.
+
+La ricerca dell’altro si trasforma gradualmente nella ricerca di se stessi.
+
+In questo senso il terzo capitolo di Aion non è un trattato sull’amore tra uomo e donna.
+
+È un trattato sulla riconciliazione dell’essere umano con la parte perduta della propria anima.
+
+Forse ogni amore autentico attraversa inevitabilmente due fasi.
+
+Nella prima incontriamo il nostro sogno.
+
+Nella seconda incontriamo una persona.
+
+La prima è inevitabile.
+
+La seconda è una conquista.
+
+E forse soltanto allora possiamo dire di amare davvero.
+
+Perché non chiediamo più all’altro di completare ciò che manca in noi.
+
+Gli permettiamo semplicemente di essere ciò che è.
+
+Ed è proprio in quel momento che il simbolo ha compiuto il suo lavoro.
+
+Non ci ha condotti verso un’altra persona.
+
+Ci ha ricondotti a noi stessi.
+
+E, attraverso noi stessi, al Sé, quel centro silenzioso che nessuna relazione può sostituire e nessuna separazione può distruggere.
+
+Vorrei aggiungere un’osservazione che, a mio avviso, rappresenta una delle intuizioni più profonde dell’intero Aion.
+
+Nei primi tre capitoli Jung descrive tre livelli successivi di illusione:
+
+* Capitolo I: l’illusione dell’identità — “Io sono il mio Ego.”
+* Capitolo II: l’illusione morale — “Il male appartiene agli altri.”
+* Capitolo III: l’illusione relazionale — “L’altro mi completerà.”
+
+Sono tre forme dello stesso errore: attribuire all’esterno ciò che appartiene alla struttura della nostra psiche.
+
+È anche per questo che il percorso dell’individuazione non è un accumulo di conoscenze, ma un progressivo ritiro delle proiezioni. Man mano che le ritiriamo, il mondo diventa meno magico ma più reale; meno assoluto, ma più vero. E, paradossalmente, proprio allora diventano possibili sia una conoscenza più profonda di sé sia relazioni più autentiche con gli altri.
+
+[↑ Torna all'indice](#top)
