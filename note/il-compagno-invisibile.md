@@ -2,6 +2,11 @@
 title: Il Compagno Invisibile
 categoria: note
 sommario: "Sull'ombra, l'anima, e il cammino verso l'interezza."
+data: 2026-07-8
+---
+
+*8 luglio 2026*
+
 ---
 
 Ogni uomo nasce con un compagno che non ha scelto.
