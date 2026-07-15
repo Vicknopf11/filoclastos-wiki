@@ -4,6 +4,8 @@ categoria: note
 sommario: "Una fortezza, la riunificazione, e cosa lasciamo a chi verrà dopo."
 ---
 
+**Sito ufficiale della fortezza**: [fortezzacivitella.it](https://fortezzacivitella.it/)
+
 Oggi ho visitato Civitella del Tronto, la fortezza aragonese più grande d'Italia e l'ultima a
 capitolare durante il processo di riunificazione nazionale. Camminare tra quelle mura fa un
 effetto strano: sono le stesse pietre che hanno retto assedi su assedi nei secoli — nel 1557
