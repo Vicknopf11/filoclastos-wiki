@@ -2,9 +2,12 @@
 title: Civitella del Tronto
 categoria: note
 sommario: "Una fortezza, la riunificazione, e cosa lasciamo a chi verrà dopo."
+data: 2026-07-15
 ---
 
 **Sito ufficiale della fortezza**: [fortezzacivitella.it](https://fortezzacivitella.it/)
+
+*15 luglio 2026*
 
 Oggi ho visitato Civitella del Tronto, la fortezza aragonese più grande d'Italia e l'ultima a
 capitolare durante il processo di riunificazione nazionale. Camminare tra quelle mura fa un
