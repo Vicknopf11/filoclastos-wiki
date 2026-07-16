@@ -6,9 +6,9 @@ sommario: "Basato sul libro Proverbi della Bibbia"
 
 <a id="top"></a>
 
-#Veritas Experimento Probatur
-
-##La verità si prova con l'esperienza
+> **Veritas Experimento Probatur**
+>
+> *La verità si prova con l'esperienza.*
 
 ---
 
@@ -17,6 +17,7 @@ Un percorso capitolo per capitolo attraverso il Libro dei Proverbi.
 1. [Manifesto](#cap1)
 2. [Introduzione](#cap2)
 3. [Proverbi 1: imparare oppure avere già ragione](#cap3)
+4. [Proverbi 2: imparare oppure avere già ragione](#cap4)
 
 ---
 <a id="cap1"></a>
@@ -343,3 +344,218 @@ Solo dopo decidi se questo principio funziona davvero.
 [↑ Torna all'indice](#top)
 
 ---
+<a id="cap4"></a>
+
+# Proverbi 2: costruire un carattere che sappia scegliere
+
+> **Idea chiave**
+>
+> La sapienza non cambia il mondo intorno a te.
+> Cambia il modo in cui lo guardi.
+
+---
+
+# 1. Il problema umano
+
+Quasi tutti sanno distinguere il bene dal male.
+
+Eppure continuiamo a prendere decisioni che sappiamo essere sbagliate.
+
+Perché?
+
+Perché conoscere una regola non significa averla trasformata in carattere.
+
+Possiamo sapere che fumare fa male.
+
+Possiamo sapere che dovremmo allenarci.
+
+Possiamo sapere che mentire distrugge la fiducia.
+
+Possiamo sapere che dovremmo evitare certe persone.
+
+Eppure spesso facciamo il contrario.
+
+Il problema non è la mancanza di informazioni.
+
+Il problema è che le informazioni rimangono nella mente senza scendere nel cuore.
+
+La domanda di questo capitolo è semplice.
+
+**Come si trasforma una buona idea in una parte della propria personalità?**
+
+---
+
+# 2. L'ipotesi dei Proverbi
+
+Il secondo capitolo dei Proverbi propone una risposta sorprendente.
+
+La sapienza non si riceve passivamente.
+
+Va cercata.
+
+Con lo stesso impegno con cui si cerca un tesoro.
+
+Solo allora essa entra nel cuore.
+
+Ed è proprio questo il passaggio decisivo.
+
+Quando la sapienza entra nel cuore, non diventa semplicemente qualcosa che conosci.
+
+Diventa qualcosa che sei.
+
+Da quel momento sarà la riflessione stessa a custodirti.
+
+Non dovrai ricordarti continuamente cosa è giusto.
+
+Sarai diventato il tipo di persona che riconosce spontaneamente ciò che conduce alla vita e ciò che conduce alla distruzione.
+
+L'ipotesi di questo capitolo è quindi la seguente.
+
+> **La vera libertà nasce quando il bene diventa un'abitudine del carattere e non uno sforzo della volontà.**
+
+---
+
+# 3. Cosa sappiamo oggi
+
+Le neuroscienze mostrano che il cervello cambia continuamente attraverso l'esperienza.
+
+Questo fenomeno prende il nome di **neuroplasticità**.
+
+Le azioni ripetute tendono a rafforzare determinati circuiti neurali, rendendo alcuni comportamenti sempre più spontanei.
+
+La psicologia delle abitudini suggerisce che molte decisioni quotidiane non sono il risultato di un ragionamento consapevole, ma di schemi consolidati nel tempo.
+
+Anche Aristotele aveva intuito qualcosa di simile.
+
+Per lui il carattere nasce dalla ripetizione delle azioni.
+
+Non diventiamo giusti perché conosciamo la giustizia.
+
+Diventiamo giusti compiendo atti giusti.
+
+In termini moderni potremmo dire che il carattere è una collezione di abitudini interiorizzate.
+
+La sapienza dei Proverbi sembra descrivere proprio questo processo.
+
+La conoscenza entra lentamente nel cuore fino a diventare parte della nostra identità.
+
+**Livello di evidenza:** forte consenso sull'esistenza della neuroplasticità e sul ruolo delle abitudini nello sviluppo del comportamento. Più discussa è l'idea che questo processo conduca necessariamente a una "vita buona", che rimane una questione filosofica ed etica.
+
+---
+
+# 4. Regole pratiche
+
+Per questa settimana non cercare di cambiare tutta la tua vita.
+
+Scegli un solo principio.
+
+Ripetilo ogni giorno.
+
+Ripeti anche il comportamento che lo rappresenta.
+
+Ricorda che il carattere si costruisce molto più lentamente delle opinioni.
+
+Ogni giorno:
+
+- scegli un comportamento che desideri rendere parte della tua identità;
+- ripetilo anche quando non ne hai voglia;
+- evita di dire "sono fatto così";
+- sostituisci questa frase con: "mi sto allenando a diventare così";
+- dedica almeno dieci minuti allo studio di qualcosa che possa renderti una persona migliore.
+
+---
+
+# 5. Esperimento di sette giorni
+
+## Obiettivo
+
+Costruire una piccola abitudine di sapienza.
+
+### Giorno 1
+
+Scegli una sola qualità che desideri sviluppare.
+
+Ad esempio:
+
+- pazienza;
+- sincerità;
+- disciplina;
+- ascolto;
+- prudenza.
+
+### Giorni 2-7
+
+Ogni mattina chiediti:
+
+> Quale occasione avrò oggi per allenare questa qualità?
+
+Ogni sera scrivi:
+
+- Quando ci sono riuscito?
+- Quando ho fallito?
+- Che cosa ho imparato?
+
+Non giudicarti.
+
+Osservati.
+
+---
+
+# 6. Domande di riflessione
+
+Quale tipo di persona sto lentamente diventando?
+
+Quali abitudini stanno costruendo il mio carattere?
+
+Quali persone influenzano maggiormente il mio modo di pensare?
+
+Che cosa considero oggi prezioso?
+
+Dedico alla mia crescita interiore lo stesso impegno che dedico al lavoro o al denaro?
+
+---
+
+# 7. Testo originale
+
+> "Se la cercherai come l'argento
+> e per essa scaverai come per i tesori,
+> allora comprenderai il timore del Signore."
+>
+> *(Proverbi 2,4-5)*
+
+> "La sapienza entrerà nel tuo cuore
+> e la scienza delizierà il tuo animo.
+>
+> La riflessione ti custodirà
+> e l'intelligenza veglierà su di te."
+>
+> *(Proverbi 2,10-11)*
+
+---
+
+# 8. Conclusioni
+
+Esiste una grande differenza tra conoscere il bene e amare il bene.
+
+La conoscenza può essere dimenticata.
+
+Il carattere rimane.
+
+Per questo motivo i Proverbi non ci invitano semplicemente a imparare qualcosa.
+
+Ci invitano a diventare qualcuno.
+
+La sapienza non è un'informazione da possedere.
+
+È una persona che stai lentamente costruendo.
+
+Per una settimana non domandarti quante cose nuove hai imparato.
+
+Domandati invece:
+
+**Chi sto diventando?**
+
+---
+
+[↑ Torna all'indice](#top)
+
