@@ -15,14 +15,15 @@ sommario: "Commenti capitolo per capitolo ad Aion di C.G. Jung."
 
 Commenti al testo di Jung, capitolo per capitolo.
 
-1. [Il Re che non è il Re](#cap1)
-2. [L'Ombra: il volto che rifiutiamo di riconoscere](#cap2)
-3. [L’Anima e l’Animus: l’altro che abita dentro di noi](#cap3)
+1. [L'Io. Il Re che non è il Re](#cap1)
+2. [L'Ombra. Il volto che rifiutiamo di riconoscere](#cap2)
+3. [L’Anima e l’Animus. L’altro che abita dentro di noi](#cap3)
+4. [Il Sè. Il centro che non ci appartiene](#cap4)
 
 ---
 <a id="cap1"></a>
 
-## Il Re che non è il Re
+## L'Io. Il Re che non è il Re
 
 Ogni essere umano attraversa la vita con una certezza quasi indiscutibile: quella voce che dice “io” siamo noi.
 
@@ -146,7 +147,7 @@ Cammina come un pellegrino che ha finalmente scoperto che la strada non gli appa
 
 <a id="cap2"></a>
 
-## L'Ombra: il volto che rifiutiamo di riconoscere
+## L'Ombra. Il volto che rifiutiamo di riconoscere
 
 Se il primo capitolo di Aion ridimensiona il trono dell'Ego, il secondo lo costringe a guardarsi allo specchio.
 
@@ -336,7 +337,7 @@ E forse è proprio questa la definizione più semplice della maturità secondo J
 
 <a id="cap3"></a>
 
-## L’Anima e l’Animus: l’altro che abita dentro di noi
+## L’Anima e l’Animus. L’altro che abita dentro di noi
 
 Dopo aver mostrato che l’Ego non coincide con l’intera personalità e che l’Ombra contiene tutto ciò che l’Ego rifiuta di riconoscere, Jung compie un ulteriore passo. È forse il più difficile di tutti.
 
@@ -605,5 +606,488 @@ Nei primi tre capitoli Jung descrive tre livelli successivi di illusione:
 Sono tre forme dello stesso errore: attribuire all’esterno ciò che appartiene alla struttura della nostra psiche.
 
 È anche per questo che il percorso dell’individuazione non è un accumulo di conoscenze, ma un progressivo ritiro delle proiezioni. Man mano che le ritiriamo, il mondo diventa meno magico ma più reale; meno assoluto, ma più vero. E, paradossalmente, proprio allora diventano possibili sia una conoscenza più profonda di sé sia relazioni più autentiche con gli altri.
+
+[↑ Torna all'indice](#top)
+
+---
+<a id="cap4"></a>
+
+##Il Sè. Il centro che non ci appartiene
+
+Dopo aver ridimensionato l’Ego, mostrato l’Ombra e smascherato le proiezioni di Anima e Animus, Jung arriva al punto più delicato del percorso.
+
+Il Sé.
+
+A prima vista potrebbe sembrare il coronamento naturale dell’intero cammino. Dopo aver ritirato le proiezioni, riconosciuto il lato oscuro della personalità e incontrato le figure dell’inconscio, l’individuo dovrebbe finalmente diventare più completo, più consapevole, più vicino alla propria totalità.
+
+Ed è vero.
+
+Ma proprio qui nasce il pericolo più sottile.
+
+L’Io può scambiare l’ampliamento della coscienza per una propria espansione. Può credere che, avendo incontrato qualcosa di più grande, sia diventato esso stesso più grande. Può confondere la vicinanza al Sé con il possesso del Sé.
+
+Jung chiama questo fenomeno inflazione.
+
+L’inflazione non coincide necessariamente con la vanità visibile. Non sempre assume la forma dell’uomo che si proclama superiore agli altri. Può nascondersi dietro l’umiltà, la spiritualità, la profondità psicologica e perfino dietro il linguaggio della trasformazione.
+
+L’individuo può dire di avere compreso la propria Ombra, di aver integrato l’Anima, di essere entrato in contatto con il Sé. Può convincersi che le proprie intuizioni provengano da una fonte più alta, che il proprio destino possieda un significato eccezionale, che il suo sguardo sia ormai libero dalle illusioni nelle quali vivono gli altri.
+
+In realtà, non ha superato l’Ego.
+
+Lo ha semplicemente rivestito di simboli più grandi.
+
+È questo il paradosso centrale del quarto capitolo di Aion: la conoscenza dell’inconscio può produrre maggiore consapevolezza, ma può anche rendere l’Io più cieco.
+
+Più numerosi sono i contenuti inconsci assimilati, più l’Io si avvicina al Sé. Ma questa vicinanza non deve mai diventare identificazione.
+
+Il Sé non è una conquista.
+
+Non è un possesso.
+
+Non è un titolo spirituale.
+
+È la totalità della personalità, cosciente e inconscia, e proprio per questo eccede sempre la capacità dell’Io di comprenderla.
+
+L’Io appartiene al Sé.
+
+Il Sé non appartiene all’Io.
+
+Quando questa distinzione si perde, possono avvenire due catastrofi opposte.
+
+Nella prima, l’Io viene assorbito dall’inconscio.
+
+L’individuo comincia a vivere dentro una realtà mitologica. Si sente scelto, ispirato, perseguitato, investito di una missione. Il mondo concreto perde peso. Gli obblighi quotidiani, le responsabilità, i limiti e le relazioni sembrano dettagli insignificanti di fronte alla grandezza dell’esperienza interiore.
+
+L’archetipo prende il posto della persona.
+
+L’uomo non ha più una visione.
+
+È posseduto dalla visione.
+
+Il confine tra intuizione e delirio, tra vocazione e grandiosità, tra profondità e perdita della realtà può allora diventare estremamente sottile.
+
+Per Jung questa è una vera catastrofe psichica.
+
+L’Io, separato dal mondo concreto, cade sotto il dominio di forze che non comprende. Vive in uno spazio senza misura, in un tempo che non è più quello della vita ordinaria. Tutto diventa assoluto, necessario, cosmico.
+
+Ma un essere umano non può vivere a lungo come un dio.
+
+Prima o poi la realtà presenta il conto.
+
+La seconda catastrofe è l’opposto della prima.
+
+Qui non è l’Io a essere assorbito dal Sé.
+
+È il Sé a essere ridotto all’Io.
+
+L’individuo considera sogni, simboli, archetipi e impulsi profondi come semplici prodotti soggettivi. Li tratta come fantasie prive di autonomia, come materiali che la ragione può classificare, spiegare e infine archiviare.
+
+Crede che tutto ciò che appartiene alla psiche possa essere ridotto a un concetto.
+
+Ma anche questa è inflazione.
+
+L’Io si proclama misura di ciò che esiste.
+
+Ciò che non comprende viene svalutato. Ciò che non controlla viene dichiarato irreale. L’inconscio viene psicologizzato fino a perdere ogni peso.
+
+Le due forme sembrano opposte, ma producono lo stesso risultato.
+
+Nel primo caso l’Io dice:
+
+“Sono il Sé.”
+
+Nel secondo dice:
+
+“Il Sé è soltanto una mia idea.”
+
+In entrambi i casi l’Io occupa il centro.
+
+Jung cerca una posizione diversa.
+
+L’Io deve riconoscere la realtà dell’inconscio senza identificarsi con essa.
+
+Deve prendere sul serio le sue immagini senza obbedire loro ciecamente.
+
+Deve ascoltare l’Anima, l’Animus, l’Ombra e il Sé, ma senza considerarli infallibili.
+
+Il compito non è né sottomettersi né dominare.
+
+È stabilire una relazione.
+
+Per questo Jung insiste sull’importanza dell’adattamento alla realtà.
+
+L’Io deve restare ancorato al mondo cosciente attraverso attenzione, disciplina, pazienza, responsabilità e autocritica.
+
+Non si tratta di virtù borghesi contrapposte alla profondità spirituale.
+
+Sono protezioni contro la possessione.
+
+Chi entra in contatto con l’inconscio senza una sufficiente solidità può perdersi. La profondità non sostituisce la precisione. Il simbolo non elimina il dovere. La vita interiore non assolve dalla realtà.
+
+Un uomo può parlare del Sé e continuare a non pagare i propri debiti.
+
+Può interpretare sogni e ignorare le reazioni delle persone vicine.
+
+Può proclamare una trasformazione profonda mentre diventa sempre meno capace di ascoltare una critica.
+
+Per Jung, uno dei segnali più chiari dell’inflazione è proprio questo: la crescente incapacità di prendere sul serio le risposte dell’ambiente.
+
+L’individuo non vede più come viene percepito.
+
+Non ascolta.
+
+Non si lascia correggere.
+
+L’esperienza interiore è diventata uno scudo.
+
+Ma anche la posizione opposta presenta un pericolo.
+
+Una coscienza troppo adattata, troppo efficiente, troppo disciplinata può soffocare la vita inconscia.
+
+La persona può essere responsabile, affidabile, produttiva e moralmente irreprensibile, e tuttavia vivere in modo profondamente unilaterale.
+
+In questo caso non ha bisogno di più disciplina.
+
+Ha bisogno di una sconfitta.
+
+Jung parla di una sconfitta morale.
+
+È una formula dura e facilmente fraintendibile.
+
+Non significa abbandonare la moralità. Significa riconoscere che perfino le virtù possono diventare strumenti di difesa.
+
+La disciplina può nascondere la paura.
+
+La responsabilità può diventare controllo.
+
+La fedeltà può diventare incapacità di separarsi.
+
+La forza può essere rifiuto della vulnerabilità.
+
+Il dovere può diventare fuga dalla vocazione.
+
+La razionalità può diventare terrore dell’inconscio.
+
+Ogni qualità, quando diventa assoluta, si trasforma nel proprio contrario.
+
+Per questo il cammino non è uguale per tutti.
+
+L’uomo disordinato deve imparare la disciplina.
+
+L’uomo eccessivamente disciplinato deve imparare a lasciare spazio a ciò che non controlla.
+
+La persona fragile deve rafforzare l’Io.
+
+La persona troppo identificata con l’Io deve imparare a perderne il primato.
+
+Il Sé non ci conduce sempre verso ciò che consideriamo migliore.
+
+Spesso ci conduce verso ciò che ci manca.
+
+Ed è qui che nasce il vero problema morale.
+
+Jung afferma che i problemi morali autentici iniziano dove finisce il codice.
+
+Finché una legge o un comandamento ci dicono chiaramente che cosa fare, la decisione può essere difficile, ma non è ancora radicale.
+
+Il conflitto vero nasce quando due doveri legittimi si oppongono.
+
+La fedeltà può entrare in conflitto con la verità.
+
+La responsabilità verso gli altri con la fedeltà a se stessi.
+
+La stabilità con la trasformazione.
+
+La sicurezza con la vocazione.
+
+La pietà con la giustizia.
+
+In questi casi non esiste una scelta innocente.
+
+Qualunque decisione comporta una perdita.
+
+Non si tratta più di scegliere il bene contro il male, ma di sostenere la colpa inevitabile che nasce quando due beni non possono essere salvati insieme.
+
+È allora che può emergere un’autorità interiore.
+
+Jung la chiama, a seconda del linguaggio utilizzato, istinto, forza naturale, destino o volontà di Dio.
+
+Non sta affermando che ogni impulso sia divino.
+
+Sta dicendo che alcune forze psichiche possiedono un carattere di necessità che l’Io non ha creato e che non può semplicemente cancellare.
+
+Si presentano come qualcosa che accade.
+
+Una vocazione.
+
+Un sogno insistente.
+
+Una crisi.
+
+Un desiderio che ritorna.
+
+Una rottura inevitabile.
+
+Una sofferenza che costringe a cambiare.
+
+L’uomo moderno preferisce pensare di decidere tutto razionalmente. Non sopporta facilmente l’idea di essere mosso da forze che non controlla. Per questo, dopo aver agito, tende a riscrivere la storia della propria decisione.
+
+Dice di aver scelto liberamente.
+
+Dice di aver valutato ogni cosa.
+
+Dice di aver esercitato volontà.
+
+Ma spesso la decisione era già maturata nelle profondità della psiche, e la coscienza si è limitata a costruirne una giustificazione.
+
+Jung non nega la libertà.
+
+Sostiene che la libertà convive con la necessità.
+
+L’uomo è mosso da forze che non ha scelto, ma rimane responsabile del modo in cui risponde.
+
+Il daimon indica una direzione.
+
+Non assolve dalle conseguenze.
+
+Per questo il rapporto con il Sé non è un’esperienza di obbedienza passiva. Richiede discernimento. L’impulso deve essere ascoltato, ma anche valutato. Deve essere riconosciuto nella sua potenza, ma non elevato automaticamente a verità morale.
+
+L’Io non è sovrano.
+
+Ma nemmeno il primo contenuto inconscio che emerge lo è.
+
+La relazione con il Sé richiede una tensione continua tra ascolto e responsabilità.
+
+A questo punto Jung introduce una critica ancora più radicale.
+
+L’intelletto non basta.
+
+Possiamo comprendere perfettamente le parole “Ego”, “Ombra”, “Anima”, “Animus”, “Sé”, “mandala” e “individuazione”, e tuttavia non aver compreso nulla di reale.
+
+Il concetto è soltanto un nome.
+
+Non è l’esperienza.
+
+Sapere che cosa sia il dolore non significa aver sofferto.
+
+Conoscere la definizione dell’Ombra non significa aver riconosciuto la propria capacità di ferire.
+
+Parlare del Sé non significa aver subito il decentramento dell’Io.
+
+L’intelletto ha una capacità seduttiva. Nomina le cose e poi crede di possederle.
+
+Trasforma la realtà in formule leggere, maneggevoli, prive di peso. Le parole passano facilmente da una persona all’altra. Possono essere ripetute, discusse, insegnate.
+
+Ma non impegnano necessariamente chi le pronuncia.
+
+Jung insiste perciò sul valore del sentimento.
+
+Ogni contenuto psichico possiede un tono affettivo. Il sentimento indica quanto quel contenuto ci riguarda, quanto potere esercita, quale posto occupa nella gerarchia della psiche.
+
+Non basta capire intellettualmente una verità.
+
+Bisogna sentirne il peso.
+
+La differenza è la stessa che passa tra leggere la descrizione di una malattia e ammalarsi.
+
+Nel primo caso conosciamo le parole.
+
+Nel secondo conosciamo la realtà.
+
+La psicologia, secondo Jung, non può essere posseduta dall’esterno.
+
+Ciò che non è stato attraversato rimane teoria.
+
+Questa gerarchia affettiva conduce dall’Ego all’Ombra, dall’Ombra ad Anima e Animus, e infine al Sé.
+
+Quanto più un contenuto è lontano dalla coscienza, tanto maggiore può essere la sua forza numinosa.
+
+L’Ombra appare minacciosa, ma ancora relativamente personale.
+
+Anima e Animus affascinano, seducono, feriscono, avvolgono.
+
+Il Sé si presenta con il carattere della totalità.
+
+Può essere vissuto come centro, ordine, destino, presenza divina.
+
+È qui che compare il mandala.
+
+Il cerchio, il quadrato, la quaternità, il punto centrale.
+
+Queste immagini emergono spesso nei sogni durante periodi di crisi e disorientamento. La psiche sembra produrre spontaneamente un simbolo d’ordine quando la coscienza non riesce più a orientarsi.
+
+Il mandala non è semplicemente un’immagine decorativa.
+
+È il tentativo della psiche di trasformare il caos in cosmo.
+
+Rappresenta una totalità ancora incompleta, ma possibile.
+
+Un centro che non coincide con l’Io.
+
+Un ordine che l’Io non ha inventato.
+
+Per Jung, questo dimostra che il Sé non è soltanto un concetto astratto. La psiche anticipa la propria totalità attraverso simboli autonomi.
+
+Essa sembra conoscere una forma che la coscienza non possiede ancora.
+
+Ma anche qui ritorna il pericolo dell’intellettualizzazione.
+
+È facile imparare che il mandala rappresenta il Sé.
+
+È facile riconoscere cerchi e quaternità nei sogni.
+
+È facile parlare del “Dio interiore”.
+
+Molto più difficile è sostenere il processo reale attraverso il quale la psiche si riorganizza.
+
+Il simbolo non è una scorciatoia.
+
+È una richiesta.
+
+Non basta pronunciarne il nome.
+
+Il nome non possiede la cosa.
+
+È a questo punto che il Sé si avvicina all’immagine di Dio.
+
+Jung non dice semplicemente che il Sé sia Dio.
+
+La sua posizione è più precisa e più ambigua.
+
+Dal punto di vista psicologico, i simboli della totalità e quelli della divinità risultano spesso indistinguibili.
+
+Il centro, il cerchio, la pietra, il bambino divino, Cristo, l’unione degli opposti: tutte queste immagini possono rappresentare sia il Sé sia l’imago Dei.
+
+La psicologia può descrivere l’esperienza.
+
+Non può dimostrare che l’oggetto metafisico esista.
+
+Ma non può neppure liquidare l’esperienza come irreale.
+
+Il problema della religione moderna nasce proprio qui.
+
+Le grandi immagini religiose possono continuare a esistere come formule, mentre cessano di vivere nella psiche.
+
+L’uomo sente dire che Cristo lo ha redento, ma non si sente redento.
+
+Conosce la dottrina della resurrezione, ma non ha mai sperimentato la morte di una propria identità.
+
+Ripete il linguaggio della Trinità, dell’incarnazione, dell’eucaristia, ma non sa più quale rapporto abbiano queste immagini con la propria esistenza.
+
+Il simbolo sopravvive.
+
+L’esperienza scompare.
+
+Quando ciò accade, la religione non viene necessariamente rifiutata.
+
+Può essere difesa con ancora maggiore rigidità.
+
+Più l’idea diventa vuota, più l’individuo vi si aggrappa.
+
+Ma un simbolo morto non contiene più le energie della psiche.
+
+Le energie cercano allora altre forme.
+
+È questo il senso della conclusione storica del capitolo.
+
+L’Europa moderna aveva creduto di aver superato il mito.
+
+Si considerava razionale, scientifica, illuminata.
+
+Poi, nel Novecento, gli dèi tornarono.
+
+Non nelle chiese.
+
+Nelle ideologie.
+
+Il capo divenne salvatore.
+
+La razza divenne destino.
+
+La nazione divenne corpo mistico.
+
+Il nemico divenne demonio.
+
+La politica si trasformò in escatologia.
+
+Jung vede nel nazismo il ritorno patologico di un mondo archetipico che la coscienza europea credeva di aver abolito.
+
+Il mito non era scomparso.
+
+Era diventato inconscio.
+
+E proprio per questo aveva acquisito una forza devastante.
+
+Una cultura che non riconosce i propri simboli non diventa libera da essi.
+
+Ne diventa posseduta.
+
+Questa è forse la lezione politica più profonda del capitolo.
+
+L’uomo non smette di essere religioso eliminando il linguaggio religioso.
+
+Può trasferire la propria esigenza di assoluto nella politica, nella nazione, nella razza, nella rivoluzione, nella tecnologia, nel mercato o nel progresso.
+
+Il simbolo cambia oggetto.
+
+La struttura psichica rimane.
+
+Per questo Jung conclude con una diagnosi severa dello spirito postcristiano.
+
+Non perché rimpianga semplicemente il passato.
+
+Ma perché vede una civiltà che ha perso la capacità di riconoscere le forze che la muovono.
+
+La ragione ha demolito molti simboli, ma non ha eliminato il bisogno di significato.
+
+La religione ha conservato molte formule, ma spesso non sa più tradurle in esperienza.
+
+Tra una ragione senza profondità e una fede senza vita, l’inconscio collettivo cerca nuove forme.
+
+E non sempre le forme che trova sono benevole.
+
+Il quarto capitolo di Aion non celebra dunque il Sé.
+
+Mette in guardia dal suo potere.
+
+Il Sé è il centro della totalità, ma non è proprietà dell’Io.
+
+È ordine, ma può apparire attraverso il caos.
+
+È immagine di Dio, ma può essere confuso con la grandiosità personale.
+
+È guida, ma non elimina il conflitto.
+
+È totalità, ma non innocenza.
+
+Il cammino verso il Sé non rende l’uomo onnipotente.
+
+Lo rende più consapevole della propria parzialità.
+
+L’Io deve essere abbastanza forte da non dissolversi nell’inconscio.
+
+Ma anche abbastanza umile da non proclamarsi padrone della psiche.
+
+Deve agire nel mondo e ascoltare il sogno.
+
+Deve esercitare la volontà e accettarne i limiti.
+
+Deve prendere sul serio il simbolo senza trasformarlo in dogma.
+
+Deve riconoscere il daimon senza cedere la propria responsabilità.
+
+Questa è la posizione difficile richiesta dall’individuazione.
+
+Non stare al centro.
+
+Ma vivere in relazione con il centro.
+
+Il Sé non è il trono sul quale l’Ego finalmente si siede.
+
+È il centro che costringe l’Ego ad abbandonare il trono.
+
+E forse la maturità comincia proprio quando l’uomo comprende che la propria vita possiede un ordine che non ha creato, un significato che non può interamente formulare e una profondità che non gli sarà mai possibile possedere.
+
+Può soltanto servirla.
 
 [↑ Torna all'indice](#top)
