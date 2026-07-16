@@ -1,13 +1,10 @@
 ---
-title: "Idee e commenti ispirati dal libro Bibbia Proverbi"
+title: "Un esperimento di vita ispirato ai Proverbi"
 categoria: idee
 sommario: "Basato sul libro Proverbi della Bibbia"
 ---
 
 <a id="top"></a>
-
-# Prima di Credere
-## Un esperimento di vita ispirato ai Proverbi
 
 **Veritas Experimento Probatur**
 *La verità si prova con l'esperienza.* 
@@ -17,7 +14,7 @@ Un percorso capitolo per capitolo attraverso il Libro dei Proverbi.
 
 1. [Manifesto](#cap1)
 2. [Introduzione](#cap2)
-3. [La prima scelta: imparare oppure avere già ragione](#cap3)
+3. [Proverbi 1: imparare oppure avere già ragione](#cap3)
 
 ---
 <a id="cap1"></a>
@@ -144,7 +141,7 @@ Questo metodo ha un solo criterio.
 ---
 <a id="cap3"></a>
 
-## La prima scelta: imparare oppure avere già ragione
+## Proverbi 1: imparare oppure avere già ragione
 
 > *Idea chiave*
 > La differenza tra una persona che cresce e una che rimane sempre uguale non è l'intelligenza.
