@@ -17,7 +17,7 @@ Un percorso capitolo per capitolo attraverso il Libro dei Proverbi.
 1. [Manifesto](#cap1)
 2. [Introduzione](#cap2)
 3. [Proverbi 1: imparare oppure avere già ragione](#cap3)
-4. [Proverbi 2: imparare oppure avere già ragione](#cap4)
+4. [Proverbi 2: costruire un carattere che sappia scegliere](#cap4)
 
 ---
 <a id="cap1"></a>
@@ -346,7 +346,7 @@ Solo dopo decidi se questo principio funziona davvero.
 ---
 <a id="cap4"></a>
 
-# Proverbi 2: costruire un carattere che sappia scegliere
+## Proverbi 2: costruire un carattere che sappia scegliere
 
 > **Idea chiave**
 >
@@ -355,7 +355,7 @@ Solo dopo decidi se questo principio funziona davvero.
 
 ---
 
-# 1. Il problema umano
+### 1. Il problema umano
 
 Quasi tutti sanno distinguere il bene dal male.
 
@@ -385,7 +385,7 @@ La domanda di questo capitolo è semplice.
 
 ---
 
-# 2. L'ipotesi dei Proverbi
+### 2. L'ipotesi dei Proverbi
 
 Il secondo capitolo dei Proverbi propone una risposta sorprendente.
 
@@ -415,7 +415,7 @@ L'ipotesi di questo capitolo è quindi la seguente.
 
 ---
 
-# 3. Cosa sappiamo oggi
+### 3. Cosa sappiamo oggi
 
 Le neuroscienze mostrano che il cervello cambia continuamente attraverso l'esperienza.
 
@@ -443,7 +443,7 @@ La conoscenza entra lentamente nel cuore fino a diventare parte della nostra ide
 
 ---
 
-# 4. Regole pratiche
+### 4. Regole pratiche
 
 Per questa settimana non cercare di cambiare tutta la tua vita.
 
@@ -465,9 +465,9 @@ Ogni giorno:
 
 ---
 
-# 5. Esperimento di sette giorni
+### 5. Esperimento di sette giorni
 
-## Obiettivo
+### Obiettivo
 
 Costruire una piccola abitudine di sapienza.
 
@@ -501,7 +501,7 @@ Osservati.
 
 ---
 
-# 6. Domande di riflessione
+### 6. Domande di riflessione
 
 Quale tipo di persona sto lentamente diventando?
 
@@ -515,7 +515,7 @@ Dedico alla mia crescita interiore lo stesso impegno che dedico al lavoro o al d
 
 ---
 
-# 7. Testo originale
+### 7. Testo originale
 
 > "Se la cercherai come l'argento
 > e per essa scaverai come per i tesori,
@@ -533,7 +533,7 @@ Dedico alla mia crescita interiore lo stesso impegno che dedico al lavoro o al d
 
 ---
 
-# 8. Conclusioni
+### 8. Conclusioni
 
 Esiste una grande differenza tra conoscere il bene e amare il bene.
 
