@@ -612,7 +612,7 @@ Sono tre forme dello stesso errore: attribuire all’esterno ciò che appartiene
 ---
 <a id="cap4"></a>
 
-##Il Sè. Il centro che non ci appartiene
+## Il Sè. Il centro che non ci appartiene
 
 Dopo aver ridimensionato l’Ego, mostrato l’Ombra e smascherato le proiezioni di Anima e Animus, Jung arriva al punto più delicato del percorso.
 
