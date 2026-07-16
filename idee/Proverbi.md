@@ -6,8 +6,10 @@ sommario: "Basato sul libro Proverbi della Bibbia"
 
 <a id="top"></a>
 
-**Veritas Experimento Probatur**
-*La verità si prova con l'esperienza.* 
+#Veritas Experimento Probatur
+
+##La verità si prova con l'esperienza
+
 ---
 
 Un percorso capitolo per capitolo attraverso il Libro dei Proverbi.
