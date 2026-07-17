@@ -4,8 +4,6 @@ categoria: idee
 sommario: "Introduzione alla lettura delle opere di Evagrio Pontico"
 ---
 
-# Evagrio Pontico – Guida allo studio delle sue opere
-
 Evagrio Pontico (345–399 d.C.) è una delle figure più importanti e, allo stesso tempo, più controverse della spiritualità cristiana antica. 
 Monaco del deserto, teologo e straordinario osservatore della psiche umana, è considerato il fondatore della psicologia ascetica cristiana.
 
@@ -15,7 +13,7 @@ Dopo un periodo trascorso a Costantinopoli, lasciò la vita cittadina per ritira
 La sua influenza sulla spiritualità cristiana è immensa. Attraverso Giovanni Cassiano, il suo insegnamento raggiunse il monachesimo occidentale e contribuì, tra l’altro, alla formazione della dottrina dei sette peccati capitali. 
 Parallelamente, molte sue speculazioni teologiche, influenzate da Origene, furono successivamente considerate incompatibili con la dottrina cristiana e finirono coinvolte nelle controversie origeniste del VI secolo.
 
-Per questo motivo è utile distinguere due Evagrio:
+Per questo motivo è utile distinguere tra:
 
 * l’Evagrio asceta e psicologo della vita interiore, la cui influenza è ancora oggi enorme;
 * l’Evagrio speculativo, le cui riflessioni metafisiche richiedono una lettura critica e contestualizzata.
@@ -27,9 +25,7 @@ Le opere di Evagrio formano infatti un percorso progressivo: dalla disciplina de
 
 ## Praktikos
 
-Argomento: la vita ascetica e la lotta contro i pensieri.
-
-È l’opera con cui iniziare.
+Argomento: la vita ascetica e la lotta contro i pensieri.È l’opera con cui iniziare. 
 
 Il Praktikos descrive il cammino iniziale della vita spirituale e introduce uno dei contributi più originali di Evagrio: gli otto logismoi, cioè gli otto pensieri fondamentali che agitano la mente dell’uomo e che, se accolti, si trasformano progressivamente in passioni.
 
