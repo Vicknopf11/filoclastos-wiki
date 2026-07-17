@@ -4,7 +4,7 @@ categoria: idee
 sommario: "Introduzione alla lettura delle opere di Evagrio Pontico"
 ---
 
-#Evagrio Pontico – Guida allo studio delle sue opere
+# Evagrio Pontico – Guida allo studio delle sue opere
 
 Evagrio Pontico (345–399 d.C.) è una delle figure più importanti e, allo stesso tempo, più controverse della spiritualità cristiana antica. 
 Monaco del deserto, teologo e straordinario osservatore della psiche umana, è considerato il fondatore della psicologia ascetica cristiana.
