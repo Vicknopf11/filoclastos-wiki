@@ -19,6 +19,7 @@ Commenti al testo di Jung, capitolo per capitolo.
 2. [L'Ombra. Il volto che rifiutiamo di riconoscere](#cap2)
 3. [L’Anima e l’Animus. L’altro che abita dentro di noi](#cap3)
 4. [Il Sè. Il centro che non ci appartiene](#cap4)
+5. [Cristo e l’ombra del Sé](#cap5)
 
 ---
 <a id="cap1"></a>
@@ -63,9 +64,7 @@ L’uomo moderno ama pensarsi come il comandante della propria nave. Jung sugger
 
 Questo non significa che il libero arbitrio sia un’illusione. Significa soltanto che il suo regno è più piccolo di quanto immaginiamo.
 
-Esiste una libertà dell’Ego, ma esiste anche una necessità del Sé.
-
-Ed è qui che compare il concetto più importante dell’intero libro.
+Esiste una libertà dell’Ego, ma esiste anche una necessità del Sé. Ed è qui che compare il concetto più importante dell’intero libro.
 
 Il Sé.
 
@@ -79,7 +78,7 @@ Questa idea rappresenta una delle più profonde rivoluzioni della psicologia del
 
 Eppure Jung non invita a disprezzare l’Ego. Sarebbe un altro errore.
 
-Una nave senza capitano vaga senza direzione.
+Una nave senza capitano vaga senza direzione. 
 
 Ma un capitano che si crede il padrone del mare è destinato al naufragio.
 
@@ -111,9 +110,7 @@ Questa intuizione supera persino la psicologia.
 
 Ogni grande tradizione spirituale ha espresso, con linguaggi diversi, la stessa struttura fondamentale. Il mistico cristiano parla della volontà di Dio. Il taoista del Tao. Il buddhista della liberazione dall’identificazione con l’io. Il filosofo platonico ricorda che l’anima possiede una conoscenza più antica della coscienza ordinaria.
 
-Le parole cambiano.
-
-La struttura rimane sorprendentemente simile.
+Le parole cambiano. La struttura rimane sorprendentemente simile.
 
 Esiste qualcosa di più grande dell’Ego.
 
@@ -121,13 +118,9 @@ Jung non identifica questo principio con Dio. Rimane uno psicologo e descrive fe
 
 Da questa prospettiva, il cammino dell’individuazione non consiste nell’accumulare potere, conoscenza o controllo. Consiste nel mettere ogni cosa al proprio posto.
 
-L’Ego non deve essere eliminato.
+L’Ego non deve essere eliminato. Deve essere decentrato.
 
-Deve essere decentrato.
-
-Non è il nemico.
-
-È il servitore.
+Non è il nemico. È il servitore.
 
 La maturità psicologica non nasce quando l’Ego diventa più forte, ma quando diventa abbastanza umile da riconoscere che la luce della sua lanterna illumina soltanto una piccola parte della foresta.
 
@@ -135,9 +128,7 @@ Forse la vera saggezza comincia proprio in quell’istante.
 
 Non quando possiamo finalmente dire “ora conosco me stesso”, ma quando comprendiamo che dentro di noi esiste un territorio infinitamente più vasto di quanto il nostro “io” potrà mai esplorare.
 
-L’Ego continua a camminare.
-
-Ma non cammina più da re.
+L’Ego continua a camminare. Ma non cammina più da re.
 
 Cammina come un pellegrino che ha finalmente scoperto che la strada non gli appartiene, e che il mistero che lo guida è molto più antico di lui.
 
@@ -161,15 +152,11 @@ L'Ombra è tutto ciò che l'Ego non riesce o non vuole riconoscere come proprio.
 
 Può certamente contenere il male, ma può contenere anche il bene. Può custodire la crudeltà di cui ci vergogniamo, ma anche il coraggio che non osiamo esprimere, la creatività soffocata, l'amore rifiutato, la forza che abbiamo imparato a considerare pericolosa. Tutto ciò che viene escluso dalla coscienza continua a vivere nell'inconscio.
 
-L'Ombra non è ciò che siamo.
-
-È ciò che rifiutiamo di essere.
+L'Ombra non è ciò che siamo. È ciò che rifiutiamo di essere.
 
 Per questo Jung afferma che il confronto con l'Ombra è anzitutto un problema morale.
 
-Non perché ci renda moralmente peggiori.
-
-Ma perché ci obbliga a rinunciare all'immagine rassicurante della nostra innocenza.
+Non perché ci renda moralmente peggiori. Ma perché ci obbliga a rinunciare all'immagine rassicurante della nostra innocenza.
 
 Esiste una differenza enorme tra essere buoni e credersi incapaci di fare il male.
 
@@ -181,29 +168,21 @@ L'uomo che dice: "Io non potrei mai odiare" è spesso più vicino all'odio di qu
 
 Jung osserva che le caratteristiche dell'Ombra possiedono un'autonomia sorprendente. Non sono semplici pensieri che possiamo decidere di eliminare. Si manifestano come emozioni improvvise, reazioni sproporzionate, impulsi che sembrano impadronirsi della volontà.
 
-L'ira arriva.
-
-La gelosia arriva.
-
-L'invidia arriva.
+L'ira arriva. La gelosia arriva. L'invidia arriva.
 
 L'Ego non le produce deliberatamente. Le subisce.
 
 Per questo Jung scrive che le emozioni non sono qualcosa che facciamo, ma qualcosa che ci accade.
 
-Ogni volta che perdiamo il controllo, emerge una parte della personalità meno evoluta, più antica, più istintiva. Non diventiamo qualcun altro. Diventiamo una versione di noi stessi che preferivamo ignorare.
+Ogni volta che perdiamo il controllo, emerge una parte della personalità meno evoluta, più antica, più istintiva. Non diventiamo qualcun altro. Diventiamo una versione di noi stessi che preferiamo ignorare.
 
 Eppure il fenomeno più affascinante descritto in questo capitolo non riguarda le emozioni.
 
 Riguarda la proiezione.
 
-La proiezione è uno dei grandi meccanismi difensivi della psiche.
+La proiezione è uno dei grandi meccanismi difensivi della psiche. Ciò che non posso accettare dentro di me viene visto fuori di me.
 
-Ciò che non posso accettare dentro di me viene visto fuori di me.
-
-Non è una bugia consapevole.
-
-È un errore di percezione.
+Non è una bugia consapevole. È un errore di percezione.
 
 L'uomo dominato dalla propria aggressività vede ovunque persone aggressive.
 
@@ -219,37 +198,17 @@ L'Ego è sinceramente convinto che il problema si trovi negli altri.
 
 Ed è proprio questa sincerità a rendere il fenomeno così difficile da riconoscere.
 
-La proiezione possiede una caratteristica devastante.
+La proiezione possiede una caratteristica devastante. Interrompe il rapporto con la realtà.
 
-Interrompe il rapporto con la realtà.
-
-Non vediamo più la persona davanti a noi.
-
-Vediamo un personaggio costruito dal nostro inconscio.
+Non vediamo più la persona davanti a noi. Vediamo un personaggio costruito dal nostro inconscio.
 
 L'altro diventa il contenitore delle nostre paure, delle nostre colpe, delle nostre possibilità negate.
 
-La relazione autentica scompare.
+La relazione autentica scompare. Rimane soltanto il dialogo con una nostra immagine interiore.
 
-Rimane soltanto il dialogo con una nostra immagine interiore.
+Jung paragona questo processo alla costruzione di un bozzolo. Ogni proiezione aggiunge un filo. Ogni giudizio assoluto aggiunge un altro filo. Ogni nemico immaginario rende il bozzolo più spesso.
 
-Jung paragona questo processo alla costruzione di un bozzolo.
-
-Ogni proiezione aggiunge un filo.
-
-Ogni giudizio assoluto aggiunge un altro filo.
-
-Ogni nemico immaginario rende il bozzolo più spesso.
-
-Alla fine non siamo più separati dal mondo da muri costruiti dagli altri.
-
-Siamo separati da quelli costruiti da noi stessi.
-
-È una delle intuizioni psicologiche più radicali del Novecento.
-
-L'inferno non è soltanto ciò che il mondo ci infligge.
-
-Può essere anche il mondo che la nostra psiche costruisce.
+Alla fine non siamo più separati dal mondo da muri costruiti dagli altri. Siamo separati da quelli costruiti da noi stessi. È una delle intuizioni psicologiche più radicali del Novecento. L'inferno non è soltanto ciò che il mondo ci infligge. Può essere anche il mondo che la nostra psiche costruisce.
 
 Naturalmente questo non significa che il male non esista fuori di noi. Sarebbe una caricatura del pensiero junghiano. Esistono persone violente, manipolatrici e distruttive. Esistono ingiustizie reali. La proiezione non consiste nell'inventare completamente il male, ma nell'attribuirgli un'origine esclusivamente esterna, ignorando la risonanza che trova dentro di noi.
 
@@ -259,21 +218,13 @@ Non è più: "Perché quella persona mi irrita?"
 
 Diventa: "Perché proprio questa caratteristica suscita in me una reazione così intensa?"
 
-Questa domanda non assolve l'altro.
-
-Responsabilizza me.
-
-È il primo passo verso l'integrazione dell'Ombra.
+Questa domanda non assolve l'altro. Responsabilizza me. È il primo passo verso l'integrazione dell'Ombra.
 
 Ma Jung avverte che esiste un limite.
 
 L'Ombra personale, per quanto difficile da riconoscere, rimane relativamente accessibile. Con sufficiente onestà possiamo arrivare ad ammettere la nostra vanità, la nostra paura, la nostra aggressività, il nostro bisogno di approvazione.
 
-Esiste però un livello più profondo.
-
-A un certo punto le proiezioni non riguardano più soltanto la nostra storia personale.
-
-Entrano in scena gli archetipi.
+Esiste però un livello più profondo. A un certo punto le proiezioni non riguardano più soltanto la nostra storia personale. Entrano in scena gli archetipi.
 
 La donna ideale.
 
@@ -287,19 +238,11 @@ La madre assoluta.
 
 Il nemico assoluto.
 
-L'Ombra personale lascia il posto a forze più antiche e universali.
+L'Ombra personale lascia il posto a forze più antiche e universali. È il passaggio che prepara il capitolo successivo, dedicato all'Anima e all'Animus.
 
-È il passaggio che prepara il capitolo successivo, dedicato all'Anima e all'Animus.
+Prima, però, Jung conclude con una frase che rappresenta forse il cuore dell'intero capitolo. Scrive che è relativamente possibile riconoscere la parte malvagia della propria natura.
 
-Prima, però, Jung conclude con una frase che rappresenta forse il cuore dell'intero capitolo.
-
-Scrive che è relativamente possibile riconoscere la parte malvagia della propria natura.
-
-Molto più raro è guardare in faccia il male assoluto.
-
-Questa espressione non indica semplicemente una maggiore quantità di cattiveria.
-
-Indica la scoperta che il potenziale del male appartiene anche all'essere umano ordinario.
+Molto più raro è guardare in faccia il male assoluto. Questa espressione non indica semplicemente una maggiore quantità di cattiveria. Indica la scoperta che il potenziale del male appartiene anche all'essere umano ordinario.
 
 Non soltanto ai criminali.
 
@@ -311,9 +254,7 @@ Anche a noi.
 
 È probabilmente questa la lezione più difficile da accettare.
 
-L'Ombra non ci rende malvagi.
-
-Ci rende umani.
+L'Ombra non ci rende malvagi. Ci rende umani.
 
 Solo chi riconosce la propria capacità di distruggere può scegliere consapevolmente di costruire.
 
@@ -321,13 +262,7 @@ Solo chi sa di poter odiare può comprendere il valore dell'amore.
 
 Solo chi smette di considerarsi innocente può diventare veramente responsabile.
 
-L'integrazione dell'Ombra non consiste nel darle il comando.
-
-Consiste nel farle perdere il potere che deriva dall'essere invisibile.
-
-Quando l'Ombra viene riconosciuta, non scompare.
-
-Ma smette di governare nell'oscurità.
+L'integrazione dell'Ombra non consiste nel darle il comando. Consiste nel farle perdere il potere che deriva dall'essere invisibile. Quando l'Ombra viene riconosciuta, non scompare. Ma smette di governare nell'oscurità.
 
 E forse è proprio questa la definizione più semplice della maturità secondo Jung: non diventare esseri perfetti, ma diventare persone sufficientemente oneste da non scambiare più la propria immagine per la propria realtà.
 
@@ -347,9 +282,7 @@ L’uomo pensa di amare una donna.
 
 La donna pensa di amare un uomo.
 
-Ma la psiche, almeno all’inizio, vive qualcosa di diverso.
-
-Ama un’immagine.
+Ma la psiche, almeno all’inizio, vive qualcosa di diverso. Ama un’immagine.
 
 Questa è una delle intuizioni più profonde di Aion. Non perché neghi l’esistenza dell’amore autentico, ma perché ne descrive il primo grande ostacolo: la tendenza dell’essere umano a vedere nell’altro non una persona, ma il riflesso di una figura che porta già dentro di sé.
 
@@ -361,43 +294,29 @@ L’Animus è l’immagine inconscia del maschile nella donna.
 
 Ma sarebbe un errore pensare che esse siano semplicemente il ricordo della madre o del padre. La madre e il padre sono soltanto le prime persone sulle quali questi archetipi trovano una forma concreta. Dietro di loro si nasconde qualcosa di molto più antico.
 
-L’Anima non appartiene alla biografia.
-
-Appartiene alla struttura della psiche.
+L’Anima non appartiene alla biografia. Appartiene alla struttura della psiche.
 
 Per questo Jung inizia il capitolo evocando Maya, la danzatrice che tesse il velo dell’illusione. Non sceglie questo simbolo per gusto dell’esotico. Lo sceglie perché l’Anima è precisamente questo: la forza che avvolge la coscienza in una trama di immagini, desideri e significati fino a farle scambiare il simbolo per la realtà.
 
-L’illusione non consiste nel vedere qualcosa che non esiste.
+L’illusione non consiste nel vedere qualcosa che non esiste. Consiste nel vedere una cosa reale attraverso un’immagine che appartiene a noi.
 
-Consiste nel vedere una cosa reale attraverso un’immagine che appartiene a noi.
-
-Ogni uomo porta dentro di sé una donna invisibile.
-
-Ogni donna porta dentro di sé un uomo invisibile.
+Ogni uomo porta dentro di sé una donna invisibile. Ogni donna porta dentro di sé un uomo invisibile.
 
 Queste figure accompagnano tutta la vita e cercano continuamente un volto sul quale incarnarsi.
 
 Per questo gli incontri decisivi possiedono spesso un carattere numinoso. Ci sembra di conoscere una persona da sempre. Abbiamo la sensazione che il destino ci abbia finalmente condotti davanti a qualcuno che ci completa. Le emozioni sono sproporzionate rispetto al tempo trascorso insieme. L’altro appare improvvisamente unico, necessario, inevitabile.
 
-Jung non considera questa esperienza un’illusione nel senso banale del termine.
+Jung non considera questa esperienza un’illusione nel senso banale del termine. È reale.
 
-È reale.
-
-Ma ciò che è reale non è ancora la persona.
-
-È l’attivazione dell’archetipo.
+Ma ciò che è reale non è ancora la persona. È l’attivazione dell’archetipo.
 
 L’altro è diventato il portatore di qualcosa che viveva già nella nostra psiche.
 
 È qui che il capitolo assume una profondità inattesa.
 
-Noi crediamo di cercare una persona.
+Noi crediamo di cercare una persona. In realtà stiamo cercando una parte perduta di noi stessi.
 
-In realtà stiamo cercando una parte perduta di noi stessi.
-
-L’uomo cerca inconsciamente la propria Anima.
-
-La donna cerca inconsciamente il proprio Animus.
+L’uomo cerca inconsciamente la propria Anima. La donna cerca inconsciamente il proprio Animus.
 
 L’errore consiste nel credere che questa parte interiore possa essere posseduta attraverso un altro essere umano.
 
@@ -417,84 +336,37 @@ La convinzione che senza quella persona la vita perda significato.
 
 Sono tutte esperienze che acquistano un senso nuovo se comprese come il tentativo della psiche di raggiungere se stessa attraverso un’altra persona.
 
-Per questo Jung dedica molte pagine alla figura della madre.
+Per questo Jung dedica molte pagine alla figura della madre. Non perché voglia attribuire ogni problema alla madre reale, ma perché vede nella relazione originaria con essa il primo luogo nel quale l’Anima si manifesta.
 
-Non perché voglia attribuire ogni problema alla madre reale, ma perché vede nella relazione originaria con essa il primo luogo nel quale l’Anima si manifesta.
+Il bambino vive immerso in un mondo che lo protegge, lo nutre e lo contiene. Non deve conquistare nulla. La vita gli viene donata. Una parte della psiche desidera che questa condizione duri per sempre.
 
-Il bambino vive immerso in un mondo che lo protegge, lo nutre e lo contiene. Non deve conquistare nulla. La vita gli viene donata.
+L’adulto continua allora a cercare qualcuno che lo salvi dalla fatica dell’esistenza. Qualcuno che renda il mondo nuovamente materno. Qualcuno che elimini il rischio, la solitudine e la responsabilità.
 
-Una parte della psiche desidera che questa condizione duri per sempre.
-
-L’adulto continua allora a cercare qualcuno che lo salvi dalla fatica dell’esistenza.
-
-Qualcuno che renda il mondo nuovamente materno.
-
-Qualcuno che elimini il rischio, la solitudine e la responsabilità.
-
-È una tentazione universale.
-
-Ma è anche una forma sottile di rifiuto della vita.
+È una tentazione universale. Ma è anche una forma sottile di rifiuto della vita.
 
 Per Jung diventare adulti significa accettare che il mondo non ci verrà più incontro come faceva la madre. La realtà non cade nelle nostre mani come un dono. Deve essere conquistata. Chiede coraggio, perseveranza e capacità di sopportare la frustrazione.
 
-La separazione simbolica dalla madre è dunque una nascita interiore.
+La separazione simbolica dalla madre è dunque una nascita interiore. Non è un atto contro la madre. È un atto a favore della vita.
 
-Non è un atto contro la madre.
+Lo stesso principio vale per l’Animus. Anche la donna può rimanere inconsciamente legata all’immagine del padre, cercando fuori di sé quella certezza, quella direzione o quella autorità che dovrebbe maturare dentro di lei.
 
-È un atto a favore della vita.
+In entrambi i casi il problema non è la madre o il padre. È la proiezione. Ed è proprio qui che Jung introduce una delle sue intuizioni più rivoluzionarie.
 
-Lo stesso principio vale per l’Animus.
-
-Anche la donna può rimanere inconsciamente legata all’immagine del padre, cercando fuori di sé quella certezza, quella direzione o quella autorità che dovrebbe maturare dentro di lei.
-
-In entrambi i casi il problema non è la madre o il padre.
-
-È la proiezione.
-
-Ed è proprio qui che Jung introduce una delle sue intuizioni più rivoluzionarie.
-
-Le persone che incontriamo sono sempre due.
-
-C’è la persona reale.
-
-E c’è quella che la nostra psiche vi sovrappone.
-
-Noi vediamo entrambe nello stesso momento.
-
-Senza rendercene conto.
+Le persone che incontriamo sono sempre due. C’è la persona reale. E c’è quella che la nostra psiche vi sovrappone. Noi vediamo entrambe nello stesso momento. Senza rendercene conto.
 
 Quando diciamo “questa donna è la mia salvezza” oppure “quest’uomo è finalmente quello giusto”, forse stiamo parlando soltanto in parte della persona reale.
 
 L’altra parte appartiene a noi.
 
-L’amore, allora, non viene distrutto dalla psicologia.
+L’amore, allora, non viene distrutto dalla psicologia. Viene purificato.
 
-Viene purificato.
+Finché la proiezione domina la relazione, l’altro porta un peso impossibile. Deve essere contemporaneamente amante, madre, padre, guida, salvatore, consolatore, fonte di significato e promessa di felicità.
 
-Finché la proiezione domina la relazione, l’altro porta un peso impossibile.
+Nessun essere umano può sostenere un compito simile. Prima o poi l’immagine si incrina. L’idolo cade. E la delusione è tanto più violenta quanto più assoluta era stata l’idealizzazione.
 
-Deve essere contemporaneamente amante, madre, padre, guida, salvatore, consolatore, fonte di significato e promessa di felicità.
+Jung non interpreta questa crisi come il fallimento dell’amore. La considera il suo possibile inizio. Quando la proiezione comincia a ritirarsi, appare finalmente la persona.
 
-Nessun essere umano può sostenere un compito simile.
-
-Prima o poi l’immagine si incrina.
-
-L’idolo cade.
-
-E la delusione è tanto più violenta quanto più assoluta era stata l’idealizzazione.
-
-Jung non interpreta questa crisi come il fallimento dell’amore.
-
-La considera il suo possibile inizio.
-
-Quando la proiezione comincia a ritirarsi, appare finalmente la persona.
-
-È un momento difficile.
-
-Perché significa rinunciare al sogno.
-
-Ma è anche il momento in cui nasce la possibilità di una relazione autentica.
-
+È un momento difficile. Perché significa rinunciare al sogno. Ma è anche il momento in cui nasce la possibilità di una relazione autentica. 
 Amare una persona reale è molto più difficile che amare un archetipo.
 
 Richiede di accettarne i limiti.
@@ -505,13 +377,9 @@ La libertà.
 
 L’alterità.
 
-L’altro smette di essere il protagonista del nostro mito personale.
+L’altro smette di essere il protagonista del nostro mito personale. Diventa finalmente se stesso.
 
-Diventa finalmente se stesso.
-
-Questo processo non riguarda soltanto le relazioni sentimentali.
-
-Ogni volta che attribuiamo a qualcuno un valore assoluto, positivo o negativo, stiamo probabilmente incontrando un archetipo.
+Questo processo non riguarda soltanto le relazioni sentimentali. Ogni volta che attribuiamo a qualcuno un valore assoluto, positivo o negativo, stiamo probabilmente incontrando un archetipo.
 
 Il maestro perfetto.
 
@@ -531,33 +399,16 @@ La strega.
 
 Il salvatore.
 
-La psiche lavora continuamente attraverso immagini.
+La psiche lavora continuamente attraverso immagini. La maturità consiste nell’imparare a distinguerle dalle persone.
 
-La maturità consiste nell’imparare a distinguerle dalle persone.
+Per questo Jung insiste sul fatto che Anima e Animus non possono essere eliminati. Non sono nevrosi. Non sono errori della natura. Sono strutture fondamentali della psiche.
 
-Per questo Jung insiste sul fatto che Anima e Animus non possono essere eliminati.
-
-Non sono nevrosi.
-
-Non sono errori della natura.
-
-Sono strutture fondamentali della psiche.
-
-Possiamo renderne coscienti i contenuti.
-
-Possiamo riconoscere le nostre proiezioni.
-
-Possiamo imparare a dialogare con esse.
-
-Ma non possiamo abolirle.
+Possiamo renderne coscienti i contenuti. Possiamo riconoscere le nostre proiezioni. Possiamo imparare a dialogare con esse. Ma non possiamo abolirle.
 
 Rimarranno sempre al confine tra coscienza e inconscio, come mediatori tra il mondo visibile e quello invisibile.
-
 Ed è proprio questa la loro funzione più alta.
 
-Nel loro aspetto maturo, Anima e Animus non ci separano più dalla realtà.
-
-Ci conducono verso il Sé.
+Nel loro aspetto maturo, Anima e Animus non ci separano più dalla realtà. Ci conducono verso il Sé.
 
 L’Anima diventa per l’uomo una sorgente di relazione autentica, immaginazione, intuizione e profondità.
 
@@ -565,33 +416,13 @@ L’Animus diventa per la donna una sorgente di discernimento, riflessione e par
 
 Ciò che prima era proiettato sull’altro diventa una capacità interiore.
 
-La ricerca dell’altro si trasforma gradualmente nella ricerca di se stessi.
+La ricerca dell’altro si trasforma gradualmente nella ricerca di sé stessi.
 
-In questo senso il terzo capitolo di Aion non è un trattato sull’amore tra uomo e donna.
+In questo senso il terzo capitolo di Aion non è un trattato sull’amore tra uomo e donna. È un trattato sulla riconciliazione dell’essere umano con la parte perduta della propria anima.
 
-È un trattato sulla riconciliazione dell’essere umano con la parte perduta della propria anima.
+Forse ogni amore autentico attraversa inevitabilmente due fasi. Nella prima incontriamo il nostro sogno. Nella seconda incontriamo una persona.
 
-Forse ogni amore autentico attraversa inevitabilmente due fasi.
-
-Nella prima incontriamo il nostro sogno.
-
-Nella seconda incontriamo una persona.
-
-La prima è inevitabile.
-
-La seconda è una conquista.
-
-E forse soltanto allora possiamo dire di amare davvero.
-
-Perché non chiediamo più all’altro di completare ciò che manca in noi.
-
-Gli permettiamo semplicemente di essere ciò che è.
-
-Ed è proprio in quel momento che il simbolo ha compiuto il suo lavoro.
-
-Non ci ha condotti verso un’altra persona.
-
-Ci ha ricondotti a noi stessi.
+La prima è inevitabile. La seconda è una conquista. E forse soltanto allora possiamo dire di amare davvero. Perché non chiediamo più all’altro di completare ciò che manca in noi. Gli permettiamo semplicemente di essere ciò che è. Ed è proprio in quel momento che il simbolo ha compiuto il suo lavoro. Non ci ha condotti verso un’altra persona. Ci ha ricondotti a noi stessi.
 
 E, attraverso noi stessi, al Sé, quel centro silenzioso che nessuna relazione può sostituire e nessuna separazione può distruggere.
 
@@ -620,9 +451,7 @@ Il Sé.
 
 A prima vista potrebbe sembrare il coronamento naturale dell’intero cammino. Dopo aver ritirato le proiezioni, riconosciuto il lato oscuro della personalità e incontrato le figure dell’inconscio, l’individuo dovrebbe finalmente diventare più completo, più consapevole, più vicino alla propria totalità.
 
-Ed è vero.
-
-Ma proprio qui nasce il pericolo più sottile.
+Ed è vero. Ma proprio qui nasce il pericolo più sottile.
 
 L’Io può scambiare l’ampliamento della coscienza per una propria espansione. Può credere che, avendo incontrato qualcosa di più grande, sia diventato esso stesso più grande. Può confondere la vicinanza al Sé con il possesso del Sé.
 
@@ -632,25 +461,17 @@ L’inflazione non coincide necessariamente con la vanità visibile. Non sempre 
 
 L’individuo può dire di avere compreso la propria Ombra, di aver integrato l’Anima, di essere entrato in contatto con il Sé. Può convincersi che le proprie intuizioni provengano da una fonte più alta, che il proprio destino possieda un significato eccezionale, che il suo sguardo sia ormai libero dalle illusioni nelle quali vivono gli altri.
 
-In realtà, non ha superato l’Ego.
-
-Lo ha semplicemente rivestito di simboli più grandi.
+In realtà, non ha superato l’Ego. Lo ha semplicemente rivestito di simboli più grandi.
 
 È questo il paradosso centrale del quarto capitolo di Aion: la conoscenza dell’inconscio può produrre maggiore consapevolezza, ma può anche rendere l’Io più cieco.
 
 Più numerosi sono i contenuti inconsci assimilati, più l’Io si avvicina al Sé. Ma questa vicinanza non deve mai diventare identificazione.
 
-Il Sé non è una conquista.
-
-Non è un possesso.
-
-Non è un titolo spirituale.
+Il Sé non è una conquista. Non è un possesso. Non è un titolo spirituale.
 
 È la totalità della personalità, cosciente e inconscia, e proprio per questo eccede sempre la capacità dell’Io di comprenderla.
 
-L’Io appartiene al Sé.
-
-Il Sé non appartiene all’Io.
+L’Io appartiene al Sé. Il Sé non appartiene all’Io.
 
 Quando questa distinzione si perde, possono avvenire due catastrofi opposte.
 
@@ -658,69 +479,42 @@ Nella prima, l’Io viene assorbito dall’inconscio.
 
 L’individuo comincia a vivere dentro una realtà mitologica. Si sente scelto, ispirato, perseguitato, investito di una missione. Il mondo concreto perde peso. Gli obblighi quotidiani, le responsabilità, i limiti e le relazioni sembrano dettagli insignificanti di fronte alla grandezza dell’esperienza interiore.
 
-L’archetipo prende il posto della persona.
-
-L’uomo non ha più una visione.
-
-È posseduto dalla visione.
-
+L’archetipo prende il posto della persona. L’uomo non ha più una visione. È posseduto dalla visione.
 Il confine tra intuizione e delirio, tra vocazione e grandiosità, tra profondità e perdita della realtà può allora diventare estremamente sottile.
 
 Per Jung questa è una vera catastrofe psichica.
 
 L’Io, separato dal mondo concreto, cade sotto il dominio di forze che non comprende. Vive in uno spazio senza misura, in un tempo che non è più quello della vita ordinaria. Tutto diventa assoluto, necessario, cosmico.
 
-Ma un essere umano non può vivere a lungo come un dio.
-
-Prima o poi la realtà presenta il conto.
+Ma un essere umano non può vivere a lungo come un dio. Prima o poi la realtà presenta il conto.
 
 La seconda catastrofe è l’opposto della prima.
 
-Qui non è l’Io a essere assorbito dal Sé.
-
-È il Sé a essere ridotto all’Io.
+Qui non è l’Io a essere assorbito dal Sé. È il Sé a essere ridotto all’Io.
 
 L’individuo considera sogni, simboli, archetipi e impulsi profondi come semplici prodotti soggettivi. Li tratta come fantasie prive di autonomia, come materiali che la ragione può classificare, spiegare e infine archiviare.
 
-Crede che tutto ciò che appartiene alla psiche possa essere ridotto a un concetto.
+Crede che tutto ciò che appartiene alla psiche possa essere ridotto a un concetto. Ma anche questa è inflazione.
 
-Ma anche questa è inflazione.
-
-L’Io si proclama misura di ciò che esiste.
-
-Ciò che non comprende viene svalutato. Ciò che non controlla viene dichiarato irreale. L’inconscio viene psicologizzato fino a perdere ogni peso.
+L’Io si proclama misura di ciò che esiste. Ciò che non comprende viene svalutato. Ciò che non controlla viene dichiarato irreale. L’inconscio viene psicologizzato fino a perdere ogni peso.
 
 Le due forme sembrano opposte, ma producono lo stesso risultato.
 
-Nel primo caso l’Io dice:
+Nel primo caso l’Io dice: “Sono il Sé.”
 
-“Sono il Sé.”
-
-Nel secondo dice:
-
-“Il Sé è soltanto una mia idea.”
+Nel secondo dice: “Il Sé è soltanto una mia idea.”
 
 In entrambi i casi l’Io occupa il centro.
 
 Jung cerca una posizione diversa.
 
-L’Io deve riconoscere la realtà dell’inconscio senza identificarsi con essa.
+L’Io deve riconoscere la realtà dell’inconscio senza identificarsi con essa. Deve prendere sul serio le sue immagini senza obbedire loro ciecamente. Deve ascoltare l’Anima, l’Animus, l’Ombra e il Sé, ma senza considerarli infallibili.
 
-Deve prendere sul serio le sue immagini senza obbedire loro ciecamente.
+Il compito non è né sottomettersi né dominare. È stabilire una relazione.
 
-Deve ascoltare l’Anima, l’Animus, l’Ombra e il Sé, ma senza considerarli infallibili.
+Per questo Jung insiste sull’importanza dell’adattamento alla realtà. L’Io deve restare ancorato al mondo cosciente attraverso attenzione, disciplina, pazienza, responsabilità e autocritica.
 
-Il compito non è né sottomettersi né dominare.
-
-È stabilire una relazione.
-
-Per questo Jung insiste sull’importanza dell’adattamento alla realtà.
-
-L’Io deve restare ancorato al mondo cosciente attraverso attenzione, disciplina, pazienza, responsabilità e autocritica.
-
-Non si tratta di virtù borghesi contrapposte alla profondità spirituale.
-
-Sono protezioni contro la possessione.
+Non si tratta di virtù borghesi contrapposte alla profondità spirituale. Sono protezioni contro la possessione.
 
 Chi entra in contatto con l’inconscio senza una sufficiente solidità può perdersi. La profondità non sostituisce la precisione. Il simbolo non elimina il dovere. La vita interiore non assolve dalla realtà.
 
@@ -732,29 +526,15 @@ Può proclamare una trasformazione profonda mentre diventa sempre meno capace di
 
 Per Jung, uno dei segnali più chiari dell’inflazione è proprio questo: la crescente incapacità di prendere sul serio le risposte dell’ambiente.
 
-L’individuo non vede più come viene percepito.
-
-Non ascolta.
-
-Non si lascia correggere.
-
-L’esperienza interiore è diventata uno scudo.
+L’individuo non vede più come viene percepito. Non ascolta. Non si lascia correggere. L’esperienza interiore è diventata uno scudo.
 
 Ma anche la posizione opposta presenta un pericolo.
 
-Una coscienza troppo adattata, troppo efficiente, troppo disciplinata può soffocare la vita inconscia.
+Una coscienza troppo adattata, troppo efficiente, troppo disciplinata può soffocare la vita inconscia. La persona può essere responsabile, affidabile, produttiva e moralmente irreprensibile, e tuttavia vivere in modo profondamente unilaterale.
 
-La persona può essere responsabile, affidabile, produttiva e moralmente irreprensibile, e tuttavia vivere in modo profondamente unilaterale.
+In questo caso non ha bisogno di più disciplina. Ha bisogno di una sconfitta.
 
-In questo caso non ha bisogno di più disciplina.
-
-Ha bisogno di una sconfitta.
-
-Jung parla di una sconfitta morale.
-
-È una formula dura e facilmente fraintendibile.
-
-Non significa abbandonare la moralità. Significa riconoscere che perfino le virtù possono diventare strumenti di difesa.
+Jung parla di una sconfitta morale. È una formula dura e facilmente fraintendibile. Non significa abbandonare la moralità. Significa riconoscere che perfino le virtù possono diventare strumenti di difesa.
 
 La disciplina può nascondere la paura.
 
@@ -772,25 +552,15 @@ Ogni qualità, quando diventa assoluta, si trasforma nel proprio contrario.
 
 Per questo il cammino non è uguale per tutti.
 
-L’uomo disordinato deve imparare la disciplina.
+L’uomo disordinato deve imparare la disciplina. L’uomo eccessivamente disciplinato deve imparare a lasciare spazio a ciò che non controlla.
 
-L’uomo eccessivamente disciplinato deve imparare a lasciare spazio a ciò che non controlla.
+La persona fragile deve rafforzare l’Io. La persona troppo identificata con l’Io deve imparare a perderne il primato.
 
-La persona fragile deve rafforzare l’Io.
+Il Sé non ci conduce sempre verso ciò che consideriamo migliore. Spesso ci conduce verso ciò che ci manca.
 
-La persona troppo identificata con l’Io deve imparare a perderne il primato.
+Ed è qui che nasce il vero problema morale. Jung afferma che i problemi morali autentici iniziano dove finisce il codice legislativo.
 
-Il Sé non ci conduce sempre verso ciò che consideriamo migliore.
-
-Spesso ci conduce verso ciò che ci manca.
-
-Ed è qui che nasce il vero problema morale.
-
-Jung afferma che i problemi morali autentici iniziano dove finisce il codice.
-
-Finché una legge o un comandamento ci dicono chiaramente che cosa fare, la decisione può essere difficile, ma non è ancora radicale.
-
-Il conflitto vero nasce quando due doveri legittimi si oppongono.
+Finché una legge o un comandamento ci dicono chiaramente che cosa fare, la decisione può essere difficile, ma non è ancora radicale. Il conflitto vero nasce quando due doveri legittimi si oppongono.
 
 La fedeltà può entrare in conflitto con la verità.
 
@@ -802,33 +572,13 @@ La sicurezza con la vocazione.
 
 La pietà con la giustizia.
 
-In questi casi non esiste una scelta innocente.
+In questi casi non esiste una scelta innocente. Qualunque decisione comporta una perdita. Non si tratta più di scegliere il bene contro il male, ma di sostenere la colpa inevitabile che nasce quando due beni non possono essere salvati insieme.
 
-Qualunque decisione comporta una perdita.
+È allora che può emergere un’autorità interiore. Jung la chiama, a seconda del linguaggio utilizzato, istinto, forza naturale, destino o volontà di Dio.
 
-Non si tratta più di scegliere il bene contro il male, ma di sostenere la colpa inevitabile che nasce quando due beni non possono essere salvati insieme.
+Non sta affermando che ogni impulso sia divino. Sta dicendo che alcune forze psichiche possiedono un carattere di necessità che l’Io non ha creato e che non può semplicemente cancellare.
 
-È allora che può emergere un’autorità interiore.
-
-Jung la chiama, a seconda del linguaggio utilizzato, istinto, forza naturale, destino o volontà di Dio.
-
-Non sta affermando che ogni impulso sia divino.
-
-Sta dicendo che alcune forze psichiche possiedono un carattere di necessità che l’Io non ha creato e che non può semplicemente cancellare.
-
-Si presentano come qualcosa che accade.
-
-Una vocazione.
-
-Un sogno insistente.
-
-Una crisi.
-
-Un desiderio che ritorna.
-
-Una rottura inevitabile.
-
-Una sofferenza che costringe a cambiare.
+Si presentano come qualcosa che accade. Una vocazione. Un sogno insistente. Una crisi. Un desiderio che ritorna. Una rottura inevitabile. Una sofferenza che costringe a cambiare.
 
 L’uomo moderno preferisce pensare di decidere tutto razionalmente. Non sopporta facilmente l’idea di essere mosso da forze che non controlla. Per questo, dopo aver agito, tende a riscrivere la storia della propria decisione.
 
@@ -840,33 +590,23 @@ Dice di aver esercitato volontà.
 
 Ma spesso la decisione era già maturata nelle profondità della psiche, e la coscienza si è limitata a costruirne una giustificazione.
 
-Jung non nega la libertà.
-
-Sostiene che la libertà convive con la necessità.
+Jung non nega la libertà. Sostiene che la libertà convive con la necessità.
 
 L’uomo è mosso da forze che non ha scelto, ma rimane responsabile del modo in cui risponde.
 
-Il daimon indica una direzione.
-
-Non assolve dalle conseguenze.
+Il daimon indica una direzione. Non assolve dalle conseguenze.
 
 Per questo il rapporto con il Sé non è un’esperienza di obbedienza passiva. Richiede discernimento. L’impulso deve essere ascoltato, ma anche valutato. Deve essere riconosciuto nella sua potenza, ma non elevato automaticamente a verità morale.
 
-L’Io non è sovrano.
-
-Ma nemmeno il primo contenuto inconscio che emerge lo è.
+L’Io non è sovrano. Ma nemmeno il primo contenuto inconscio che emerge lo è.
 
 La relazione con il Sé richiede una tensione continua tra ascolto e responsabilità.
 
 A questo punto Jung introduce una critica ancora più radicale.
 
-L’intelletto non basta.
+L’intelletto non basta. Possiamo comprendere perfettamente le parole “Ego”, “Ombra”, “Anima”, “Animus”, “Sé”, “mandala” e “individuazione”, e tuttavia non aver compreso nulla di reale.
 
-Possiamo comprendere perfettamente le parole “Ego”, “Ombra”, “Anima”, “Animus”, “Sé”, “mandala” e “individuazione”, e tuttavia non aver compreso nulla di reale.
-
-Il concetto è soltanto un nome.
-
-Non è l’esperienza.
+Il concetto è soltanto un nome. Non è l’esperienza.
 
 Sapere che cosa sia il dolore non significa aver sofferto.
 
@@ -874,29 +614,19 @@ Conoscere la definizione dell’Ombra non significa aver riconosciuto la propria
 
 Parlare del Sé non significa aver subito il decentramento dell’Io.
 
-L’intelletto ha una capacità seduttiva. Nomina le cose e poi crede di possederle.
-
-Trasforma la realtà in formule leggere, maneggevoli, prive di peso. Le parole passano facilmente da una persona all’altra. Possono essere ripetute, discusse, insegnate.
-
-Ma non impegnano necessariamente chi le pronuncia.
+L’intelletto ha una capacità seduttiva. Nomina le cose e poi crede di possederle. Trasforma la realtà in formule leggere, maneggevoli, prive di peso. Le parole passano facilmente da una persona all’altra. Possono essere ripetute, discusse, insegnate. Ma non impegnano necessariamente chi le pronuncia.
 
 Jung insiste perciò sul valore del sentimento.
 
 Ogni contenuto psichico possiede un tono affettivo. Il sentimento indica quanto quel contenuto ci riguarda, quanto potere esercita, quale posto occupa nella gerarchia della psiche.
 
-Non basta capire intellettualmente una verità.
-
-Bisogna sentirne il peso.
+Non basta capire intellettualmente una verità. Bisogna sentirne il peso.
 
 La differenza è la stessa che passa tra leggere la descrizione di una malattia e ammalarsi.
 
-Nel primo caso conosciamo le parole.
+Nel primo caso conosciamo le parole. Nel secondo conosciamo la realtà.
 
-Nel secondo conosciamo la realtà.
-
-La psicologia, secondo Jung, non può essere posseduta dall’esterno.
-
-Ciò che non è stato attraversato rimane teoria.
+La psicologia, secondo Jung, non può essere posseduta dall’esterno. Ciò che non è stato attraversato rimane teoria.
 
 Questa gerarchia affettiva conduce dall’Ego all’Ombra, dall’Ombra ad Anima e Animus, e infine al Sé.
 
@@ -910,25 +640,13 @@ Il Sé si presenta con il carattere della totalità.
 
 Può essere vissuto come centro, ordine, destino, presenza divina.
 
-È qui che compare il mandala.
+È qui che compare il mandala. Il cerchio, il quadrato, la quaternità, il punto centrale. Queste immagini emergono spesso nei sogni durante periodi di crisi e disorientamento. La psiche sembra produrre spontaneamente un simbolo d’ordine quando la coscienza non riesce più a orientarsi.
 
-Il cerchio, il quadrato, la quaternità, il punto centrale.
+Il mandala non è semplicemente un’immagine decorativa. È il tentativo della psiche di trasformare il caos in cosmo. Rappresenta una totalità ancora incompleta, ma possibile.
 
-Queste immagini emergono spesso nei sogni durante periodi di crisi e disorientamento. La psiche sembra produrre spontaneamente un simbolo d’ordine quando la coscienza non riesce più a orientarsi.
+Un centro che non coincide con l’Io. Un ordine che l’Io non ha inventato.
 
-Il mandala non è semplicemente un’immagine decorativa.
-
-È il tentativo della psiche di trasformare il caos in cosmo.
-
-Rappresenta una totalità ancora incompleta, ma possibile.
-
-Un centro che non coincide con l’Io.
-
-Un ordine che l’Io non ha inventato.
-
-Per Jung, questo dimostra che il Sé non è soltanto un concetto astratto. La psiche anticipa la propria totalità attraverso simboli autonomi.
-
-Essa sembra conoscere una forma che la coscienza non possiede ancora.
+Per Jung, questo dimostra che il Sé non è soltanto un concetto astratto. La psiche anticipa la propria totalità attraverso simboli autonomi. Essa sembra conoscere una forma che la coscienza non possiede ancora.
 
 Ma anche qui ritorna il pericolo dell’intellettualizzazione.
 
@@ -940,65 +658,31 @@ Ma anche qui ritorna il pericolo dell’intellettualizzazione.
 
 Molto più difficile è sostenere il processo reale attraverso il quale la psiche si riorganizza.
 
-Il simbolo non è una scorciatoia.
+Il simbolo non è una scorciatoia. È una richiesta. Non basta pronunciarne il nome. Il nome non possiede la cosa.
 
-È una richiesta.
-
-Non basta pronunciarne il nome.
-
-Il nome non possiede la cosa.
-
-È a questo punto che il Sé si avvicina all’immagine di Dio.
-
-Jung non dice semplicemente che il Sé sia Dio.
-
-La sua posizione è più precisa e più ambigua.
+È a questo punto che il Sé si avvicina all’immagine di Dio. Jung non dice semplicemente che il Sé sia Dio. La sua posizione è più precisa e più ambigua.
 
 Dal punto di vista psicologico, i simboli della totalità e quelli della divinità risultano spesso indistinguibili.
 
 Il centro, il cerchio, la pietra, il bambino divino, Cristo, l’unione degli opposti: tutte queste immagini possono rappresentare sia il Sé sia l’imago Dei.
 
-La psicologia può descrivere l’esperienza.
+La psicologia può descrivere l’esperienza. Non può dimostrare che l’oggetto metafisico esista. Ma non può neppure liquidare l’esperienza come irreale.
 
-Non può dimostrare che l’oggetto metafisico esista.
+Il problema della religione moderna nasce proprio qui. Le grandi immagini religiose possono continuare a esistere come formule, mentre cessano di vivere nella psiche.
 
-Ma non può neppure liquidare l’esperienza come irreale.
+L’uomo sente dire che Cristo lo ha redento, ma non si sente redento. Conosce la dottrina della resurrezione, ma non ha mai sperimentato la morte di una propria identità. Ripete il linguaggio della Trinità, dell’incarnazione, dell’eucaristia, ma non sa più quale rapporto abbiano queste immagini con la propria esistenza.
 
-Il problema della religione moderna nasce proprio qui.
+Il simbolo sopravvive. L’esperienza scompare.
 
-Le grandi immagini religiose possono continuare a esistere come formule, mentre cessano di vivere nella psiche.
+Quando ciò accade, la religione non viene necessariamente rifiutata. Può essere difesa con ancora maggiore rigidità. Più l’idea diventa vuota, più l’individuo vi si aggrappa.
 
-L’uomo sente dire che Cristo lo ha redento, ma non si sente redento.
-
-Conosce la dottrina della resurrezione, ma non ha mai sperimentato la morte di una propria identità.
-
-Ripete il linguaggio della Trinità, dell’incarnazione, dell’eucaristia, ma non sa più quale rapporto abbiano queste immagini con la propria esistenza.
-
-Il simbolo sopravvive.
-
-L’esperienza scompare.
-
-Quando ciò accade, la religione non viene necessariamente rifiutata.
-
-Può essere difesa con ancora maggiore rigidità.
-
-Più l’idea diventa vuota, più l’individuo vi si aggrappa.
-
-Ma un simbolo morto non contiene più le energie della psiche.
-
-Le energie cercano allora altre forme.
+Ma un simbolo morto non contiene più le energie della psiche. Le energie cercano allora altre forme.
 
 È questo il senso della conclusione storica del capitolo.
 
-L’Europa moderna aveva creduto di aver superato il mito.
+L’Europa moderna aveva creduto di aver superato il mito. Si considerava razionale, scientifica, illuminata.
 
-Si considerava razionale, scientifica, illuminata.
-
-Poi, nel Novecento, gli dèi tornarono.
-
-Non nelle chiese.
-
-Nelle ideologie.
+Poi, nel Novecento, gli dèi tornarono. Non nelle chiese. Nelle ideologie. 
 
 Il capo divenne salvatore.
 
@@ -1012,45 +696,15 @@ La politica si trasformò in escatologia.
 
 Jung vede nel nazismo il ritorno patologico di un mondo archetipico che la coscienza europea credeva di aver abolito.
 
-Il mito non era scomparso.
+Il mito non era scomparso. Era diventato inconscio. E proprio per questo aveva acquisito una forza devastante. Una cultura che non riconosce i propri simboli non diventa libera da essi. Ne diventa posseduta. Questa è forse la lezione politica più profonda del capitolo.
 
-Era diventato inconscio.
+L’uomo non smette di essere religioso eliminando il linguaggio religioso. Può trasferire la propria esigenza di assoluto nella politica, nella nazione, nella razza, nella rivoluzione, nella tecnologia, nel mercato o nel progresso.
 
-E proprio per questo aveva acquisito una forza devastante.
+Il simbolo cambia oggetto. La struttura psichica rimane.
 
-Una cultura che non riconosce i propri simboli non diventa libera da essi.
+Per questo Jung conclude con una diagnosi severa dello spirito postcristiano. Non perché rimpianga semplicemente il passato. Ma perché vede una civiltà che ha perso la capacità di riconoscere le forze che la muovono. La ragione ha demolito molti simboli, ma non ha eliminato il bisogno di significato. La religione ha conservato molte formule, ma spesso non sa più tradurle in esperienza.
 
-Ne diventa posseduta.
-
-Questa è forse la lezione politica più profonda del capitolo.
-
-L’uomo non smette di essere religioso eliminando il linguaggio religioso.
-
-Può trasferire la propria esigenza di assoluto nella politica, nella nazione, nella razza, nella rivoluzione, nella tecnologia, nel mercato o nel progresso.
-
-Il simbolo cambia oggetto.
-
-La struttura psichica rimane.
-
-Per questo Jung conclude con una diagnosi severa dello spirito postcristiano.
-
-Non perché rimpianga semplicemente il passato.
-
-Ma perché vede una civiltà che ha perso la capacità di riconoscere le forze che la muovono.
-
-La ragione ha demolito molti simboli, ma non ha eliminato il bisogno di significato.
-
-La religione ha conservato molte formule, ma spesso non sa più tradurle in esperienza.
-
-Tra una ragione senza profondità e una fede senza vita, l’inconscio collettivo cerca nuove forme.
-
-E non sempre le forme che trova sono benevole.
-
-Il quarto capitolo di Aion non celebra dunque il Sé.
-
-Mette in guardia dal suo potere.
-
-Il Sé è il centro della totalità, ma non è proprietà dell’Io.
+Tra una ragione senza profondità e una fede senza vita, l’inconscio collettivo cerca nuove forme. E non sempre le forme che trova sono benevole. Il quarto capitolo di Aion non celebra dunque il Sé. Mette in guardia dal suo potere. Il Sé è il centro della totalità, ma non è proprietà dell’Io.
 
 È ordine, ma può apparire attraverso il caos.
 
@@ -1060,13 +714,9 @@ Il Sé è il centro della totalità, ma non è proprietà dell’Io.
 
 È totalità, ma non innocenza.
 
-Il cammino verso il Sé non rende l’uomo onnipotente.
+Il cammino verso il Sé non rende l’uomo onnipotente. Lo rende più consapevole della propria parzialità.
 
-Lo rende più consapevole della propria parzialità.
-
-L’Io deve essere abbastanza forte da non dissolversi nell’inconscio.
-
-Ma anche abbastanza umile da non proclamarsi padrone della psiche.
+L’Io deve essere abbastanza forte da non dissolversi nell’inconscio. Ma anche abbastanza umile da non proclamarsi padrone della psiche. 
 
 Deve agire nel mondo e ascoltare il sogno.
 
@@ -1076,18 +726,178 @@ Deve prendere sul serio il simbolo senza trasformarlo in dogma.
 
 Deve riconoscere il daimon senza cedere la propria responsabilità.
 
-Questa è la posizione difficile richiesta dall’individuazione.
+Questa è la posizione difficile richiesta dall’individuazione. Non stare al centro. Ma vivere in relazione con il centro.
 
-Non stare al centro.
-
-Ma vivere in relazione con il centro.
-
-Il Sé non è il trono sul quale l’Ego finalmente si siede.
-
-È il centro che costringe l’Ego ad abbandonare il trono.
+Il Sé non è il trono sul quale l’Ego finalmente si siede. È il centro che costringe l’Ego ad abbandonare il trono.
 
 E forse la maturità comincia proprio quando l’uomo comprende che la propria vita possiede un ordine che non ha creato, un significato che non può interamente formulare e una profondità che non gli sarà mai possibile possedere.
 
 Può soltanto servirla.
 
 [↑ Torna all'indice](#top)
+
+---
+
+<a id="cap5"></a>
+
+## Cristo e l’ombra del Sé
+
+Se i capitoli precedenti di Aion possono essere letti come una lenta discesa nell’interiorità dell’essere umano, il quinto rappresenta il momento in cui quella discesa incontra una domanda che nessuna psicologia può evitare e nessuna religione può aggirare.
+
+Che cos’è il male?
+
+La domanda accompagna l’umanità da quando ha imparato a distinguere la luce dall’oscurità. Ogni religione, ogni filosofia e ogni sistema morale ha tentato di darle una risposta. Jung non pretende di aggiungerne una nuova. Fa qualcosa di diverso.
+
+Si domanda se il modo in cui immaginiamo il bene non determini inevitabilmente anche il modo in cui immaginiamo il male.
+
+È una domanda apparentemente semplice. Ma contiene una rivoluzione.
+
+Nei capitoli precedenti Jung aveva identificato Cristo con il Sé. Non con il Gesù della storia, né con il Cristo della fede, ma con il Cristo come simbolo della totalità dell’uomo. Cristo appariva come il centro ordinatore della personalità, il punto nel quale coscienza e inconscio tendono a riconciliarsi.
+
+Sembrava che il problema fosse risolto. Poi Jung si arresta. E pone una domanda che cambia completamente prospettiva.
+
+Se Cristo rappresenta la totalità…
+
+dove si trova l’Ombra?
+
+La domanda è tanto semplice quanto devastante. 
+
+Perché tutto ciò che Jung ha costruito fino a questo momento conduce inevitabilmente a una conclusione: nessuna totalità può esistere senza il proprio opposto.
+
+Il Sé non è l’Ego idealizzato. Non è la parte migliore dell’uomo. È l’uomo intero. E un uomo intero non è composto soltanto di luce.
+
+Qui emerge la prima grande differenza tra psicologia e teologia.
+
+Per la psicologia analitica, ogni realtà psichica tende spontaneamente verso un equilibrio degli opposti. Ogni volta che una parte della personalità viene esclusa, essa non scompare. Rimane nell’inconscio, acquista energia e, prima o poi, ritorna.
+
+La psiche non conosce eliminazioni. Conosce compensazioni.
+
+Per questo Jung osserva con crescente perplessità il modo in cui il cristianesimo ha costruito la figura di Cristo.
+
+Il Cristo della tradizione è assolutamente puro.
+
+Assolutamente buono.
+
+Assolutamente innocente.
+
+Assolutamente senza peccato.
+
+Più la sua immagine diventa luminosa, più tutto ciò che non appartiene a quella luce viene espulso.
+
+Il male non viene integrato. Viene separato. Prende il nome di Satana. Diventa il Diavolo. Diventa l’Anticristo.
+
+Dal punto di vista della fede questa separazione possiede una propria coerenza. Dal punto di vista psicologico, però, produce una conseguenza inevitabile.
+
+Ogni luce assoluta genera un’ombra assoluta. Non perché la luce sia falsa.
+
+Ma perché nessuna coscienza umana può sostenere un’immagine tanto perfetta senza proiettare il proprio contrario.
+
+Jung non sta criticando Cristo. Sta descrivendo un meccanismo della psiche.
+
+Quanto più un ideale viene elevato al di sopra della condizione umana, tanto più tutto ciò che non gli corrisponde precipita nell’inconscio.
+
+E ciò che precipita nell’inconscio non perde forza. La acquista.
+
+L’Anticristo, allora, non rappresenta semplicemente il nemico storico del cristianesimo. Diventa il simbolo della compensazione. L’Ombra del Sé.
+
+Questa affermazione è probabilmente una delle più discusse di tutta l’opera junghiana, perché sembra attribuire al Cristo un’incompletezza che la tradizione cristiana non potrebbe mai accettare.
+
+Ma Jung non dice che Cristo sia moralmente incompleto. Dice qualcosa di più sottile.
+
+Dice che il simbolo psicologico di Cristo, così come è stato costruito dalla coscienza cristiana, non riesce più a rappresentare la totalità della psiche.
+
+Gli manca il suo opposto. E una totalità senza opposti per la psicologia non è una totalità. È un ideale.
+
+Questa distinzione attraversa tutto il capitolo.
+
+Per la prima volta Jung separa due parole che normalmente usiamo come sinonimi.
+
+Perfezione. Completezza.
+
+La differenza sembra minima. In realtà è immensa. La perfezione elimina il difetto. La completezza lo comprende.
+
+La perfezione tende verso la purezza. La completezza tende verso la totalità.
+
+Cristo, nella formulazione dogmatica, rappresenta la perfezione. Il Sé, invece, rappresenta la completezza.
+
+È qui che Jung introduce una delle sue critiche più profonde alla tradizione occidentale.
+
+Secondo lui, il cristianesimo ha identificato il bene con la perfezione morale.
+
+La psicologia, invece, incontra uomini reali. E negli uomini reali il bene non elimina mai completamente il male.
+
+Lo contiene.
+
+Lo limita.
+
+Lo trasforma.
+
+Ma non lo cancella.
+
+Da questa osservazione nasce il confronto con una delle dottrine più importanti della teologia cristiana: la privatio boni. L’espressione significa letteralmente “privazione del bene”.
+
+Secondo Agostino e gran parte della tradizione successiva, il male non possiede una sostanza propria. Non esiste come realtà autonoma. È semplicemente una mancanza. Come il buio è assenza di luce. Come il freddo è assenza di calore.
+
+Questa concezione aveva una funzione precisa.
+
+Proteggere la bontà assoluta di Dio. Se Dio è il Sommo Bene, non può avere creato il male.
+
+Il male, quindi, non è una cosa. È una diminuzione del bene.
+
+Dal punto di vista metafisico la costruzione è elegante.
+
+Dal punto di vista psicologico Jung rimane profondamente insoddisfatto. Perché uno psicologo non incontra concetti. 
+
+Incontra persone.
+
+Incontra la crudeltà.
+
+La menzogna.
+
+L’invidia.
+
+L’odio.
+
+Il sadismo.
+
+L’umiliazione.
+
+L’assassinio.
+
+L’indifferenza.
+
+Può davvero dire che tutto questo sia soltanto una mancanza di bene? Può guardare negli occhi una vittima della violenza e affermare che ciò che ha distrutto la sua vita non possiede alcuna realtà?
+
+Jung risponde di no.
+
+Non perché voglia costruire una metafisica del male. Ma perché l’esperienza psicologica glielo impedisce.
+
+Il male produce effetti. Organizza la personalità. Trasforma il comportamento. Può impossessarsi dell’uomo con la stessa forza con cui il bene può elevarlo.
+
+Negarne la realtà significa indebolire la nostra capacità di riconoscerlo.
+
+Ed è proprio qui che il discorso diventa sorprendentemente attuale.
+
+Quando il male viene considerato soltanto come assenza, tende a essere sottovalutato. Quando viene sottovalutato, smettiamo di prepararci ad affrontarlo. Quando smettiamo di affrontarlo, finisce per sorprenderci.
+
+Non è difficile riconoscere questo meccanismo nella storia.
+
+Intere epoche hanno creduto che la civiltà avesse ormai superato la barbarie. Che il progresso avesse definitivamente sconfitto la violenza. Che la ragione avesse dissolto il fanatismo.
+
+Poi, improvvisamente, l’Ombra è ritornata. Non perché fosse nata in quel momento. Ma perché era rimasta invisibile.
+
+La psicologia di Jung non dice che il male sia più forte del bene. Dice qualcosa di più inquietante. Dice che il male ignorato diventa più potente del male riconosciuto.
+
+Perché ciò che rimane nell’inconscio non cessa di agire. Semplicemente agisce senza essere visto.
+
+Ed è forse questa la prima grande lezione del quinto capitolo.
+
+Non diventiamo migliori negando il male. Diventiamo soltanto meno capaci di riconoscerlo quando si presenta davanti a noi.
+
+La luce non elimina l’ombra. La rende visibile.
+
+Ed è soltanto ciò che diventa visibile che può essere assunto, trasformato e, forse, redento.
+
+[↑ Torna all'indice](#top)
+
+---
