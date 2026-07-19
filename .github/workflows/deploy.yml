@@ -47,20 +47,16 @@ jobs:
 
       - name: Encrypt idee/ section
         run: |
-          FILES=$(find _site -type d -iname "idee" -exec find {} -name "*.html" \;)
-          echo "File trovati da cifrare:"
-          echo "$FILES"
-          if [ -z "$FILES" ]; then
-            echo "ATTENZIONE: nessun file trovato in una cartella idee/ dentro _site"
+          if [ ! -d "_site/idee" ]; then
+            echo "ATTENZIONE: _site/idee non esiste, nulla da cifrare"
             exit 0
           fi
-          echo "$FILES" | while IFS= read -r file; do
-            echo "Cifro: $file"
-            staticrypt "$file" -p "${{ secrets.IDEE_PASSWORD }}" \
-              --short -o "$file" \
-              --template-title "Filoclastos — Accesso protetto" \
-              --template-instructions "Questa sezione è protetta. Inserisci la password."
-          done
+          staticrypt _site/idee -r -p "${{ secrets.IDEE_PASSWORD }}" \
+            -d _site --short \
+            --template-title "Filoclastos — Accesso protetto" \
+            --template-instructions "Questa sezione è protetta. Inserisci la password."
+          echo "Cifratura completata:"
+          find _site/idee -name "*.html"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
