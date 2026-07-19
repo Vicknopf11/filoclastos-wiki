@@ -45,6 +45,12 @@ jobs:
       - name: Install staticrypt
         run: npm install -g staticrypt
 
+      - name: Debug password length (safe)
+        run: |
+          echo "Lunghezza password: ${#IDEE_PASSWORD} caratteri"
+        env:
+          IDEE_PASSWORD: ${{ secrets.IDEE_PASSWORD }}  
+
       - name: Encrypt idee/ section
         run: |
           if [ ! -d "_site/idee" ]; then
