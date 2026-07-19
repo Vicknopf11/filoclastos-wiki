@@ -47,7 +47,6 @@ jobs:
 
       - name: Encrypt idee/ section
         run: |
-          set -x
           FILES=$(find _site -type d -iname "idee" -exec find {} -name "*.html" \;)
           echo "File trovati da cifrare:"
           echo "$FILES"
