@@ -30,6 +30,13 @@ jobs:
       - name: Build site with Jekyll
         run: bundle exec jekyll build --destination _site
 
+      - name: Debug - list _site contents
+        run: |
+          echo "--- struttura completa di _site ---"
+          find _site -maxdepth 4
+          echo "--- cerco specificamente idee ---"
+          find _site -iname "*idee*"
+
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
@@ -40,7 +47,16 @@ jobs:
 
       - name: Encrypt idee/ section
         run: |
-          find _site/idee -name "*.html" -print0 | while IFS= read -r -d '' file; do
+          set -x
+          FILES=$(find _site -type d -iname "idee" -exec find {} -name "*.html" \;)
+          echo "File trovati da cifrare:"
+          echo "$FILES"
+          if [ -z "$FILES" ]; then
+            echo "ATTENZIONE: nessun file trovato in una cartella idee/ dentro _site"
+            exit 0
+          fi
+          echo "$FILES" | while IFS= read -r file; do
+            echo "Cifro: $file"
             staticrypt "$file" -p "${{ secrets.IDEE_PASSWORD }}" \
               --short -o "$file" \
               --template-title "Filoclastos — Accesso protetto" \
