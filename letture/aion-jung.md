@@ -20,7 +20,7 @@ Commenti al testo di Jung, capitolo per capitolo.
 3. [L’Anima e l’Animus. L’altro che abita dentro di noi](#cap3)
 4. [Il Sè. Il centro che non ci appartiene](#cap4)
 5. [Cristo e l’ombra del Sé](#cap5)
-6. [Il segno dei Pesci](#cap5)
+6. [Il segno dei Pesci](#cap6)
 
 ---
 <a id="cap1"></a>
