@@ -20,6 +20,7 @@ Commenti al testo di Jung, capitolo per capitolo.
 3. [L’Anima e l’Animus. L’altro che abita dentro di noi](#cap3)
 4. [Il Sè. Il centro che non ci appartiene](#cap4)
 5. [Cristo e l’ombra del Sé](#cap5)
+6. [Il segno dei Pesci](#cap5)
 
 ---
 <a id="cap1"></a>
@@ -897,6 +898,152 @@ Non diventiamo migliori negando il male. Diventiamo soltanto meno capaci di rico
 La luce non elimina l’ombra. La rende visibile.
 
 Ed è soltanto ciò che diventa visibile che può essere assunto, trasformato e, forse, redento.
+
+[↑ Torna all'indice](#top)
+
+---
+
+<a id="cap6"></a>
+
+## Il segno dei Pesci
+
+Ogni epoca cerca un’immagine capace di raccontare il proprio mistero. Non sceglie quell'immagine razionalmente; piuttosto la scopre, come se fosse già presente nelle profondità della psiche collettiva. 
+
+Per Jung il cristianesimo trovò la propria nel pesce. A prima vista può sembrare un dettaglio marginale: un antico simbolo usato dai primi cristiani per riconoscersi durante le persecuzioni. Ma, osservato più attentamente, il pesce diventa una delle chiavi per comprendere non solo Cristo, ma l’intera storia spirituale dell’Occidente.
+
+Jung parte da un’osservazione che può apparire sconcertante. Nei primi secoli della Chiesa alcuni simboli appartengono contemporaneamente a Cristo e al diavolo. Il leone, il serpente, la stella del mattino, perfino il pesce possono rappresentare tanto il Salvatore quanto il suo avversario. 
+
+La coscienza religiosa vorrebbe separare con precisione assoluta il bene dal male, ma il simbolo autentico non conosce questa semplicità. Esso vive sempre sul confine degli opposti. 
+
+Più un’immagine si avvicina al mistero del Sé, meno può essere ridotta a un unico significato. Come la luce genera inevitabilmente un’ombra, così ogni simbolo che tenta di esprimere il divino porta con sé anche la possibilità del suo contrario.
+
+È qui che Jung introduce la figura del pesce. 
+
+La spiegazione più nota afferma che ΙΧΘΥΣ sia semplicemente l’acrostico di «Gesù Cristo Figlio di Dio Salvatore». 
+
+Jung non nega questa interpretazione, ma la considera insufficiente. 
+
+Il pesce era un simbolo sacro molto prima del cristianesimo. 
+
+Attraversava i culti mesopotamici, il mondo egizio, la religione fenicia, i miti indiani e numerose tradizioni mediterranee. Era già un’immagine della vita che emerge dalle acque, della salvezza, della rigenerazione e del mistero. 
+
+Il cristianesimo non inventa il pesce; lo riconosce come il simbolo più adatto per esprimere qualcosa che nessuna definizione avrebbe potuto contenere.
+
+Dal punto di vista psicologico questa scelta appare quasi inevitabile. 
+
+Il pesce vive nell’acqua e, nell’opera di Jung, l’acqua è quasi sempre il simbolo dell’inconscio. Il pesce appartiene dunque a quel mondo sommerso che precede la coscienza. 
+
+Non vive sulla terra illuminata dal sole, ma nelle profondità invisibili. Cristo, rappresentato come pesce, diventa allora l’immagine di qualcosa che sale dall’abisso della psiche collettiva. 
+
+Non è soltanto il Logos che discende dal cielo; è anche la vita nascosta che emerge dal caos primordiale. 
+
+In questa prospettiva il mistero dell’Incarnazione assume una profondità nuova: il divino non entra soltanto nel mondo dall’alto, ma affiora anche dalle profondità dell’essere umano.
+
+Per questo motivo i primi cristiani amavano definirsi pisciculi, piccoli pesci. 
+
+Il battesimo diventava una piscina nella quale il credente veniva immerso per rinascere. 
+
+L’immagine è semplice ma potentissima. Non si tratta soltanto di purificazione morale. 
+
+Entrare nell’acqua significa ritornare simbolicamente al caos originario, lasciar morire l’uomo vecchio e permettere che emerga una forma nuova di esistenza. Ogni autentica trasformazione psicologica segue lo stesso movimento: prima una discesa nelle profondità, poi una lenta risalita verso una coscienza più ampia.
+
+I Vangeli sembrano quasi costruiti attorno a questo simbolismo. 
+
+I primi discepoli sono pescatori. 
+
+Cristo promette di renderli pescatori di uomini. 
+
+Nutre la folla con pani e pesci. 
+
+Dopo la resurrezione condivide ancora del pesce con i suoi discepoli. 
+
+Jung insiste sul fatto che questi racconti non hanno l’aspetto di miti astrologici costruiti artificialmente. Sono episodi semplici, concreti, radicati nella vita quotidiana della Galilea. 
+
+Proprio questa naturalezza rende ancora più sorprendente la loro convergenza simbolica. Quando un archetipo si costella, le immagini sembrano organizzarsi spontaneamente attorno a un unico centro senza che nessuno le abbia progettate.
+
+È a questo punto che Jung introduce il tema più discusso del capitolo: l’eone dei Pesci. 
+
+Egli non afferma che gli astri determinino la storia umana. Sarebbe una lettura troppo ingenua del suo pensiero. Piuttosto suggerisce che esista una misteriosa corrispondenza tra il cielo simbolico e la psiche collettiva. 
+
+La precessione degli equinozi porta lentamente il punto vernale ad attraversare le diverse costellazioni zodiacali, dando origine a grandi epoche simboliche. 
+
+L’inizio dell’era cristiana coincide approssimativamente con l’ingresso nel segno dei Pesci. È allora che compare una religione il cui Salvatore viene rappresentato come pesce, i cui apostoli sono pescatori, i cui fedeli sono piccoli pesci e il cui rito fondamentale è l’immersione nell’acqua. 
+
+Per Jung questa non è una dimostrazione dell’astrologia, ma una straordinaria sincronicità: la stessa immagine emerge contemporaneamente nel cielo e nell’anima dell’uomo.
+
+Il segno dei Pesci, però, possiede una caratteristica decisiva. 
+
+Non raffigura un solo pesce, ma due. Due creature unite e, nello stesso tempo, orientate in direzioni opposte. 
+
+Qui Jung riconosce uno dei grandi archetipi dell’umanità: quello dei fratelli nemici. 
+
+Caino e Abele, Giacobbe ed Esaù, Romolo e Remo, Horus e Seth, Castore e Polluce. 
+
+Il conflitto fondamentale della storia non nasce mai da due realtà completamente estranee; nasce da due aspetti della stessa origine. 
+
+Così anche Cristo e Anticristo non rappresentano due mondi indipendenti, ma le due possibilità racchiuse nello stesso eone.
+
+Questa intuizione permette a Jung di rileggere l’intera storia dell’Occidente. 
+
+Il primo pesce rappresenta il sorgere della coscienza cristiana. Il secondo annuncia lentamente l’emergere del suo opposto. 
+
+Ogni volta che una civiltà sviluppa un principio in modo unilaterale, l’inconscio prepara il ritorno della parte esclusa. 
+
+Il Medioevo aveva privilegiato il cielo rispetto alla terra, lo spirito rispetto alla materia, la contemplazione rispetto all’azione. 
+
+Era inevitabile che, prima o poi, l’energia rimossa cercasse una via d’espressione. 
+
+Il Rinascimento, la Riforma, la nascita della scienza moderna e il progressivo dominio della tecnica non costituiscono semplicemente una negazione del cristianesimo; rappresentano il movimento compensatorio attraverso il quale la psiche collettiva tenta di ristabilire un equilibrio perduto.
+
+In questo passaggio assume un ruolo centrale la figura di Gioacchino da Fiore. 
+
+Egli immagina la storia come una successione di tre grandi epoche: quella del Padre, quella del Figlio e quella futura dello Spirito Santo. 
+
+Jung legge questa intuizione non soltanto come una costruzione teologica, ma come il segnale dell’emergere di un nuovo archetipo. 
+
+Lo Spirito non vuole più essere soltanto una verità custodita dalla Chiesa; desidera diventare esperienza interiore dell’individuo. 
+
+La rivelazione non può restare esclusivamente esterna. Deve incarnarsi nella coscienza personale.
+
+Ogni grande trasformazione, però, porta con sé il proprio pericolo. 
+
+Se l’uomo scopre il divino dentro di sé, può cadere nell’illusione di essere egli stesso Dio. 
+
+Molti movimenti spirituali medievali finirono proprio in questa inflazione. 
+
+Credevano di non avere più bisogno della Chiesa, del Vangelo, della tradizione o perfino di Dio. 
+
+L’esperienza autentica dello Spirito degenerava così nella convinzione di possedere definitivamente la verità. 
+
+Jung riconosce in questo meccanismo lo stesso fenomeno già descritto nel capitolo dedicato al Sé: l’Io entra in contatto con un contenuto archetipico e finisce per identificarsi con esso.
+
+È una tentazione che non appartiene soltanto al Medioevo. 
+
+Secondo Jung tutta la modernità ne rappresenta una nuova forma. Lo Spirito, non trovando più espressione nella religione, si trasferisce nelle ideologie. Le grandi promesse politiche, economiche e sociali assumono inconsapevolmente il posto che un tempo apparteneva alla salvezza religiosa. 
+
+Le parole cambiano, ma la struttura psicologica rimane identica. Si continua a promettere la redenzione definitiva, la pace universale, il bene assoluto. 
+
+Proprio qui Jung colloca il volto più sottile dell’Anticristo. Non come figura mostruosa, ma come identificazione dell’uomo con un ideale assoluto. Il male più pericoloso non si presenta mai dichiarandosi tale. Indossa sempre il linguaggio del bene.
+
+Per questo motivo il vero problema dell’Occidente non consiste nello scegliere definitivamente uno dei due pesci. 
+
+Non basta schierarsi con la luce contro l’oscurità, perché l’oscurità continua ad agire nell’inconscio. 
+
+Finché il male viene proiettato soltanto all’esterno, esso ritorna inevitabilmente sotto nuove forme collettive. 
+
+L’unica possibilità consiste nel riconoscere che il conflitto attraversa ogni essere umano. L’Anticristo non è soltanto una figura della storia; è la possibilità che accompagna ogni coscienza quando pretende di identificarsi completamente con il bene.
+
+Per Jung il futuro non appartiene quindi alla vittoria di uno dei due poli, ma alla loro integrazione. 
+
+Se l’eone dei Pesci è stato dominato dalla tensione tra Cristo e Anticristo, il simbolismo dell’eone successivo dovrebbe costellare il problema dell’unione degli opposti. 
+
+Non significa abolire la differenza tra bene e male, né giustificare il male. Significa riconoscere che nessuna redenzione autentica può nascere dalla rimozione dell’ombra. La totalità non coincide con la perfezione morale, ma con la capacità di sostenere coscientemente il conflitto senza esserne posseduti.
+
+Alla fine del capitolo il simbolo dei due pesci acquista così un significato universale. Essi non raccontano soltanto la storia del cristianesimo. 
+
+Raccontano la storia dell’anima umana. Ogni volta che crediamo di aver raggiunto definitivamente la luce, il secondo pesce ricompare silenziosamente dalle profondità. Non per distruggere il cammino compiuto, ma per ricordarci che nessuna verità può diventare assoluta senza trasformarsi nel proprio contrario. 
+
+Il vero compito dell’uomo non è eliminare uno dei due pesci. È imparare a riconoscere il filo invisibile che li unisce e che, da sempre, conduce entrambi verso il medesimo mare: il mistero del Sé.
 
 [↑ Torna all'indice](#top)
 
