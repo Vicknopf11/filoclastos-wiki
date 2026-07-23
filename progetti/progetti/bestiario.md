@@ -4,11 +4,16 @@ categoria: progetti
 sommario: "Viviamo in un tempo dove i politici non sono più uomini, ma maschere grottesche."
 ---
 
-Viviamo in un tempo dove i politici non sono più uomini, ma maschere grottesche. La democrazia europea non è tragedia e nemmeno commedia: è teatro porno-burocratico. 
+Viviamo in un tempo in cui i politici non sono più uomini, ma maschere grottesche. La democrazia europea non è tragedia e nemmeno commedia: è teatro porno-burocratico. 
 Per questo in Sbùrsula i protagonisti non hanno nomi "reali", ma maschere satiriche: figure più vere del vero.
 Sbùrsula è un bestiario: non di animali, ma di demoniaci archetipi travestiti da uomini. Un catalogo di parodie che mette a nudo la pornografia del potere.
 Se riderete di loro, significa che li avete riconosciuti. Se vi scandalizzerete, significa che il libro ha colpito nel segno.
-👉 L'opera completa è qui: [Sbùrsula su YouCanPrint](https://store.youcanprint.it/sbursula/b/d38fa2d4-28d5-5a04-ae71-148c9ed0e746)
+👉 L'opera completa è qui: 
+[YouCanPrint](https://store.youcanprint.it/sbursula/b/d38fa2d4-28d5-5a04-ae71-148c9ed0e746)
+[Mondadori](https://www.mondadoristore.it/sbursula-porno-epistemologia-dell-escatologia-eurocratica-libro-filoclastos-ferox/p/9791224019169)
+[Libreria Universitaria](https://www.libreriauniversitaria.it/sbursula-porno-epistemologia-escatologia-eurocratica/libro/9791224019169)
+[Lucca Sapiens Libreria](https://www.luccasapiens.it/scheda-libro/filoclastos-ferox/sbursula-porno-epistemologia-dellescatologia-eurocratica-9791224019169-4887875.html)
+[Feltrinelli](https://www.lafeltrinelli.it/sbursula-porno-epistemologia-dell-escatologia-libro-filoclastos-ferox/e/9791224019169?inventoryId=409851627)
 
 ---
 
