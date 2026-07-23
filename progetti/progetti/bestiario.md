@@ -1,5 +1,5 @@
 ---
-title: Bestiario sbùrsulano: l'orgia dei potenti
+title: Bestiario sbùrsulano
 categoria: progetti
 sommario: "Viviamo in un tempo dove i politici non sono più uomini, ma maschere grottesche."
 ---
