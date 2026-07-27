@@ -19,6 +19,8 @@ Un percorso capitolo per capitolo attraverso il Libro dei Proverbi.
 3. [Proverbi 1: imparare oppure avere già ragione](#cap3)
 4. [Proverbi 2: costruire un carattere che sappia scegliere](#cap4)
 5. [Proverbi 3: Fidarsi della realtà più che del proprio ego](#cap5)
+6. [Proverbi 4: Fidarsi della realtà più che del proprio ego](#cap6)
+
 
 
 ---
@@ -609,3 +611,207 @@ Per questa settimana non cercare di avere l'ultima parola. Cerca di vedere un po
 
 
 [↑ Torna all'indice](#top)
+
+---
+<a id="cap6"></a>
+
+## Proverbi 4: Custodisci il tuo cuore
+
+> **Idea chiave**
+>
+> Non è ciò che ti accade a determinare la tua vita.
+> È ciò che permetti di entrare nel tuo cuore.
+
+---
+
+### 1. Il problema umano
+
+Molte persone cercano di cambiare la propria vita modificando ciò che sta fuori.
+
+Cambiano lavoro.
+
+Cambiano città.
+
+Cambiano partner.
+
+Cambiano obiettivi.
+
+Cambiano telefono.
+
+Cambiano casa.
+
+Eppure, dopo qualche tempo, si ritrovano con gli stessi problemi.
+
+Perché? Perché il mondo esterno cambia più velocemente del mondo interiore.
+
+Se dentro di noi rimangono le stesse paure, gli stessi desideri disordinati, gli stessi automatismi e gli stessi pregiudizi, tenderemo a ricreare gli stessi risultati, anche in contesti completamente diversi.
+
+Il problema non è soltanto ciò che facciamo. Il problema è **chi siamo mentre lo facciamo.**
+
+La domanda di questo capitolo è semplice.
+
+**Che cosa sta formando il tuo cuore ogni giorno?**
+
+---
+
+### 2. L'ipotesi dei Proverbi
+
+Il quarto capitolo propone un principio fondamentale.
+
+La cosa più importante che possiamo custodire non è il denaro. Non è la reputazione. Non è il successo.
+
+È il cuore.
+
+Nel linguaggio biblico il cuore non indica semplicemente le emozioni. È il centro della persona. È il luogo dove nascono pensieri, desideri, decisioni e volontà.
+
+Per questo motivo il Proverbio afferma che da esso "sgorga la vita".
+
+Prima nasce una convinzione.
+
+Poi un'abitudine.
+
+Poi un carattere.
+
+Infine una vita.
+
+L'ipotesi di questo capitolo è quindi la seguente.
+
+> **La qualità della nostra vita dipende dalla qualità di ciò che alimenta il nostro mondo interiore.**
+
+---
+
+### 3. Cosa sappiamo oggi
+
+La psicologia contemporanea mostra che i nostri comportamenti sono fortemente influenzati da ciò a cui prestiamo attenzione in modo abituale.
+
+L'attenzione non è soltanto un processo passivo. È uno dei principali meccanismi attraverso cui il cervello costruisce priorità, rafforza abitudini e consolida schemi mentali.
+
+La terapia cognitivo-comportamentale evidenzia inoltre che pensieri ricorrenti influenzano emozioni e comportamenti, mentre la ricerca sulla neuroplasticità mostra che ciò che ripetiamo tende a rafforzarsi nel tempo.
+
+Anche la filosofia antica aveva intuito questo principio.
+
+Marco Aurelio scrive:
+
+> "La tua vita è ciò che i tuoi pensieri fanno di essa."
+
+I Proverbi esprimono un'intuizione simile, ma ancora più radicale. Non limitarti a controllare i tuoi pensieri. Custodisci la sorgente da cui essi nascono.
+
+**Livello di evidenza:** forte consenso sul ruolo dell'attenzione, delle abitudini cognitive e della neuroplasticità; l'identificazione del "cuore" come centro spirituale appartiene invece alla prospettiva biblica.
+
+---
+
+### 4. Regole pratiche
+
+Per questa settimana osserva ciò che alimenta il tuo cuore.
+
+Ogni giorno:
+
+- limita il tempo dedicato a contenuti che alimentano rabbia, paura o invidia;
+- dedica almeno quindici minuti a qualcosa che eleva il tuo spirito (lettura, meditazione, preghiera, contemplazione, arte);
+- parla meno e ascolta di più;
+- evita parole inutilmente aggressive o sarcastiche;
+- chiediti spesso: "Quello che sto facendo sta costruendo o consumando il mio carattere?"
+
+Ricorda. Ogni esperienza lascia una traccia.
+
+Scegli con attenzione quali tracce desideri rafforzare.
+
+---
+
+### 5. Esperimento di sette giorni
+
+### Obiettivo
+
+Diventare consapevole di ciò che alimenta il proprio mondo interiore.
+
+### Ogni mattina
+
+Prima di iniziare la giornata chiediti.
+
+> Che tipo di persona voglio diventare oggi?
+
+Scegli una sola qualità.
+
+Ad esempio:
+
+- calma;
+- pazienza;
+- coraggio;
+- sincerità;
+- gratitudine.
+
+### Durante la giornata
+
+Ogni volta che consumi un contenuto (social, notizie, conversazioni, video, libri) domandati.
+
+> Questo sta nutrendo il mio cuore oppure lo sta inquinando?
+
+### Ogni sera
+
+Scrivi.
+
+- Quale evento ha avuto il maggiore impatto sul mio stato interiore?
+- Che cosa ha aumentato la mia serenità?
+- Che cosa ha alimentato paura, rabbia o vanità?
+
+---
+
+### 6. Domande di riflessione
+
+Che cosa occupa più spesso i miei pensieri?
+
+Quali persone influenzano maggiormente il mio modo di vedere il mondo?
+
+Quali contenuti consumo ogni giorno?
+
+Sto coltivando il tipo di persona che desidero diventare?
+
+Che cosa entrerebbe meno facilmente nel mio cuore se fossi più consapevole?
+
+---
+
+### 7. Testo originale
+
+> "Principio di sapienza: acquista la sapienza;
+> a costo di tutto ciò che possiedi,
+> acquista l'intelligenza."
+>
+> *(Proverbi 4,7)*
+
+> "La strada dei giusti è come la luce dell'alba,
+> che aumenta lo splendore fino al meriggio.
+>
+> *(Proverbi 4,18)*
+
+> "Con ogni cura vigila sul cuore,
+> perché da esso sgorga la vita."
+>
+> *(Proverbi 4,23)*
+
+> "I tuoi occhi guardino diritto
+> e le tue pupille mirino davanti a te."
+>
+> *(Proverbi 4,25)*
+
+---
+
+### 8. Conclusioni
+
+Ogni vita segue una direzione. Quella direzione non viene decisa dalle grandi occasioni. Viene decisa dalle piccole scelte ripetute ogni giorno.
+
+Ogni parola ascoltata.
+
+Ogni pensiero coltivato.
+
+Ogni desiderio alimentato.
+
+Ogni abitudine rafforzata.
+
+Il cuore è il luogo in cui queste scelte si accumulano lentamente fino a diventare carattere. E il carattere, con il tempo, diventa destino.
+
+Per questa settimana non cercare di controllare il mondo. Custodisci ciò che entra nel tuo cuore. Il resto inizierà lentamente a cambiare.
+
+[↑ Torna all'indice](#top)
+
+---
+
