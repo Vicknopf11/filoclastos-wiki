@@ -20,8 +20,33 @@ Un percorso capitolo per capitolo attraverso il Libro dei Proverbi.
 4. [Proverbi 2: costruire un carattere che sappia scegliere](#cap4)
 5. [Proverbi 3: Fidarsi della realtà più che del proprio ego](#cap5)
 6. [Proverbi 4: Fidarsi della realtà più che del proprio ego](#cap6)
-
-
+7. [Proverbi 5: Governare il desiderio prima che il desiderio governi te](#cap7)
+8. [Proverbi 6: ](#cap8)
+9. [Proverbi 7: ](#cap9)
+10. [Proverbi 8: ](#cap10)
+11. [Proverbi 9: ](#cap11)
+12. [Proverbi 10: ](#cap12)
+13. [Proverbi 11: ](#cap13)
+14. [Proverbi 12: ](#cap14)
+15. [Proverbi 13: ](#cap15)
+16. [Proverbi 14: ](#cap16)
+17. [Proverbi 15: ](#cap17)
+18. [Proverbi 16: ](#cap18)
+19. [Proverbi 17: ](#cap19)
+20. [Proverbi 18: ](#cap20)
+21. [Proverbi 19: ](#cap21)
+22. [Proverbi 20: ](#cap22)
+23. [Proverbi 21: ](#cap23)
+24. [Proverbi 22: ](#cap24)
+25. [Proverbi 23: ](#cap25)
+26. [Proverbi 24: ](#cap26)
+27. [Proverbi 25: ](#cap27)
+28. [Proverbi 26: ](#cap28)
+29. [Proverbi 27: ](#cap29)
+30. [Proverbi 28: ](#cap30)
+31. [Proverbi 29: ](#cap31)
+32. [Proverbi 30: ](#cap32)
+33. [Proverbi 31: ](#cap33)
 
 ---
 <a id="cap1"></a>
@@ -628,17 +653,12 @@ Per questa settimana non cercare di avere l'ultima parola. Cerca di vedere un po
 
 Molte persone cercano di cambiare la propria vita modificando ciò che sta fuori.
 
-Cambiano lavoro.
-
-Cambiano città.
-
-Cambiano partner.
-
-Cambiano obiettivi.
-
-Cambiano telefono.
-
-Cambiano casa.
+* Cambiano lavoro.
+* Cambiano città.
+* Cambiano partner.
+* Cambiano obiettivi.
+* Cambiano telefono.
+* Cambiano casa.
 
 Eppure, dopo qualche tempo, si ritrovano con gli stessi problemi.
 
@@ -758,15 +778,11 @@ Scrivi.
 
 ### 6. Domande di riflessione
 
-Che cosa occupa più spesso i miei pensieri?
-
-Quali persone influenzano maggiormente il mio modo di vedere il mondo?
-
-Quali contenuti consumo ogni giorno?
-
-Sto coltivando il tipo di persona che desidero diventare?
-
-Che cosa entrerebbe meno facilmente nel mio cuore se fossi più consapevole?
+* Che cosa occupa più spesso i miei pensieri?
+* Quali persone influenzano maggiormente il mio modo di vedere il mondo?
+* Quali contenuti consumo ogni giorno?
+* Sto coltivando il tipo di persona che desidero diventare?
+* Che cosa entrerebbe meno facilmente nel mio cuore se fossi più consapevole?
 
 ---
 
@@ -799,13 +815,13 @@ Che cosa entrerebbe meno facilmente nel mio cuore se fossi più consapevole?
 
 Ogni vita segue una direzione. Quella direzione non viene decisa dalle grandi occasioni. Viene decisa dalle piccole scelte ripetute ogni giorno.
 
-Ogni parola ascoltata.
+* Ogni parola ascoltata.
 
-Ogni pensiero coltivato.
+* Ogni pensiero coltivato.
 
-Ogni desiderio alimentato.
+* Ogni desiderio alimentato.
 
-Ogni abitudine rafforzata.
+* Ogni abitudine rafforzata.
 
 Il cuore è il luogo in cui queste scelte si accumulano lentamente fino a diventare carattere. E il carattere, con il tempo, diventa destino.
 
@@ -815,3 +831,348 @@ Per questa settimana non cercare di controllare il mondo. Custodisci ciò che en
 
 ---
 
+<a id="cap7"></a>
+
+## Proverbi 5: Governare il desiderio prima che il desiderio governi te
+
+> **Idea chiave**
+>
+> Il problema non è desiderare.
+>
+> Il problema è lasciare che il desiderio diventi il tuo padrone.
+
+---
+
+### 1. Il problema umano
+
+Ogni essere umano desidera.
+
+* Desideriamo amore.
+* Successo.
+* Piacere.
+* Riconoscimento.
+* Sicurezza.
+
+Il desiderio, di per sé, non è il nemico. È uno dei motori della vita.
+
+Il problema nasce quando smettiamo di guidarlo.
+
+Molte delle più grandi tragedie personali non iniziano con una cattiva intenzione.
+
+Iniziano con una piccola concessione.
+
+* "Solo questa volta."
+* "Non succederà nulla."
+* "Posso controllarlo."
+
+Ma il desiderio ha una caratteristica particolare. Se viene continuamente soddisfatto senza disciplina, tende ad aumentare.
+
+Ciò che ieri sembrava sufficiente oggi non basta più.
+
+La domanda di questo capitolo è semplice.
+
+**Chi sta guidando la tua vita: tu o i tuoi desideri?**
+
+---
+
+### 2. L'ipotesi dei Proverbi
+
+Il quinto capitolo utilizza una potente immagine simbolica. La "donna straniera".
+
+Nel suo significato letterale rappresenta l'adulterio e la seduzione sessuale.
+
+Ma il principio può essere esteso a ogni forma di seduzione che promette felicità immediata mentre prepara una schiavitù futura.
+
+All'inizio tutto appare dolce. "Stillano miele le sue labbra." Poi arriva il prezzo.
+
+Il desiderio che non viene governato finisce per governare noi.
+
+Per questo il testo non dice semplicemente: "Resisti."
+
+Dice qualcosa di molto più radicale.
+
+> **Non avvicinarti nemmeno alla porta della sua casa.**
+
+La vera disciplina consiste nel non iniziare la battaglia che probabilmente perderai.
+
+L'ipotesi del capitolo è quindi questa.
+
+> **La libertà non consiste nel soddisfare ogni desiderio, ma nello scegliere quali desideri meritano di diventare parte della nostra vita.**
+
+---
+
+### 3. Cosa sappiamo oggi
+
+La psicologia distingue tra gratificazione immediata e gratificazione differita.
+
+Numerosi studi mostrano che la capacità di rinviare una ricompensa è associata, in media, a migliori risultati nel lungo periodo in diversi ambiti della vita, anche se non determina da sola il successo di una persona.
+
+Le neuroscienze mostrano inoltre che il sistema dopaminergico tende ad anticipare la ricompensa.
+
+Più inseguiamo stimoli intensi e frequenti, più il cervello può abituarsi a ricercarne di nuovi. Questo meccanismo è coinvolto in molte forme di dipendenza, non solo da sostanze, ma anche comportamentali.
+
+Il capitolo propone una strategia sorprendentemente moderna. Non affidarti esclusivamente alla forza di volontà. Progetta l'ambiente in modo da ridurre l'esposizione alla tentazione.
+
+Anche oggi sappiamo che modificare il contesto è spesso più efficace che contare soltanto sull'autocontrollo.
+
+**Livello di evidenza:** forte consenso sul ruolo della gratificazione differita e dell'influenza dell'ambiente sul comportamento. L'applicazione morale del principio appartiene invece alla riflessione etica.
+
+---
+
+### 4. Regole pratiche
+
+Per questa settimana osserva il rapporto con i tuoi desideri.
+
+Ogni giorno:
+
+- individua una tentazione ricorrente;
+- evita deliberatamente le situazioni che la rendono più probabile;
+- quando nasce un impulso, aspetta almeno dieci minuti prima di agire;
+- investi tempo ed energie nelle relazioni e nei progetti che desideri custodire nel lungo periodo;
+- ricorda che ogni "sì" pronunciato a qualcosa è anche un "no" pronunciato a qualcos'altro.
+
+Non chiederti soltanto: "Cosa desidero?"
+
+Chiediti anche: "Che tipo di persona mi farà diventare questo desiderio?"
+
+---
+
+### 5. Esperimento di sette giorni
+
+### Obiettivo
+
+Riprendere il controllo di un desiderio abituale.
+
+### Giorno 1
+
+Scegli un solo comportamento impulsivo che desideri osservare.
+
+Può essere:
+
+- controllare continuamente il telefono;
+- acquistare senza riflettere;
+- procrastinare;
+- mangiare per noia;
+- cercare continuamente approvazione;
+- qualsiasi altra abitudine che senti governare più te di quanto tu governi lei.
+
+### Giorni 2-7
+
+Quando compare l'impulso:
+
+1. Fermati.
+2. Respira lentamente.
+3. Dai un nome al desiderio.
+4. Attendi dieci minuti.
+5. Decidi consapevolmente.
+
+Non cercare di reprimere il desiderio. Impara ad osservarlo.
+
+### Ogni sera
+
+Scrivi.
+
+- Quando il desiderio è comparso?
+- Come l'ho gestito?
+- Che cosa ho scoperto su di me?
+
+---
+
+# 6. Domande di riflessione
+
+* Quali desideri stanno costruendo la mia vita?
+
+* Quali invece la stanno consumando?
+
+* In quale ambito mi illudo di avere il controllo?
+
+* Quale piacere immediato rischia di compromettere qualcosa di molto più prezioso?
+
+* Che cosa significa, per me, essere veramente libero?
+
+---
+
+### 7. Testo originale
+
+> "Stillano miele le labbra della straniera,
+> e più viscida dell'olio è la sua bocca;
+> ma ciò che segue è amaro come assenzio."
+>
+> *(Proverbi 5,3-4)*
+
+> "Tieni lontano da lei il tuo cammino
+> e non avvicinarti alla porta della sua casa."
+>
+> *(Proverbi 5,8)*
+
+> "Bevi l'acqua della tua cisterna
+> e quella che zampilla dal tuo pozzo."
+>
+> *(Proverbi 5,15)*
+
+> "Trova gioia nella donna della tua giovinezza...
+> sii sempre invaghito del suo amore."
+>
+> *(Proverbi 5,18-19)*
+
+---
+
+### 8. Conclusioni
+
+La sapienza non elimina il desiderio. Lo educa.
+
+Non ci chiede di vivere una vita più povera. Ci invita a costruire una vita più profonda.
+
+Il desiderio impulsivo promette molto e lascia poco.
+
+Il desiderio coltivato lentamente diventa sorgente di gioia, stabilità e libertà.
+
+Per questa settimana non combattere contro il desiderio.
+
+Impara a distinguere quelli che ti fanno crescere da quelli che ti consumano.
+
+Perché ogni desiderio che alimenti oggi contribuirà a costruire la persona che sarai domani.
+
+[↑ Torna all'indice](#top)
+
+---
+
+<a id="cap8"></a>
+
+[↑ Torna all'indice](#top)
+
+---
+
+<a id="cap9"></a>
+
+[↑ Torna all'indice](#top)
+
+---
+
+<a id="cap10"></a>
+
+[↑ Torna all'indice](#top)
+
+---
+
+<a id="cap11"></a>
+
+[↑ Torna all'indice](#top)
+
+---
+
+<a id="cap12"></a>
+
+[↑ Torna all'indice](#top)
+
+---
+
+<a id="cap13"></a>
+
+[↑ Torna all'indice](#top)
+
+---
+
+<a id="cap14"></a>
+
+[↑ Torna all'indice](#top)
+
+---
+
+<a id="cap15"></a>
+
+[↑ Torna all'indice](#top)
+
+---
+
+<a id="cap16"></a>
+
+[↑ Torna all'indice](#top)
+
+---
+
+<a id="cap17"></a>
+
+[↑ Torna all'indice](#top)
+
+---
+
+<a id="cap18"></a>
+
+[↑ Torna all'indice](#top)
+
+---
+
+<a id="cap19"></a>
+
+[↑ Torna all'indice](#top)
+
+---
+
+<a id="cap20"></a>
+
+[↑ Torna all'indice](#top)
+
+---
+
+<a id="cap21"></a>
+
+[↑ Torna all'indice](#top)
+
+---
+
+<a id="cap22"></a>
+
+[↑ Torna all'indice](#top)
+
+---
+
+<a id="cap23"></a>
+
+[↑ Torna all'indice](#top)
+
+---
+
+<a id="cap24"></a>
+
+[↑ Torna all'indice](#top)
+
+---
+
+<a id="cap25"></a>
+
+[↑ Torna all'indice](#top)
+
+---
+
+<a id="cap26"></a>
+
+[↑ Torna all'indice](#top)
+
+---
+
+<a id="cap27"></a>
+
+[↑ Torna all'indice](#top)
+
+---
+
+<a id="cap28"></a>
+
+[↑ Torna all'indice](#top)
+
+---
+
+<a id="cap29"></a>
+
+[↑ Torna all'indice](#top)
+
+---
+
+<a id="cap30"></a>
+
+[↑ Torna all'indice](#top)
+
+---
+
+<a id="cap31"></a>
