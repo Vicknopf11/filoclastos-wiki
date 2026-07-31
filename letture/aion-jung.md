@@ -1050,7 +1050,7 @@ Il vero compito dell’uomo non è eliminare uno dei due pesci. È imparare a ri
 
 ---
 
-<a id="cap1"></a>
+<a id="cap7"></a>
 
 ## La profezia di Nostradamus
 
