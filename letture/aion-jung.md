@@ -21,6 +21,7 @@ Commenti al testo di Jung, capitolo per capitolo.
 4. [Il Sè. Il centro che non ci appartiene](#cap4)
 5. [Cristo e l’ombra del Sé](#cap5)
 6. [Il segno dei Pesci](#cap6)
+7. [La profezia di Nostradamus](#cap7)
 
 ---
 <a id="cap1"></a>
@@ -1044,6 +1045,172 @@ Alla fine del capitolo il simbolo dei due pesci acquista così un significato un
 Raccontano la storia dell’anima umana. Ogni volta che crediamo di aver raggiunto definitivamente la luce, il secondo pesce ricompare silenziosamente dalle profondità. Non per distruggere il cammino compiuto, ma per ricordarci che nessuna verità può diventare assoluta senza trasformarsi nel proprio contrario. 
 
 Il vero compito dell’uomo non è eliminare uno dei due pesci. È imparare a riconoscere il filo invisibile che li unisce e che, da sempre, conduce entrambi verso il medesimo mare: il mistero del Sé.
+
+[↑ Torna all'indice](#top)
+
+---
+
+<a id="cap1"></a>
+
+## La profezia di Nostradamus
+
+Dopo aver mostrato nel segno dei Pesci la struttura profonda dell’eone cristiano, Jung compie un passo ulteriore. Non si limita più a leggere il passato. Si domanda se quella stessa struttura avrebbe potuto essere riconosciuta in anticipo.
+
+Se un’epoca è dominata da un archetipo, e se quell’archetipo si esprime nei simboli religiosi, nelle immagini astrologiche e nei conflitti collettivi, allora forse il corso generale della storia può essere intuito prima che gli eventi assumano una forma concreta.
+
+Non previsto nei dettagli. Non calcolato come un’equazione. Ma anticipato simbolicamente.
+
+È in questo contesto che compare Nostradamus.
+
+Jung non lo presenta come un veggente capace di osservare il futuro in modo soprannaturale. Lo considera piuttosto un uomo immerso nel linguaggio simbolico del proprio tempo, sufficientemente sensibile da cogliere le tensioni già presenti nella psiche collettiva dell’Occidente.
+
+La profezia non nascerebbe allora dalla conoscenza di ciò che ancora non esiste. Nascerebbe dalla percezione di ciò che esiste già, ma non è ancora diventato cosciente.
+
+Ogni futuro è contenuto in qualche misura nelle forze attive del presente. Il seme non mostra ancora l’albero, ma ne porta già la forma.
+
+Per Jung l’eone cristiano contiene fin dall’inizio la propria enantiodromia. L’immagine di Cristo, sviluppata sempre più come simbolo assoluto di luce, bontà e spiritualità, costella inevitabilmente il proprio contrario. Il movimento ascendente della civiltà medievale prepara la discesa verso la materia. La verticalità della cattedrale prepara l’orizzontalità della conquista del mondo.
+
+L’uomo medievale alzava lo sguardo verso il cielo. L’uomo moderno lo dirige verso l’orizzonte. È un cambiamento simbolico prima ancora che geografico.
+
+La linea verticale univa la terra a Dio. La linea orizzontale conduce verso terre sconosciute, risorse, imperi, conoscenza naturale e dominio tecnico. Le grandi esplorazioni non rappresentano soltanto un’espansione dello spazio europeo. Esprimono una trasformazione della coscienza.
+
+L’energia che prima si dirigeva verso l’alto comincia a muoversi verso l’esterno.
+
+L’interiorità religiosa si converte progressivamente in conquista del mondo.
+
+Questo movimento non è per Jung semplicemente negativo. Ha prodotto scienza, conoscenza, emancipazione e ampliamento dell’esperienza umana. Ma, come ogni enantiodromia, porta con sé il rischio di diventare unilaterale. La civiltà che aveva sacrificato la terra al cielo finisce per sacrificare il cielo alla terra.
+
+La materia non viene più integrata nello spirito. Prende il suo posto.
+
+È in questo punto di svolta che Jung colloca le profezie di Nostradamus.
+
+Nella lettera indirizzata a Enrico II di Francia, Nostradamus indica il 1792 come inizio di una nuova persecuzione contro la Chiesa. Parla di un rinnovamento dell’epoca, dell’ascesa di una potenza infernale, della distruzione del santuario, del ritorno del paganesimo e di un enorme spargimento di sangue.
+
+Letto superficialmente, il testo appare come una delle molte profezie apocalittiche prodotte dall’Europa cristiana.
+
+Jung però nota una coincidenza difficile da ignorare. Nel 1792 entra in vigore il calendario rivoluzionario francese. Il tempo stesso viene rifondato.
+
+Gli anni non vengono più contati dalla nascita di Cristo. I mesi ricevono nuovi nomi. La settimana cristiana viene abolita. La ragione viene celebrata come dea. Le chiese vengono trasformate in templi civili. L’ordine religioso non viene soltanto contestato politicamente: viene sostituito simbolicamente.
+
+La rivoluzione non vuole semplicemente cambiare il governo. Vuole inaugurare un’epoca nuova.
+
+Ogni rivoluzione radicale possiede questa struttura religiosa. Divide il tempo in un prima e un dopo. Dichiara conclusa l’età della corruzione e annuncia l’inizio della redenzione. Possiede martiri, santi, eresie, dogmi, liturgie e nemici assoluti.
+
+Anche quando combatte la religione, ne riproduce spesso le forme psichiche. Jung vede nella Rivoluzione francese una manifestazione concreta dell’enantiodromia iniziata secoli prima.
+
+Il cristianesimo aveva posto Dio al centro dell’ordine. La rivoluzione vi pone l’uomo.
+
+La Chiesa aveva proclamato una legge rivelata. La rivoluzione proclama la legge della ragione.
+
+La salvezza era attesa da Cristo. Ora viene attesa dalla trasformazione politica.
+
+L’assoluto non scompare. Cambia sede.
+
+Questa è la chiave per comprendere il significato junghiano dell’Anticristo. Non è necessariamente colui che dichiara apertamente guerra al bene. È il principio che assume le forme della redenzione mentre rovescia il contenuto del simbolo cristiano.
+
+L’Anticristo imita. Non inventa una struttura nuova.
+
+Utilizza il linguaggio del Salvatore, ma sostituisce alla trasformazione interiore la potenza collettiva; alla grazia, l’ideologia; alla conversione, la coercizione; al regno di Dio, il regno costruito dall’uomo.
+
+Per questo il male storico non si presenta normalmente con il volto del mostro.
+
+Si presenta come liberazione. Come giustizia. Come rinnovamento. Come necessità della storia. Come bene imposto a coloro che non sono ancora capaci di comprenderlo.
+
+Nostradamus parla di uomini sedotti da lingue più taglienti delle spade. Jung riconosce qui una caratteristica fondamentale della possessione ideologica. La parola precede la violenza. Prima di essere eliminato fisicamente, l’avversario deve essere trasformato simbolicamente in nemico dell’umanità, della verità o del futuro.
+
+La propaganda non è un ornamento del potere. È il processo attraverso il quale la coscienza morale viene modificata fino a rendere legittimo ciò che prima sarebbe apparso intollerabile.
+
+L’uomo non viene convinto di fare il male. Viene convinto che ciò che fa sia necessario per il bene.
+
+È proprio qui che la profezia acquista il suo significato psicologico. Nostradamus non avrebbe avuto bisogno di conoscere gli eventi futuri nei loro dettagli. Gli bastava cogliere la configurazione archetipica già presente.
+
+Una civiltà che si identificava sempre più esclusivamente con la luce cristiana stava preparando il ritorno della propria Ombra. Una cultura che aveva spiritualizzato il male fino a collocarlo fuori dall’uomo stava diventando incapace di riconoscerlo nei propri progetti di salvezza.
+
+Il futuro era già presente come possibilità inconscia.
+
+Le date utilizzate da Nostradamus non derivano tuttavia soltanto dall’intuizione. Jung mostra che appartengono a una lunga tradizione astrologica. Pierre d’Ailly e altri autori medievali avevano calcolato grandi cicli planetari e associato determinate congiunzioni alla trasformazione delle religioni, alla nascita di nuove sette e alla venuta dell’Anticristo.
+
+Il 1789 emergeva già in questi calcoli come anno critico. Nostradamus lo sposta al 1792. La differenza è storicamente impressionante, ma Jung non la usa per dimostrare una capacità soprannaturale di previsione. Il punto più importante è che l’immaginazione europea aveva preparato da secoli uno schema simbolico attraverso il quale interpretare la crisi futura.
+
+Saturno, Giove, Mercurio e Marte non sono soltanto pianeti. Sono portatori di qualità psichiche. Regalità e limite. Legge e sovversione. Spirito e violenza. Ordine e distruzione.
+
+L’astrologia organizza queste tensioni in una forma cosmica. Proietta nel cielo i conflitti della psiche collettiva e poi li rilegge come destino.
+
+È facile liquidare tutto ciò come superstizione. Ma, per Jung, sarebbe un errore troppo semplice.
+
+La questione non è se i pianeti causino la rivoluzione. La questione è perché l’uomo abbia sentito il bisogno di rappresentare attraverso i pianeti le proprie trasformazioni storiche.
+
+L’astrologia è psicologicamente significativa perché attribuisce un ordine sovrapersonale agli eventi che l’individuo non è in grado di controllare. Essa esprime l’intuizione che la storia non sia prodotta soltanto da decisioni razionali, ma da forze collettive più grandi dei singoli uomini.
+
+Il linguaggio astrologico è antico. Il fenomeno che descrive rimane attuale.
+
+Anche oggi parliamo di spirito del tempo, di forze storiche, di sistemi, di dinamiche collettive e di cicli politici. Abbiamo cambiato il vocabolario, non necessariamente l’esperienza fondamentale.
+
+Jung dedica poi particolare attenzione alla provenienza settentrionale dell’Anticristo annunciato da Nostradamus. Per comprenderne il senso ricostruisce un’antica geografia simbolica.
+
+Il Nord è il luogo del freddo, dell’oscurità e del vento maligno. Da lì, secondo numerosi testi biblici e medievali, irrompe il male. Lucifero vuole stabilire il proprio trono nelle regioni settentrionali. I profeti vedono arrivare dal Nord la tempesta, il fumo e il fuoco. I commentatori cristiani vi collocano il diavolo, la persecuzione e l’ignoranza.
+
+Non si tratta naturalmente di una descrizione geografica neutrale. Il Nord è un’immagine psichica. Rappresenta ciò che si trova fuori dalla luce cosciente, nella regione fredda e lontana dell’anima. È il luogo dal quale emerge ciò che la coscienza religiosa non vuole riconoscere come proprio.
+
+Ma Jung nota una contraddizione decisiva.
+
+Anche la visione divina di Ezechiele arriva dal Nord. La nube di fuoco, il vento e la presenza di Dio provengono dalla stessa direzione associata al male. Il luogo dell’oscurità è anche il luogo della rivelazione.
+
+Questa ambivalenza incrina ogni divisione troppo semplice.
+
+Il numinoso non appartiene soltanto alla luce. Può manifestarsi nella tempesta, nel terrore e nel fuoco. La stessa regione simbolica può generare il demonio e il Dio vivente.
+
+Questo non significa che bene e male siano identici. Significa che l’esperienza del sacro non coincide con il rassicurante. Il divino può sconvolgere la coscienza, distruggere i suoi schemi e presentarsi in forme che essa giudica oscure.
+
+Ancora una volta, il simbolo rifiuta la separazione assoluta che la coscienza vorrebbe imporgli.
+
+Anche la figura dell’Anticristo subisce continui spostamenti storici. Per alcuni era Nerone. Per altri Maometto. Durante la Riforma, cattolici e protestanti si accusarono reciprocamente di incarnarlo. Lutero fu presentato come Anticristo; il papato ricevette la stessa accusa dai riformatori. In epoche successive l’immagine venne applicata a nuovi avversari.
+
+Il contenuto cambia. La struttura rimane. Ogni parte si identifica con la verità e colloca l’Anticristo nel campo nemico.
+
+In questo senso, la figura escatologica diventa uno dei più potenti contenitori dell’Ombra collettiva.
+
+L’Anticristo è sempre l’altro. Mai colui che pronuncia l’accusa.
+
+Ma proprio questo meccanismo rivela ciò che la coscienza non vuole vedere: ogni volta che un gruppo si considera rappresentante assoluto del bene, rende psicologicamente necessaria la costruzione di un nemico assoluto.
+
+L’Anticristo non viene semplicemente scoperto. Viene prodotto dalla polarizzazione della coscienza.
+
+Jung ricorda infine che il nazismo cercò di presentare Hitler come colui che avrebbe portato a compimento l’opera iniziata da Lutero. Questa appropriazione non è un dettaglio propagandistico. Mostra come un movimento politico moderno possa inserirsi deliberatamente in una narrazione religiosa e mitologica.
+
+Il capo non è più soltanto un governante. Diventa compimento della storia. La nazione non è più soltanto una comunità politica. Diventa popolo eletto.
+
+La guerra non è più soltanto conflitto di interessi. Diventa battaglia escatologica.
+
+Quando la politica assume questa forma, il compromesso diventa tradimento e l’avversario diventa demonio.
+
+La storia non viene più amministrata. Deve essere redenta.
+
+È qui che Jung vede il pericolo centrale della modernità: l’uomo occidentale crede di essersi liberato dalla religione, ma continua a produrre miti religiosi senza riconoscerli come tali. Proprio perché non li riconosce, ne viene posseduto.
+
+L’antico simbolismo non scompare. Ritorna nelle ideologie, nei culti del capo e nelle promesse di una società definitiva.
+
+La profezia di Nostradamus non è dunque importante soprattutto perché avrebbe anticipato una data. È importante perché mostra che l’immaginazione simbolica europea aveva percepito il movimento della propria Ombra.
+
+Sotto la superficie dell’ordine cristiano cresceva una forza contraria. La verticalità stava per essere attraversata dall’orizzontale. La Chiesa sarebbe stata divisa. La ragione avrebbe reclamato il trono. Il progetto di salvezza si sarebbe spostato dal cielo alla storia. E l’Anticristo avrebbe assunto non il volto evidente del male, ma quello più persuasivo del rinnovamento.
+
+La profezia, in questa prospettiva, non è una fotografia del futuro. È un sogno della civiltà. Come il sogno individuale anticipa talvolta una trasformazione non ancora compresa dalla coscienza, così il mito e la profezia possono prefigurare i movimenti di un’intera cultura.
+
+Non descrivono necessariamente ciò che accadrà. Rivelano ciò che sta cercando di accadere.
+
+Il loro linguaggio è oscuro perché l’inconscio non parla attraverso concetti precisi. Parla per immagini, opposti, personificazioni e catastrofi.
+
+La coscienza chiede date. L’inconscio offre simboli.
+
+E forse il più importante tra questi simboli è proprio quello dell’Anticristo. Non perché annunci inevitabilmente la fine del mondo, ma perché costringe ogni epoca a chiedersi dove abbia collocato il proprio male.
+
+Finché la risposta sarà “nell’altro”, la profezia continuerà a realizzarsi. Ogni popolo troverà il proprio Anticristo oltre il confine. Ogni ideologia lo riconoscerà nei propri avversari. Ogni religione lo vedrà negli eretici. Ogni rivoluzione nei nemici del progresso. Ma l’Ombra non viene vinta indicandola fuori di noi. Viene soltanto resa più libera di agire.
+
+Il vero valore della profezia non consiste allora nel sapere quando arriverà il male. Consiste nel riconoscere che esso è già presente, nascosto nelle forme attraverso le quali immaginiamo il bene.
+
+L’Anticristo non viene soltanto dal Nord. Viene da quella regione fredda e sconosciuta della psiche nella quale abbiamo espulso tutto ciò che non corrisponde alla nostra immagine cosciente.
+
+E quando ritorna, non ci appare come una parte dimenticata di noi stessi. Ci appare come destino.
 
 [↑ Torna all'indice](#top)
 
