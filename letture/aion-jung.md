@@ -23,6 +23,13 @@ Commenti al testo di Jung, capitolo per capitolo.
 6. [Il segno dei Pesci](#cap6)
 7. [La profezia di Nostradamus](#cap7)
 8. [Il significato storico del segno dei Pesci](#cap8)
+9. [L'ambivalenza del segno dei Pesci](#cap9)
+10. [Il segno dei Pesci nell'Alchimia](#cap10)
+11. [L'interpretazione alchemica del segno dei Pesci](#cap11)
+12. [Psicologia del simbolismo alchemico cristiano](#cap12)
+13. [I simboli gnostici del Sé](#cap13)
+14. [Struttura e dinamiche del Sé](#cap14)
+15. [Conclusione](#cap15)
 
 ---
 <a id="cap1"></a>
@@ -1492,3 +1499,275 @@ E forse proprio per questo Cristo viene rappresentato come pesce. Non perché ap
 Il Salvatore non resta sulla riva. Entra nel mare.
 
 [↑ Torna all'indice](#top)
+
+---
+
+<a id="cap9"></a>
+
+Ogni simbolo veramente vivo contiene qualcosa che la coscienza vorrebbe separare.
+
+Vorremmo che il pesce fosse soltanto il segno di Cristo, del battesimo, della salvezza e della vita che emerge dalle acque. Vorremmo che il mostro marino appartenesse invece a un altro mondo: quello del caos, della morte, del diavolo e della distruzione.
+
+Ma il nono capitolo di Aion mostra che questa separazione non regge.
+
+Il pesce che salva e il pesce che divora appartengono alla stessa profondità.
+
+Cristo e Leviatano non sono la stessa figura, ma sorgono dallo stesso campo simbolico. L’uno rappresenta ciò che emerge dall’abisso come principio di redenzione. L’altro, ciò che vi abita come forza primordiale, vorace e incontrollata.
+
+Jung non vuole confondere il Salvatore con il mostro. Vuole comprendere perché la psiche li abbia rappresentati attraverso immagini così vicine. La risposta attraversa tutto il capitolo: ciò che appare come unità nelle profondità tende a dividersi quando entra nella coscienza.
+
+Il grande pesce si separa. Diventa maschio e femmina. Diventa Leviatano e Behemoth. Diventa serpente alato e serpente senza ali. Diventa Cristo e la sua Ombra. Diventa salvezza e minaccia. La coscienza discrimina ciò che nell’inconscio esisteva ancora come totalità indistinta.
+
+È questo il significato psicologico della duplicazione. All’inizio esiste il mostro unico. Una creatura antichissima, proveniente dalle acque primordiali, avversaria del dio supremo. Nei testi di Ugarit appare come il serpente potente dalle sette teste. Nella Bibbia diventa Leviatano, la creatura marina che soltanto Dio può dominare. Nella mitologia babilonese assume la forma di Tiamat, il caos acquatico sconfitto e diviso dal dio creatore.
+
+La creazione comincia attraverso una separazione. Il caos viene spezzato. L’indistinto viene diviso. L’ordine nasce quando la coscienza traccia una linea tra le cose.
+
+Prima e dopo. Alto e basso. Terra e mare. Luce e oscurità. Bene e male.
+
+La discriminazione è il gesto originario della coscienza. Ma ogni separazione lascia dietro di sé un problema. Ciò che viene diviso non smette di appartenere a un’origine comune.
+
+Leviatano e Behemoth possono combattere come nemici, ma entrambi provengono dalla stessa totalità divina. Il serpente alato e quello privo di ali rappresentano aspetti contrari di un’unica forza. Cristo e Anticristo appaiono come opposti assoluti, ma la loro opposizione è costellata dallo stesso simbolo del Sé.
+
+Più la coscienza accentua la divisione, più il legame originario diventa invisibile. E proprio ciò che diventa invisibile continua ad agire dall’inconscio.
+
+Jung osserva che, nella tradizione successiva, Leviatano si divide perfino sessualmente. Esiste un maschio e una femmina. La femmina viene uccisa e conservata per il banchetto della fine dei tempi; il maschio viene reso sterile per impedire che la coppia proliferi e sommerga il mondo.
+
+L’immagine è violenta, ma psicologicamente precisa.
+
+La potenza primordiale deve essere limitata. Se lasciata libera, invaderebbe la coscienza.
+
+L’inconscio non è maligno in sé, ma è immensamente più vasto dell’Io. Se le sue energie irrompono senza mediazione, possono sommergere la personalità.
+
+Il diluvio non è soltanto un evento mitologico. È la figura della coscienza sopraffatta da contenuti che non riesce a contenere.
+
+Per questo la forza del mostro deve essere separata, neutralizzata, trasformata. Ma non semplicemente distrutta. Alla fine, Leviatano e Behemoth diventano cibo. Yahweh li abbatte e li offre ai giusti nel banchetto messianico.
+
+La creatura che minacciava di divorare l’uomo viene a sua volta mangiata. Il predatore diventa nutrimento. Il caos diventa sostanza assimilabile. La forza inconscia viene incorporata dalla coscienza.
+
+È una delle immagini più profonde dell’intero capitolo. Integrare non significa lasciare il mostro libero. Significa trasformare ciò che era ingestibile in qualcosa che possa essere assunto.
+
+Il male non viene negato. Viene cucinato, diviso, distribuito e mangiato. La potenza che prima apparteneva al caos entra nella comunità dei redenti come nutrimento.
+
+L’immagine richiama inevitabilmente l’Eucaristia. Cristo stesso è cibo. Il Salvatore viene mangiato dai fedeli.
+
+Anche Leviatano, nella tradizione ebraica, è destinato a un banchetto sacro. Questa vicinanza è inquietante.
+
+Il pesce divino e il mostro marino condividono la funzione di nutrire.
+
+La differenza non sta dunque nella semplice sostanza simbolica. Sta nella trasformazione. La forza caotica, una volta sconfitta e assimilata, può diventare nutrimento spirituale.
+
+Ciò che viene integrato perde il proprio carattere autonomo e distruttivo. Non scompare. Cambia funzione.
+
+Jung ritrova la stessa dinamica nella psicologia individuale. Talvolta, nei sogni, l’Ombra non compare come una sola figura, ma come due personaggi distinti e antagonisti. Uno può apparire più rozzo, istintivo e oscuro. L’altro più vicino all’Io, ma ancora non riconosciuto.
+
+Questo accade quando la personalità cosciente non contiene tutto ciò che potrebbe contenere. Una parte rimane esclusa e si mescola con l’Ombra. Ne risulta una doppia personalità inconscia.
+
+L’individuo non combatte più soltanto con una parte repressa. Combatte con due figure che rappresentano differenti livelli del proprio sviluppo mancato. Una può contenere l’istinto primitivo. L’altra possibilità umane ancora non vissute.
+
+Il conflitto esterno tra i due mostri rappresenta quindi una frattura interna della personalità.
+
+Jung applica questa osservazione all’immagine di Dio. Se l’immagine divina non contiene tutto ciò che dovrebbe contenere, ciò che manca deve apparire fuori di essa.
+
+Il conflitto che non può essere ammesso in Dio si trasferisce tra creature antagoniste.
+
+Leviatano e Behemoth diventano portatori di una contraddizione che l’immagine cosciente di Dio non riesce a sostenere. Dio rimane uno, giusto e superiore. Il conflitto viene espulso nel mondo dei mostri.
+
+È lo stesso processo che avviene nell’individuo quando non tollera la propria ambivalenza. L’Io conserva un’immagine coerente e moralmente accettabile. Le contraddizioni vengono attribuite agli altri. Il conflitto interiore diventa destino esterno. La persona incontra continuamente nemici che sembrano incarnare ciò che essa non riesce a riconoscere in sé.
+
+La teologia può fare lo stesso. Può preservare un’immagine pura di Dio proiettando ogni tensione sul diavolo, sui demoni o sulle forze del caos. 
+
+La difficoltà non sta nel riconoscere che il male sia diverso dal bene. Sta nel fingere che la totalità divina non abbia alcun rapporto con il fatto che il male esista.
+
+Jung non risolve questo problema metafisicamente. Mostra però che la psiche continua a riproporlo attraverso simboli.
+
+Il mostro rimosso ritorna. E quando ritorna si divide, combatte con se stesso, assume nuove forme e finisce per insinuarsi perfino nelle immagini della salvezza.
+
+La differenza tra Leviatano e Behemoth possiede anche un significato evolutivo. Leviatano è acquatico, freddo, serpentiforme. Appartiene alle profondità e alle forme più arcaiche della vita.
+
+Behemoth è terrestre, caldo, quadrupede. È più vicino al mondo animale conosciuto e quindi alla coscienza umana.
+
+Jung legge questa successione come un processo di umanizzazione. Il contenuto inconscio emerge prima come pesce o serpente. Poi diventa animale terrestre. Infine assume forma umana. È come se la psiche traducesse gradualmente una forza incomprensibile in immagini sempre più vicine alla coscienza.
+
+L’archetipo non appare immediatamente come concetto. Si manifesta prima in forme primitive, animali e mostruose. Solo attraverso un lungo processo di differenziazione può essere riconosciuto come parte dell’esperienza umana. Il pesce estratto dalle profondità è quindi un contenuto che comincia a diventare cosciente.
+
+Cristo stesso, come Ichthys, è il pesce tratto dall’abisso.
+
+Ma Jung osserva che questo pesce mantiene un legame segreto con Leviatano. È l’esca con cui il mostro viene catturato. Dio offre Cristo come amo nascosto nella carne umana. Il diavolo, credendo di inghiottire un uomo, viene preso dalla divinità che vi si nasconde.
+
+È un’immagine antica e teologicamente audace. Cristo non sconfigge il mostro dall’esterno. Entra nel suo stesso campo. Assume una forma che il mostro possa divorare. La salvezza avviene attraverso una discesa dentro la logica della morte.
+
+Il pesce divino si lascia inghiottire dal grande pesce. Ma proprio nell’atto di divorarlo, il mostro viene catturato.
+
+La croce diventa amo. Il corpo di Cristo diventa esca. La morte diventa trappola per la morte.
+
+Dal punto di vista psicologico, il significato è netto. Non si supera l’inconscio rimanendone fuori. Occorre entrare nella sua profondità, assumere le sue immagini e accettare il rischio di esserne temporaneamente inghiottiti. La trasformazione non avviene attraverso la distanza, ma attraverso il coinvolgimento.
+
+L’Io deve discendere. Deve perdere per un momento la propria posizione dominante. Deve entrare nel ventre del mostro. Solo allora può emergere con una relazione diversa verso ciò che prima lo minacciava.
+
+La separazione del mostro è legata, nel testo biblico, alla conoscenza. Jung si sofferma sul termine ebraico che indica comprensione, discernimento, capacità di dividere. Yahweh sconfigge il mostro attraverso la propria intelligenza discriminante. Conoscere significa separare. Portare alla coscienza significa distinguere. Finché un contenuto rimane indistinto, ci domina come atmosfera, impulso o destino. Quando viene differenziato, possiamo riconoscere le sue parti, i suoi contrari e le sue conseguenze.
+
+La coscienza non annienta l’inconscio. Lo articola.
+Dice:
+
+* questa è paura;
+* questa è aggressività;
+* questa è invidia;
+* questa è forza vitale;
+* questa è sessualità;
+* questa è volontà di potere;
+* questa è una ferita antica;
+* questa è una possibilità ancora non vissuta.
+
+Prima erano tutte contenute nel mostro. Ora ricevono nomi diversi. La differenziazione non elimina la potenza, ma impedisce che agisca come una massa unica e incontrollabile.
+
+È così che il pesce diventa uomo. Non letteralmente, ma simbolicamente. Ciò che era una forza impersonale della profondità assume un volto umano.
+
+Il Messia emerge dal mare. L’archetipo diventa incarnazione. La totalità divina cerca una forma nella coscienza individuale.
+
+Jung suggerisce che ciò che mancava nell’immagine di Dio fosse proprio l’elemento umano. La divinità possedeva potenza, eternità e trascendenza, ma non ancora la limitazione concreta dell’esistenza incarnata.
+
+L’uomo diventa allora il luogo in cui il conflitto divino può essere reso cosciente. L’incarnazione non è soltanto la discesa di Dio nella materia. È l’ingresso del paradosso divino nella coscienza umana. L’uomo porta ora dentro di sé la tensione che prima veniva rappresentata nella lotta cosmica tra Dio e il mostro.
+
+Il conflitto non scompare. Diventa personale. Questo spiega perché il processo di individuazione sia così doloroso. L’uomo non è chiamato semplicemente a scegliere un lato e distruggere l’altro. È chiamato a diventare il luogo in cui gli opposti possono essere riconosciuti senza che uno cancelli l’altro.
+
+Jung trova la stessa ambivalenza nei culti antichi del pesce.
+
+In alcune tradizioni il pesce è sacro e non può essere toccato. In altre è impuro. Viene venerato e disprezzato. Mangiarlo può essere rito sacro oppure contaminazione. È associato alla dea madre, all’amore, alla fertilità e al nutrimento; ma anche alla voracità, alla lussuria, all’avidità e alla morte.
+
+Questa contraddizione non è un difetto del simbolo. È precisamente ciò che lo rende capace di rappresentare una realtà psichica profonda.
+
+Il pesce appartiene al desiderio. Vive nell’acqua, elemento materno e generativo. È prolifico. Divora. Si muove in un mondo oscuro e invisibile. Può quindi rappresentare l’energia vitale prima che sia ordinata dalla coscienza. 
+
+Quell’energia non è moralmente buona o cattiva. È potente. Può generare vita oppure consumarla. Può nutrire oppure trascinare nel fondo.
+
+L’ambivalenza del pesce è l’ambivalenza dell’istinto. L’istinto sostiene la vita, ma non conosce i valori morali della coscienza. Vuole esistere, nutrirsi, riprodursi, espandersi. Quando viene integrato, diventa vitalità. Quando domina, diventa voracità. Quando viene represso, può ritornare in forme distorte e distruttive.
+
+Per questo il pesce può rappresentare contemporaneamente l’anima e il dannato.
+
+Ciò che sale dalla profondità può essere il principio della trasformazione oppure una forza che trascina verso l’inferno.
+
+Il simbolo non decide al posto dell’uomo. Indica una potenza che deve essere incontrata e discriminata.
+
+Jung ritrova questa duplicità anche nella figura egizia di Seth. Seth diventa, nelle epoche tarde, il dio del deserto, della distruzione e della morte. È l’assassino di Osiride e il rappresentante del caos.
+
+Ma nelle tradizioni più antiche non è soltanto un nemico. Aiuta il morto a salire al cielo. Collabora con Horus. In alcune immagini Horus e Seth emergono dallo stesso corpo. Giorno e notte. Ordine e caos. Vita e morte. Non sono ancora stati separati in modo assoluto. Appartengono alla stessa figura superiore.
+
+Per Jung questa concezione arcaica possiede una profondità che la coscienza successiva tende a perdere.
+
+Quando gli opposti non sono ancora riflessi, possono coesistere ingenuamente nella stessa divinità.
+
+Dio porta vita e morte. Protegge e distrugge. È luce e tempesta.
+
+La coscienza più sviluppata, però, non riesce più ad accettare questa coincidenza senza interrogarsi moralmente.
+
+La divisione diventa inevitabile. Il bene viene attribuito a un dio. Il male al suo avversario.
+
+Ma il prezzo della chiarezza morale è la perdita della totalità originaria.
+
+L’antica unità si spezza. Da quel momento l’uomo deve cercare una nuova congiunzione, non più inconscia e primitiva, ma consapevole.
+
+Questo è il compito dell’individuazione. Non tornare all’indistinzione arcaica. Non dire che luce e oscurità siano equivalenti. Ma riconoscere che gli opposti appartengono entrambi alla struttura della psiche e che non possono essere eliminati attraverso la proiezione.
+
+Horus e Seth devono collaborare per far salire Osiride. I nemici devono sostenere insieme il dio morto. La totalità può essere restaurata soltanto quando i contrari lavorano per uno scopo superiore.
+
+Questa immagine anticipa il principio della coniunctio oppositorum. Gli opposti non cessano di essere opposti. Ma smettono di impiegare tutta la propria energia nella distruzione reciproca. Vengono subordinati a un centro più ampio.
+
+L’Io non può produrre questa unione con la sola volontà. Può però creare le condizioni per sostenerla. Può riconoscere entrambe le parti. Può impedire che una si identifichi con il bene assoluto e l’altra venga espulsa come male assoluto. Può tollerare la tensione.
+
+È questa capacità a distinguere la totalità dalla confusione.
+
+Il capitolo torna infine alla regione del Nord. 
+
+Nei simboli antichi il Nord è contemporaneamente dimora degli dèi supremi e sede dell’avversario. È il luogo della stella polare, del centro immobile attorno al quale ruota il cielo, ma anche il luogo del vento maligno, del freddo, dell’oscurità e di Lucifero.
+
+Ancora una volta il centro e l’Ombra coincidono simbolicamente. Il Nord è il punto d’orientamento e la fonte della minaccia.
+
+Da lì viene la visione divina di Ezechiele. Da lì viene anche il male annunciato dai profeti.
+
+Questa ambivalenza rivela qualcosa di essenziale sul numinoso. Ciò che orienta può anche terrorizzare. Ciò che appare come centro può distruggere l’ordine precedente.
+
+La presenza divina non è semplicemente consolante. È una forza che relativizza l’Io e può infrangere le sue certezze.
+
+Per questo il simbolo del Nord, come quello del pesce, non può essere ridotto a un significato positivo o negativo.
+
+È il luogo del massimo valore e del massimo pericolo. Quando la coscienza cristiana non riesce più a contenere questa coincidenza degli opposti, l’inconscio produce compensazioni.
+
+Jung le trova soprattutto nell’alchimia.
+
+Gli alchimisti tentano di ricostruire un’immagine più ampia di Dio. Parlano di una luce nascosta nelle tenebre. Di un amore divino che arde perfino nell’inferno. Di una sostanza vile che contiene il tesoro. Di un Mercurio che è insieme spirito e veleno, salvatore e ingannatore, maschio e femmina.
+
+Non si tratta semplicemente di eresie o confusioni teoriche. Sono tentativi della psiche occidentale di recuperare ciò che la teologia cosciente aveva escluso.
+
+L’alchimia cerca Dio nella materia. Cerca la luce nell’oscurità. Cerca la totalità proprio nel luogo che la coscienza religiosa aveva dichiarato inferiore.
+
+Jakob Böhme porterà questa intuizione fino a immaginare una divinità nella quale amore e collera appartengono alla stessa origine.
+
+Non due dèi separati. Non un bene assoluto opposto a un male privo di sostanza. Ma una profondità divina paradossale, capace di contenere entrambi i principi.
+
+Jung non adotta questa visione come metafisica. La considera una risposta psicologica necessaria. Quando l’immagine collettiva di Dio diventa troppo unilaterale, l’inconscio produce immagini che cercano di completarla.
+
+L’ambivalenza del pesce appartiene a questo stesso movimento. Il pesce non può essere soltanto Cristo. Deve conservare un legame con Leviatano.
+
+Non perché Cristo sia il male. Ma perché il simbolo del Sé deve estendersi fino alle profondità dove bene e male, salvezza e distruzione, spirito e istinto non sono ancora completamente separati.
+
+Il nono capitolo di Aion conduce quindi a una conclusione difficile.
+
+La totalità non nasce dall’eliminazione del mostro. Nasce dalla sua trasformazione. Leviatano deve essere affrontato, diviso, reso cosciente e infine assimilato.
+
+La forza che vive nelle profondità non può essere lasciata libera di sommergere il mondo. Ma non può nemmeno essere dichiarata irreale. Deve diventare nutrimento. Ciò che era mostro deve diventare parte della vita cosciente.
+
+L’Ombra, quando rimane nell’abisso, appare come una creatura sovrumana e invincibile. Quando viene portata alla luce, rivela componenti umane: desiderio, paura, rabbia, bisogno, aggressività, fame di vita.
+
+Non diventa innocua. Diventa responsabile.
+
+Questo è il passaggio dal pesce all’uomo. La forza impersonale viene riconosciuta come parte della personalità. Il destino diventa conflitto interiore. Il mostro acquista un nome. E ciò che possiede un nome può finalmente entrare in relazione con la coscienza.
+
+Ma il simbolo conserva sempre la propria ambivalenza. Il pesce può ancora salvare o divorare. La profondità può nutrire o sommergere. La luce può emergere dall’abisso, ma l’abisso non cessa per questo di essere oscuro.
+
+La maturità non consiste nel risolvere definitivamente questa contraddizione. Consiste nel sostenerla senza mentire.
+
+Il pesce di Cristo e Leviatano continuano a nuotare nelle stesse acque. Uno porta la promessa della trasformazione. L’altro ricorda la potenza di ciò che non è ancora diventato cosciente.
+
+Separarli è necessario per poterli distinguere. Dimenticare la loro origine comune è pericoloso. Perché il mostro che crediamo di aver espulso dal simbolo non scompare. Ritorna dall’abisso.
+
+E spesso ritorna con il volto di ciò che abbiamo dichiarato completamente estraneo a noi stessi.
+
+[↑ Torna all'indice](#top)
+
+---
+
+<a id="cap10"></a>
+
+[↑ Torna all'indice](#top)
+
+---
+
+<a id="cap11"></a>
+
+[↑ Torna all'indice](#top)
+
+---
+
+<a id="cap12"></a>
+
+[↑ Torna all'indice](#top)
+
+---
+
+<a id="cap13"></a>
+
+[↑ Torna all'indice](#top)
+
+---
+
+<a id="cap14"></a>
+
+[↑ Torna all'indice](#top)
+
+---
+
+<a id="cap15"></a>
+
+
+
+
