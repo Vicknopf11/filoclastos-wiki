@@ -6,23 +6,21 @@ sommario: "Guida alla lettura e commenti capitolo per capitolo de La nube della 
 
 <a id="top"></a>
 
-# La nube della non-conoscenza
-
 ## Dove trovarlo
 
-- Edizione italiana (Paoline): *La nube della non-conoscenza*.
-- Edizione italiana (Qiqajon): disponibile nel catalogo della Comunità di Bose.
+- Edizione italiana (Paoline): [La nube della non-conoscenza](https://www.paolinestore.it/la-nube-della-non-conoscenza-45956.html)
+- Edizione italiana (Monastero Virtuale): [La nube della non-conoscenza](https://www.monasterovirtuale.it/la-nube-della-non-conoscenza.html)
 - Testo originale in inglese medio e traduzioni inglesi:
-  - https://www.ccel.org/ccel/anonymous2/cloud
-  - https://www.sacred-texts.com/chr/cou/
+  - [Christian Classics Ethereal Library (CCEL)](https://www.ccel.org/ccel/anonymous2/cloud)
+  - [Sacred Texts](https://www.sacred-texts.com/chr/cou/)
 
 ---
 
-# Introduzione
+## Introduzione
 
 **La nube della non-conoscenza** (*The Cloud of Unknowing*) è un trattato anonimo di spiritualità cristiana scritto in Inghilterra nella seconda metà del XIV secolo.
 
-È considerato uno dei testi fondamentali della mistica occidentale e appartiene alla tradazione della **teologia apofatica** (via negativa), secondo cui Dio non può essere conosciuto attraverso concetti o definizioni, ma solo mediante un'esperienza diretta di amore contemplativo.
+È considerato uno dei testi fondamentali della mistica occidentale e appartiene alla tradizione della **teologia apofatica** (via negativa), secondo cui Dio non può essere conosciuto attraverso concetti o definizioni, ma solo mediante un'esperienza diretta di amore contemplativo.
 
 L'autore rimane sconosciuto. Probabilmente era un monaco o un eremita con una profonda conoscenza della Bibbia, dei Padri della Chiesa e dello Pseudo-Dionigi Areopagita.
 
@@ -30,21 +28,19 @@ L'opera è rivolta non ai principianti della vita spirituale, ma a chi ha già m
 
 ---
 
-# Idee fondamentali
+## Idee fondamentali
 
-## Dio è oltre ogni concetto
+### Dio è oltre ogni concetto
 
 La tesi centrale dell'opera è semplice ma radicale:
 
 > Dio può essere amato, ma non può essere compreso.
 
-L'intelligenza umana può conoscere le creature, la natura e persino la teologia, ma Dio trascende ogni concetto.
-
-Ogni immagine mentale di Dio, per quanto elevata, deve infine essere lasciata andare.
+L'intelligenza umana può conoscere le creature, la natura e persino la teologia, ma Dio trascende ogni concetto. Ogni immagine mentale di Dio, per quanto elevata, deve infine essere lasciata andare.
 
 ---
 
-## Le due nubi
+### Le due nubi
 
 L'intero metodo contemplativo ruota attorno a due simboli.
 
@@ -67,19 +63,13 @@ Non perché siano cattivi, ma perché impediscono l'attenzione pura verso Dio.
 
 ### La nube della non-conoscenza
 
-È posta sopra il contemplativo.
-
-Tra Dio e l'uomo esiste una nube che nessun ragionamento può attraversare.
-
-Solo il "dardo dell'amore" può oltrepassarla.
+È posta sopra il contemplativo. Tra Dio e l'uomo esiste una nube che nessun ragionamento può attraversare. Solo il "dardo dell'amore" può oltrepassarla.
 
 ---
 
-## La contemplazione
+### La contemplazione
 
-L'autore propone una forma di preghiera estremamente essenziale.
-
-Quando nasce un pensiero:
+L'autore propone una forma di preghiera estremamente essenziale. Quando nasce un pensiero:
 
 - non combatterlo;
 - non seguirlo;
@@ -90,7 +80,7 @@ Questa pratica anticipa alcune dinamiche che oggi ritroviamo anche nella meditaz
 
 ---
 
-# Temi principali
+## Temi principali
 
 - Teologia apofatica
 - Contemplazione
@@ -104,74 +94,64 @@ Questa pratica anticipa alcune dinamiche che oggi ritroviamo anche nella meditaz
 
 ---
 
-# Collegamenti con altri autori
+## Collegamenti con altri autori
 
-## Pseudo-Dionigi Areopagita
+### Pseudo-Dionigi Areopagita
 
 La principale influenza filosofica dell'opera.
 
 ---
 
-## Gregorio di Nissa
+### Gregorio di Nissa
 
 L'idea dell'ascesa infinita verso Dio.
 
 ---
 
-## Meister Eckhart
+### Meister Eckhart
 
 Lo svuotamento dell'anima e il superamento delle immagini.
 
 ---
 
-## Giovanni della Croce
+### Giovanni della Croce
 
 La "notte oscura" rappresenta uno sviluppo della stessa tradizione contemplativa.
 
 ---
 
-## Teresa d'Avila
+### Teresa d'Avila
 
 La contemplazione come unione amorosa con Dio.
 
 ---
 
-## Evagrio Pontico
+### Evagrio Pontico
 
 Il combattimento contro i logismoi e la purificazione della mente.
 
 ---
 
-# Possibili letture moderne
+## Possibili letture moderne
 
-## Lettura psicologica (Jung)
+### Lettura psicologica (Jung)
 
-Dal punto di vista junghiano, la nube può essere interpretata come il limite oltre il quale l'Io non può procedere mediante il pensiero cosciente.
-
-La trasformazione avviene quando l'Io rinuncia al controllo concettuale e si apre al simbolo vivente del Sé.
-
-Questa è una lettura moderna e non coincide con l'intenzione dell'autore medievale.
+Dal punto di vista junghiano, la nube può essere interpretata come il limite oltre il quale l'Io non può procedere mediante il pensiero cosciente. La trasformazione avviene quando l'Io rinuncia al controllo concettuale e si apre al simbolo vivente del Sé. Questa però è una lettura moderna e non coincide con l'intenzione dell'autore medievale.
 
 ---
 
-## Confronto con lo Zen
+### Confronto con lo Zen
 
-Entrambe le tradizioni sottolineano il superamento del pensiero discorsivo.
-
-Tuttavia:
+Entrambe le tradizioni sottolineano il superamento del pensiero discorsivo. Tuttavia:
 
 - nello Zen il fine è il risveglio;
 - nella *Nube* il fine è l'unione amorosa con il Dio personale.
 
 ---
 
-## Confronto con gli Yoga Sutra
+### Confronto con gli Yoga Sutra
 
-Entrambe le tradizioni cercano il silenzio della mente.
-
-Negli Yoga Sutra il fine è il samadhi.
-
-Nella *Nube* il silenzio è orientato all'amore verso Dio.
+Entrambe le tradizioni cercano il silenzio della mente. Negli Yoga Sutra il fine è il samadhi. Nella *Nube* il silenzio è orientato all'amore verso Dio.
 
 ---
 
