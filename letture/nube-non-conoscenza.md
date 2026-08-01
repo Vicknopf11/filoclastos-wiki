@@ -32,7 +32,9 @@ L'opera è rivolta non ai principianti della vita spirituale, ma a chi ha già m
 
 ### Dio è oltre ogni concetto
 
-La tesi centrale dell'opera è semplice ma radicale: > Dio può essere amato, ma non può essere compreso.
+La tesi centrale dell'opera è semplice ma radicale: 
+
+> *Dio può essere amato, ma non può essere compreso.*
 
 L'intelligenza umana può conoscere le creature, la natura e persino la teologia, ma Dio trascende ogni concetto. Ogni immagine mentale di Dio, per quanto elevata, deve infine essere lasciata andare.
 
