@@ -32,9 +32,7 @@ L'opera è rivolta non ai principianti della vita spirituale, ma a chi ha già m
 
 ### Dio è oltre ogni concetto
 
-La tesi centrale dell'opera è semplice ma radicale:
-
-> Dio può essere amato, ma non può essere compreso.
+La tesi centrale dell'opera è semplice ma radicale: > Dio può essere amato, ma non può essere compreso.
 
 L'intelligenza umana può conoscere le creature, la natura e persino la teologia, ma Dio trascende ogni concetto. Ogni immagine mentale di Dio, per quanto elevata, deve infine essere lasciata andare.
 
@@ -46,9 +44,7 @@ L'intero metodo contemplativo ruota attorno a due simboli.
 
 ### La nube della dimenticanza
 
-È posta simbolicamente sotto il contemplativo.
-
-Qui vengono lasciati:
+È posta simbolicamente sotto il contemplativo. Qui vengono lasciati:
 
 - ricordi
 - preoccupazioni
@@ -58,8 +54,6 @@ Qui vengono lasciati:
 - persino i pensieri religiosi
 
 Non perché siano cattivi, ma perché impediscono l'attenzione pura verso Dio.
-
----
 
 ### La nube della non-conoscenza
 
@@ -155,7 +149,7 @@ Entrambe le tradizioni cercano il silenzio della mente. Negli Yoga Sutra il fine
 
 ---
 
-# Commenti capitolo per capitolo
+## Commenti capitolo per capitolo
 
 1. Introduzione
 2. Capitolo 1
