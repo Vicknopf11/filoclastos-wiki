@@ -1,5 +1,5 @@
 ---
-title: "Aion (Jung) — Commenti"
+title: "Aion (Jung)"
 categoria: letture
 sommario: "Commenti capitolo per capitolo ad Aion di C.G. Jung."
 ---
@@ -13,7 +13,7 @@ sommario: "Commenti capitolo per capitolo ad Aion di C.G. Jung."
 
 ---
 
-Commenti al testo di Jung, capitolo per capitolo.
+## Commenti al testo di Jung, capitolo per capitolo.
 
 1. [L'Io. Il Re che non è il Re](#cap1)
 2. [L'Ombra. Il volto che rifiutiamo di riconoscere](#cap2)
@@ -1504,6 +1504,8 @@ Il Salvatore non resta sulla riva. Entra nel mare.
 
 <a id="cap9"></a>
 
+## L'ambivalenza del segno dei Pesci
+
 Ogni simbolo veramente vivo contiene qualcosa che la coscienza vorrebbe separare.
 
 Vorremmo che il pesce fosse soltanto il segno di Cristo, del battesimo, della salvezza e della vita che emerge dalle acque. Vorremmo che il mostro marino appartenesse invece a un altro mondo: quello del caos, della morte, del diavolo e della distruzione.
@@ -1738,11 +1740,17 @@ E spesso ritorna con il volto di ciò che abbiamo dichiarato completamente estra
 
 <a id="cap10"></a>
 
+## Il segno dei Pesci nell'Alchimia
+
+
+
 [↑ Torna all'indice](#top)
 
 ---
 
 <a id="cap11"></a>
+
+## L'interpretazione alchemica del segno dei Pesci
 
 [↑ Torna all'indice](#top)
 
@@ -1750,11 +1758,15 @@ E spesso ritorna con il volto di ciò che abbiamo dichiarato completamente estra
 
 <a id="cap12"></a>
 
+## Psicologia del simbolismo alchemico cristiano
+
 [↑ Torna all'indice](#top)
 
 ---
 
 <a id="cap13"></a>
+
+## I simboli gnostici del Sé
 
 [↑ Torna all'indice](#top)
 
@@ -1762,12 +1774,19 @@ E spesso ritorna con il volto di ciò che abbiamo dichiarato completamente estra
 
 <a id="cap14"></a>
 
+## Struttura e dinamiche del Sé
+
 [↑ Torna all'indice](#top)
 
 ---
 
 <a id="cap15"></a>
 
+## Conclusione
+
+[↑ Torna all'indice](#top)
+
+---
 
 
 
