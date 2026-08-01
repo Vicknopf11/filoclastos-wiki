@@ -22,6 +22,7 @@ Commenti al testo di Jung, capitolo per capitolo.
 5. [Cristo e l’ombra del Sé](#cap5)
 6. [Il segno dei Pesci](#cap6)
 7. [La profezia di Nostradamus](#cap7)
+8. [Il significato storico del segno dei Pesci](#cap8)
 
 ---
 <a id="cap1"></a>
@@ -1215,3 +1216,279 @@ E quando ritorna, non ci appare come una parte dimenticata di noi stessi. Ci app
 [↑ Torna all'indice](#top)
 
 ---
+
+<a id="cap8 "></a>
+
+## Il significato storico del segno dei Pesci
+
+Ogni grande simbolo porta con sé una storia più antica di chi lo utilizza.
+
+Il cristianesimo ha riconosciuto nel pesce una delle proprie immagini fondamentali, ma il pesce non nasce con il cristianesimo. Viene da molto più lontano. Appartiene alle acque profonde dei miti, alle religioni del Vicino Oriente, alle figure materne, ai racconti di morte e rinascita, ai mostri marini, ai salvatori, ai pasti sacri e alle speranze messianiche.
+
+Per Jung, proprio questa lunga continuità simbolica rende il pesce così importante.
+
+Non è un semplice emblema. È una forma nella quale l’inconscio collettivo ha condensato per secoli immagini di vita, pericolo, nutrimento, sacrificio, trasformazione e salvezza.
+
+Nel capitolo precedente Jung aveva mostrato come il segno dei Pesci potesse rappresentare l’intero eone cristiano, con la sua polarità tra Cristo e Anticristo. Ora torna sul simbolo per osservarne più da vicino la profondità storica.
+
+Il punto di partenza è il passaggio tra due epoche zodiacali. Il cristianesimo nasce mentre l’eone dell’Ariete sta tramontando e quello dei Pesci comincia.
+
+Per questo i simboli si sovrappongono. Cristo è il buon pastore, ma anche il pesce. È l’agnello, ma anche colui che nutre con i pesci. È il sacrificato dell’eone precedente e il Salvatore del nuovo. Il pastore, l’ariete e l’agnello appartengono al mondo simbolico di Aries. Il pesce annuncia Pisces. Per un breve periodo, i due mondi convivono.
+
+Cristo appare così come figura di passaggio tra un ordine che muore e uno nuovo che nasce.
+
+Non è difficile riconoscere qui una delle strutture fondamentali del mito. Ogni nuova coscienza nasce dentro un ordine precedente che non è ancora completamente scomparso. Il nuovo non emerge mai nel vuoto. Porta con sé immagini antiche, le trasforma e le ricompone. Per questo Cristo può assumere contemporaneamente i tratti del pastore, dell’agnello e del pesce. Non perché il simbolismo cristiano sia incoerente, ma perché sta raccogliendo in una sola figura diversi strati della psiche religiosa.
+
+Jung si concentra però sul pesce, perché è proprio il suo carattere doppio a porre le domande psicologiche più profonde.
+
+Il pesce vive nell’acqua. L’acqua è la profondità, l’inconscio, il grembo, il caos originario.
+
+Il pesce abita dunque una regione che la coscienza non domina.
+
+Può emergere come nutrimento. Può apparire come mostro. Può salvare. Può divorare. Può guarire. Può trascinare verso il fondo. La sua ambivalenza è precisamente ciò che lo rende adatto a rappresentare il Sé.
+
+Il Sé, infatti, non è semplicemente luce. È totalità. E la totalità contiene sempre la tensione tra ciò che salva e ciò che minaccia.
+
+Jung trova una conferma di questa ambivalenza nell’Apocalisse. La donna vestita di sole, con la luna sotto i piedi e una corona di dodici stelle, sta per partorire mentre un drago attende il bambino.
+
+La scena appartiene a un’antichissima famiglia di miti. La madre divina è perseguitata. Il figlio è minacciato alla nascita. La nuova vita appare già esposta alla distruzione.
+
+Leto e Apollo, Iside e Horus, Afrodite e il figlio salvato nelle acque, Maria e Gesù, la donna dell’Apocalisse e il bambino destinato a governare: tutte queste immagini ripetono una stessa struttura. 
+
+La nascita del principio salvifico non avviene mai senza pericolo.
+
+Ciò che porta una nuova forma di coscienza viene immediatamente minacciato dalle forze dell’ordine precedente.
+
+Il drago attende sempre accanto alla nascita. Non perché il male compaia dopo la luce. Ma perché luce e ombra vengono costellate insieme. Ogni nascita simbolica produce un conflitto.
+
+Il nuovo centro della personalità mette in crisi l’equilibrio esistente. Le vecchie strutture reagiscono. L’inconscio si agita. L’individuo può sentire contemporaneamente attrazione e terrore.
+
+Per questo i miti della nascita divina sono quasi sempre miti di persecuzione.
+
+Il bambino è piccolo. L’archetipo che porta è immenso. L’Apocalisse introduce però un’immagine che non corrisponde facilmente alla figura evangelica di Gesù. Il bambino governerà le nazioni con una verga di ferro.
+
+Il Cristo apocalittico non è soltanto mite. È guerriero, giudice, conquistatore.
+
+Anche l’agnello dell’Apocalisse appare trasformato. Non è più soltanto l’animale condotto al sacrificio. Ha sette corna, sette occhi, potere, ira e capacità di annientare. Il mansueto agnello diventa una figura terribile.
+
+Per Jung questa trasformazione rivela qualcosa che il cristianesimo cosciente ha cercato di separare.
+
+La figura del Salvatore possiede un’Ombra. Non necessariamente l’Anticristo in senso stretto, ma una controfigura interna al simbolo stesso di Cristo.
+
+Il Cristo dell’amore e il Cristo del giudizio. Il sacrificato e il conquistatore. L’agnello e il leone. Il redentore e colui che spezza le nazioni. La coscienza cristiana può preferire una delle due immagini, ma il testo le conserva entrambe.
+
+Questo è un punto decisivo.
+
+La Bibbia non presenta Cristo soltanto come vittima innocente. Nell’Apocalisse egli riassume anche la potenza vendicatrice del Dio veterotestamentario.
+
+Jung interpreta questa duplicità come espressione di una tensione mai completamente risolta.
+
+Il cristianesimo proclama il Dio dell’amore, ma porta con sé il Dio della collera. Annuncia il perdono, ma conserva il giudizio. Celebra il sacrificio, ma attende la vittoria finale.
+
+Il problema non è un errore dottrinale. È la natura paradossale dell’immagine divina.
+
+Quando la coscienza tenta di renderla univoca, l’altra metà ritorna sotto forma di Ombra.
+
+Anche la tradizione ebraica mostra una scissione simile.
+
+Jung richiama le speculazioni sui due Messia: il Messia figlio di Giuseppe e il Messia figlio di Davide. Il primo soffre, combatte e muore. Il secondo trionfa, ricostruisce e governa. 
+
+La funzione messianica non riesce a essere contenuta in una sola figura. Si divide. Da un lato il Messia sofferente. Dall’altro il Messia vittorioso. Da un lato la morte. Dall’altro la resurrezione e il regno.
+
+Questa duplicazione mostra che la speranza messianica non è psicologicamente semplice. L’umanità non attende soltanto qualcuno che salvi attraverso la sofferenza. Attende anche qualcuno che distrugga il nemico.
+
+Il desiderio religioso contiene amore e vendetta, redenzione e potere, sacrificio e trionfo. Quando queste tendenze non vengono riconosciute insieme, finiscono per separarsi in figure opposte.
+
+È così che, in alcune tradizioni, il Messia sofferente può avvicinarsi perfino all’Antimessia. La polarità diventa estrema.
+
+Ciò che salva può essere scambiato con ciò che minaccia. Il figlio promesso può trasformarsi nel figlio oscuro.
+
+Ancora una volta il simbolo mostra che il bene e il male non vengono vissuti dalla psiche come concetti astratti, ma come forze personificate e spesso intrecciate.
+
+Jung collega questa instabilità alla stessa immagine di Dio.
+
+Il problema attraversa già il libro di Giobbe. Yahweh promette e poi sembra contraddire la promessa. Protegge e distrugge. È giusto, ma agisce in modo che l’uomo può percepire come ingiusto. L’immagine divina diventa così fonte di una profonda inquietudine.
+
+Se Dio rappresenta il valore più alto e il Sé è psicologicamente legato all’immagine di Dio, ogni frattura nell’immagine divina produce una frattura nella personalità.
+
+Quando l’uomo non riesce più a fidarsi del proprio simbolo supremo, non perde soltanto una dottrina. Perde il centro. La crisi religiosa diventa crisi psicologica.
+
+Jung insiste su questo punto perché vede nella modernità proprio una simile disgregazione. Il vecchio simbolo non riesce più a sostenere interamente la coscienza occidentale. Il problema del male rimane senza risposta. La bontà di Dio viene proclamata, ma l’esperienza storica mostra violenza, tradimento e catastrofe. Il divario cresce.
+
+Se la religione continua soltanto a ripetere le formule antiche senza ampliare il simbolo, l’uomo cerca altrove una risposta. Nascono materialismo, ateismo, ideologie politiche, utopie razionalistiche.
+
+Jung non le considera semplicemente errori intellettuali. Le interpreta come sostituti.
+
+Quando la domanda religiosa non riceve una risposta viva, non scompare. Viene trasferita.
+
+Il bisogno di totalità si sposta dalla religione alla politica, dalla salvezza alla rivoluzione, da Dio alla storia, dal Sé alla massa.
+
+Ma il sostituto non risolve il problema originario. Lo nasconde.
+
+L’uomo crede di essersi liberato della questione divina, mentre continua a investire di qualità assolute altri oggetti.
+
+* La nazione.
+* La classe.
+* La razza.
+* La scienza.
+* Lo Stato.
+* L’umanità futura.
+
+Il centro non viene abolito. Viene proiettato su una nuova immagine.
+
+Per Jung questa sostituzione ha un prezzo enorme.
+
+Quando la libertà e la responsabilità individuali vengono consegnate alla massa, la personalità si dissolve. La distruzione dell’immagine di Dio viene seguita dalla distruzione dell’immagine dell’uomo.
+
+Se non esiste più un centro interiore capace di opporsi al collettivo, l’individuo diventa funzione del sistema. La sua dignità non deriva più da una relazione con il trascendente o con il Sé, ma dalla sua utilità per il progetto collettivo.
+
+La religione secolarizzata promette la salvezza di tutti e, proprio per questo, può sacrificare ciascuno.
+
+Jung non risparmia neppure il cristianesimo istituzionale. Accusa i suoi difensori di consumare le proprie energie nella semplice conservazione di ciò che hanno ricevuto. La casa viene custodita, ma non ampliata. Le mura vengono difese, ma le nuove domande non trovano spazio.
+
+Eppure un simbolo vivo non può limitarsi a essere preservato. Deve crescere. Deve assimilare nuove esperienze. Deve trasformarsi senza perdere il proprio centro. Se rimane immobile, muore.
+
+La fedeltà diventa allora una forma di stagnazione. Ci si aggrappa alle parole proprio perché non si vive più la realtà che esse indicavano.
+
+È in questo contesto che Jung torna agli gnostici. Essi avevano compreso con maggiore radicalità il problema dell’Ombra. Non accettavano facilmente che il male fosse soltanto assenza di bene. Vedevano nella creazione, nel Demiurgo, nella materia e nella stessa figura del Redentore una tensione irrisolta.
+
+Valentino affermava che Cristo era nato con una sorta di Ombra e che poi l’aveva allontanata da sé. La formulazione è teologicamente estranea al cristianesimo ortodosso, ma psicologicamente potentissima.
+
+Dice che il Redentore entra nel mondo già accompagnato dal proprio opposto. L’Ombra non appare dopo. È presente fin dall’inizio. Quando viene espulsa, continua a esistere fuori dalla figura luminosa.
+
+Jung vede qui una prefigurazione del conflitto tra Cristo e Anticristo.
+
+Ma vede anche un problema più profondo. Se il male viene separato completamente da Dio, si crea un dualismo.
+
+Se viene negato, l’esperienza umana viene falsificata.
+
+Se viene integrato senza distinzione, bene e male perdono significato morale.
+
+La psicologia non può risolvere metafisicamente questa tensione. Può però mostrare che la psiche non tollera una soluzione troppo semplice.
+
+L’Ombra ritorna sempre.
+
+La discussione antica sulla possibilità che perfino il diavolo venga un giorno reintegrato in Dio nasce da questa esigenza di totalità.
+
+Se tutto proviene da Dio, che cosa accade alla fine al principio del male?
+
+* Rimane eternamente separato?
+* Viene annientato?
+* Viene trasformato?
+
+La questione non è soltanto teologica. È la domanda se la totalità possa davvero lasciare fuori qualcosa per sempre.
+
+Jung non dà una risposta definitiva.
+
+Ma il suo orientamento è chiaro: il Sé tende alla congiunzione degli opposti, non alla loro semplice cancellazione.
+
+Questo non significa abolire il giudizio morale. Significa riconoscere che una totalità psichica non può essere costruita amputando metà dell’esperienza umana.
+
+Il pesce diventa allora il simbolo ideale di questa ambivalenza. È salvatore e mostro. Nutrimento e predatore. Vittima e cacciatore.
+
+Cristo è il pesce mangiato nell’Eucaristia, ma anche il pescatore di uomini.
+
+È l’esca con cui Dio cattura il Leviatano, ma è anche colui che emerge dalla profondità.
+
+Il pesce può guarire, come nel libro di Tobia, dove ciò che minaccia di divorare il giovane diventa strumento di guarigione.
+
+L’animale aggressivo viene catturato. Il suo cuore, il suo fegato e la sua bile acquistano potere terapeutico. La forza pericolosa non viene semplicemente distrutta. Viene trasformata in medicina.
+
+Questa è forse una delle immagini più esatte dell’integrazione dell’Ombra. Ciò che voleva divorarci può diventare ciò che ci guarisce. Ma soltanto se viene affrontato, catturato e compreso.
+
+Fuggire dal pesce non produce guarigione. Lasciarsi divorare nemmeno. Occorre entrare in relazione con la sua potenza.
+
+Anche il racconto di Giona segue questa struttura. Il profeta viene inghiottito dal grande pesce, rimane nel suo ventre e riemerge dopo tre giorni. Il pesce diventa tomba e grembo. La discesa nelle acque coincide con una morte simbolica. Il ritorno alla terra è una rinascita.
+
+Per il cristianesimo, il segno di Giona prefigura la morte e resurrezione di Cristo. Per la psicologia, rappresenta il processo attraverso cui l’Io viene inghiottito dall’inconscio e restituito trasformato.
+
+Non si torna dalla profondità identici a prima. Il ventre del pesce è il luogo in cui la vecchia coscienza viene dissolta. Il mare inghiotte la forma precedente. Solo allora una nuova forma può emergere.
+
+Lo stesso schema compare nel mito indiano di Manu. Il piccolo pesce chiede protezione per non essere divorato. Manu lo accoglie e lo cura. Il pesce cresce fino a diventare enorme e, alla fine, salva Manu dal diluvio. Ciò che inizialmente appare fragile diventa il salvatore.
+
+L’uomo protegge il simbolo quando è ancora piccolo e incomprensibile. Poi il simbolo protegge l’uomo quando il mondo viene sommerso. È una perfetta immagine del rapporto tra coscienza e inconscio.
+
+Un contenuto psichico nuovo può apparire all’inizio insignificante: un sogno, un’intuizione, un’immagine ricorrente, un desiderio ancora debole. Se viene accolto e sviluppato, può diventare il principio capace di guidare la personalità attraverso una crisi. Se viene trascurato, la coscienza rimane senza guida quando arriva il diluvio.
+
+Il pesce porta dunque anche il tema della custodia. Non tutto ciò che emerge dall’inconscio deve essere immediatamente dominato o spiegato. Alcune immagini devono essere nutrite. La coscienza deve offrire loro uno spazio. Soltanto col tempo rivelano la propria funzione.
+
+Jung osserva poi che i due Pesci possono essere interpretati come madre e figlio.
+
+Questa immagine aggiunge una nuova profondità. La madre acquatica genera il figlio-pesce. La vita nasce dalla stessa profondità che può divorarla.
+
+La Grande Madre è nutrimento e pericolo. Grembo e tomba. Colei che genera può anche trattenere il figlio e impedirgli di emergere.
+
+In molte mitologie la madre divina minaccia inconsciamente il figlio proprio perché la sua nascita implica separazione.
+
+Il figlio deve uscire dal mondo materno per diventare individuo. Ma uscire significa rompere l’unità originaria.
+
+La tragedia madre-figlio è già contenuta nel simbolo del pesce. Il figlio proviene dall’acqua, ma non può restarvi per sempre. Deve emergere.
+
+Il cristianesimo eredita questa struttura. Cristo nasce da una Vergine, entra nel mondo della materia, muore, discende negli inferi e ritorna.
+
+Il percorso del Salvatore è anche il percorso della coscienza che si separa dalla totalità inconscia, attraversa il conflitto e tenta una nuova unione.
+
+I Pesci sono inoltre l’ultimo segno dello zodiaco. Rappresentano la fine di un ciclo e l’inizio di un altro.
+
+Anche questo coincide con la struttura del cristianesimo. Cristo è l’alfa e l’omega. La sua venuta annuncia la fine del vecchio mondo e l’inizio del regno.
+
+La sua morte conclude un ordine. La resurrezione inaugura una nuova creazione.
+
+Il pesce appartiene quindi alla soglia. Non soltanto alla profondità. È il simbolo del passaggio tra fine e inizio, morte e rinascita, vecchio e nuovo eone.
+
+Jung riassume nel simbolismo dei Pesci alcuni motivi fondamentali del mito cristiano:
+
+* la croce;
+* il conflitto tra Cristo e Anticristo;
+* il figlio della Vergine;
+* la tragedia madre-figlio;
+* il pericolo alla nascita;
+* il Salvatore e guaritore.
+
+È una concentrazione impressionante.
+
+Ma Jung rimane prudente. Non sostiene che il simbolo cristiano del pesce derivi direttamente dall’astrologia. Non esistono prove storiche sufficienti.
+
+L’Ichthys cristiano era generalmente uno, mentre il segno zodiacale ne contiene due.
+
+La polarità Cristo-Anticristo non sembra essere stata semplicemente copiata dalla costellazione.
+
+Il rapporto non è causale. È sincronico e archetipico.
+
+Lo stesso motivo emerge in contesti differenti perché esprime una struttura profonda della psiche.
+
+Il cielo, il mito e la storia religiosa non dipendono necessariamente l’uno dall’altro. Possono essere manifestazioni parallele dello stesso archetipo.
+
+Questa distinzione è essenziale.
+
+Jung non vuole ridurre Cristo a una figura astrologica. Vuole mostrare che la figura di Cristo è entrata in un campo simbolico molto più vasto della formulazione evangelica.
+
+Nel momento in cui viene riconosciuto come pesce, Cristo viene collegato alle acque primordiali, alla madre, alla rinascita, al nutrimento sacro, al mostro marino, al Messia, al diluvio, alla guarigione e alla fine del ciclo.
+
+Il simbolo amplia la figura. La rende più antica e, insieme, più universale.
+
+Ma questa universalizzazione ha un prezzo.
+
+Cristo non appare più soltanto come luce priva di ambiguità. Entra nel mondo delle immagini viventi, e ogni immagine vivente porta con sé il proprio opposto.
+
+Il pesce divora e viene mangiato. Salva e minaccia. Muore e risorge. È uno e due. Appartiene alla madre e si separa da lei. È Messia e può avvicinarsi all’Antimessia. È profondità inconscia e nutrimento della coscienza.
+
+Proprio questa ambivalenza spiega il suo valore psicologico.
+
+Un simbolo non è grande perché offre una risposta semplice. È grande perché riesce a contenere una contraddizione che la ragione non sa risolvere.
+
+Il pesce contiene la vita e la morte nello stesso corpo. Nuota nell’oscurità, ma porta la salvezza. Proviene dall’abisso, ma diventa cibo celeste. È il mostro che inghiotte il profeta e il Salvatore che salva dal diluvio.
+
+In questo senso, il capitolo ottavo di Aion non parla soltanto della storia di un simbolo. Parla della struttura stessa della trasformazione.
+
+L’uomo non viene salvato evitando la profondità. Viene salvato attraversandola. Non guarisce eliminando ciò che lo minaccia. Guarisce trasformandone la forza.
+
+Non raggiunge la totalità identificandosi soltanto con il Messia luminoso. Deve riconoscere anche la scissione, la paura, il mostro, il giudice e il fratello oscuro.
+
+Il pesce diventa così il custode di una verità difficile. La vita nuova nasce nello stesso luogo in cui la vecchia vita rischia di essere inghiottita. La profondità che ci spaventa è anche quella che può nutrirci. Il simbolo che sembra condurci verso la morte può diventare il mezzo della rinascita.
+
+E forse proprio per questo Cristo viene rappresentato come pesce. Non perché appartenga soltanto alla luce. Ma perché discende nelle acque dove luce e oscurità non sono ancora separate, assume la forma del mistero che vi abita e ritorna da esse come nutrimento per la coscienza.
+
+Il Salvatore non resta sulla riva. Entra nel mare.
+
+[↑ Torna all'indice](#top)
