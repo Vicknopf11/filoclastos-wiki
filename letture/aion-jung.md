@@ -1217,7 +1217,7 @@ E quando ritorna, non ci appare come una parte dimenticata di noi stessi. Ci app
 
 ---
 
-<a id="cap8 "></a>
+<a id="cap8"></a>
 
 ## Il significato storico del segno dei Pesci
 
@@ -1227,7 +1227,7 @@ Il cristianesimo ha riconosciuto nel pesce una delle proprie immagini fondamenta
 
 Per Jung, proprio questa lunga continuità simbolica rende il pesce così importante.
 
-Non è un semplice emblema. È una forma nella quale l’inconscio collettivo ha condensato per secoli immagini di vita, pericolo, nutrimento, sacrificio, trasformazione e salvezza.
+Non è un semplice emblema. È una forma in cui l’inconscio collettivo ha condensato, per secoli, immagini di vita, pericolo, nutrimento, sacrificio, trasformazione e salvezza.
 
 Nel capitolo precedente Jung aveva mostrato come il segno dei Pesci potesse rappresentare l’intero eone cristiano, con la sua polarità tra Cristo e Anticristo. Ora torna sul simbolo per osservarne più da vicino la profondità storica.
 
@@ -1239,7 +1239,7 @@ Cristo appare così come figura di passaggio tra un ordine che muore e uno nuovo
 
 Non è difficile riconoscere qui una delle strutture fondamentali del mito. Ogni nuova coscienza nasce dentro un ordine precedente che non è ancora completamente scomparso. Il nuovo non emerge mai nel vuoto. Porta con sé immagini antiche, le trasforma e le ricompone. Per questo Cristo può assumere contemporaneamente i tratti del pastore, dell’agnello e del pesce. Non perché il simbolismo cristiano sia incoerente, ma perché sta raccogliendo in una sola figura diversi strati della psiche religiosa.
 
-Jung si concentra però sul pesce, perché è proprio il suo carattere doppio a porre le domande psicologiche più profonde.
+Jung si concentra però sul pesce, perché è proprio il suo doppio carattere a porre le domande psicologiche più profonde.
 
 Il pesce vive nell’acqua. L’acqua è la profondità, l’inconscio, il grembo, il caos originario.
 
