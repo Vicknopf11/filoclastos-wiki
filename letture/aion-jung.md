@@ -1,5 +1,5 @@
 ---
-title: "Aion (Jung)"
+title: "Aion. Ricerche sul simbolismo del Sé"
 categoria: letture
 sommario: "Commenti capitolo per capitolo ad Aion di C.G. Jung."
 ---
