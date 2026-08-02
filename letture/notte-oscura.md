@@ -8,11 +8,11 @@ sommario: "Guida alla lettura e commenti strofa per strofa della Notte oscura di
 
 ## Dove trovarlo
 
-- Edizione italiana (Paoline): [Opere di San Giovanni della Croce](https://www.paolinestore.it/)
-- Edizione italiana (EDB): [Opere complete](https://www.dehoniane.it/)
+- Edizione italiana (Paoline): [Opere di San Giovanni della Croce]([https://www.paolinestore.it/](https://www.paolinestore.it/opere-complete-giovanni-della-croce-19703.html))
+- Edizione italiana (EDB): [Notte Oscura](https://edb.it/libro/9788810507254-notte-oscura)
 - Testo originale spagnolo e traduzioni inglesi:
   - [Christian Classics Ethereal Library (CCEL)](https://www.ccel.org/ccel/john_cross/dark_night)
-  - [Internet Archive](https://archive.org/)
+  - [Internet Archive]([https://archive.org/](https://archive.org/details/darknightofsoulo0000john))
   - [Wikisource (español)](https://es.wikisource.org/wiki/Noche_oscura_del_alma)
 
 ---
