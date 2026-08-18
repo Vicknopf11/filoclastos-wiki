@@ -1,4 +1,13 @@
-# L’Italia è diventata una potenza multisport?
+---
+title: L’Italia è diventata una potenza multisport?
+categoria: note
+sommario: "Il boom delle medaglie e la riforma silenziosa dello sport italiano"
+data: 2026-08-18
+---
+
+*18 Agost 2026*
+
+---
 
 ## Il boom delle medaglie e la riforma silenziosa dello sport italiano
 
