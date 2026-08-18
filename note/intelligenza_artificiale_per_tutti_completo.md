@@ -361,7 +361,7 @@ La mattina l’idraulico potrebbe dire:
 
 > “Organizzami la giornata.”
 
-L’agente controlla gli appuntamenti. Legge le richieste dei clienti. Calcola i percorsi. Controlla quali materiali potrebbero servire. Si accorge che manca una valvola. Prepara l’ordine dal fornitore abituale. Avvisa che il secondo appuntamento rischia di slittare. Alla fine della giornata raccoglie i rapporti degli interventi e prepara le fatture. L’idraulico non ha passato la giornata davanti al computer. Ha lavorato. Ma dietro di lui ha lavorato anche una macchina.
+L’agente AI controlla gli appuntamenti. Legge le richieste dei clienti. Calcola i percorsi. Controlla quali materiali potrebbero servire. Si accorge che manca una valvola. Prepara l’ordine dal fornitore abituale. Avvisa che il secondo appuntamento rischia di slittare. Alla fine della giornata raccoglie i rapporti degli interventi e prepara le fatture. L’idraulico non ha passato la giornata davanti al computer. Ha lavorato. Ma dietro di lui ha lavorato anche una macchina.
 
 ---
 
