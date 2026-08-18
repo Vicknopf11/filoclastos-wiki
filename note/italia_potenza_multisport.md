@@ -5,7 +5,7 @@ sommario: "Il boom delle medaglie e la riforma silenziosa dello sport italiano"
 data: 2026-08-18
 ---
 
-*18 Agost 2026*
+*18 Agosto 2026*
 
 ---
 
