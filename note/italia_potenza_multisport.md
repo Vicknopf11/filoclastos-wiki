@@ -26,7 +26,38 @@ Un exploit può essere fortuna. Due cicli olimpici consecutivi iniziano a sugger
 
 E non è soltanto una questione olimpica.
 
-L'atletica italiana ne offre forse l'esempio più spettacolare. Dopo i cinque ori olimpici di Tokyo, che molti considerarono quasi irripetibili, l'Italia ha continuato a crescere fino a vincere il medagliere degli Europei di Roma 2024 e poi nuovamente quello di Birmingham 2026.
+## Il caso più evidente: l'esplosione dell'atletica italiana
+
+Il segnale forse più impressionante del cambiamento arriva dall'atletica leggera, una disciplina nella quale storicamente l'Italia ha prodotto grandi campioni ma raramente ha avuto la profondità necessaria per dominare una grande competizione internazionale.
+
+Agli **Europei di Roma 2024**, l'Italia ha chiuso al **primo posto nel medagliere**, conquistando **24 medaglie: 11 ori, 9 argenti e 4 bronzi**. È stato il miglior Europeo della storia dell'atletica italiana.
+
+Due anni dopo, agli **Europei di Birmingham 2026**, l'Italia ha confermato il risultato vincendo **nuovamente il medagliere**, questa volta con **10 ori, 6 argenti e 6 bronzi**, per un totale di **22 medaglie**.
+
+| Europei | Ori | Argenti | Bronzi | Totale | Medagliere |
+|---|---:|---:|---:|---:|---:|
+| **Roma 2024** | **11** | **9** | **4** | **24** | **1ª** |
+| **Birmingham 2026** | **10** | **6** | **6** | **22** | **1ª** |
+| **Totale** | **21** | **15** | **10** | **46** | **2 vittorie consecutive** |
+
+Il dato più significativo non è soltanto il numero di medaglie. A Roma il successo arrivò attraverso specialità molto diverse: velocità, mezzofondo, fondo, marcia, salti, ostacoli e staffette. Non era quindi una squadra dipendente da uno o due fuoriclasse.
+
+Dopo Roma si poteva ancora avanzare un'obiezione: l'Italia gareggiava in casa, davanti al proprio pubblico, e poteva trovarsi nel momento culminante di una generazione particolarmente favorevole.
+
+**Birmingham 2026 rende questa spiegazione molto meno sufficiente.**
+
+L'Italia ha infatti vinto nuovamente il medagliere due anni dopo, questa volta in Gran Bretagna. Nell'ultima gara del campionato, la 4x400 maschile italiana ha battuto quella britannica per appena tre centesimi, **2:59.16 contro 2:59.19**, contribuendo a consolidare il primo posto italiano. Nella stessa giornata Larissa Iapichino aveva conquistato l'oro nel salto in lungo con **7,00 metri**.
+
+In due edizioni consecutive degli Europei, quindi, l'Italia ha raccolto:
+
+> **21 ori, 15 argenti, 10 bronzi: 46 medaglie.**
+
+Ma soprattutto:
+
+> **Roma 2024: prima in Europa.**  
+> **Birmingham 2026: prima in Europa.**
+
+Roma poteva ancora essere interpretata come l'Europeo perfetto disputato in casa. Vincere nuovamente due anni dopo, in casa della Gran Bretagna, costituisce un'indicazione molto più forte della profondità raggiunta dal movimento italiano.
 
 Lo stesso fenomeno, con modalità diverse, è visibile nel tennis, nella pallavolo, nel nuoto, nella ginnastica e in numerosi sport meno presenti sui media.
 
@@ -258,4 +289,6 @@ Perché una medaglia racconta il presente.
 
 Ed è forse questa la vera trasformazione dello sport italiano degli ultimi quindici anni: non stiamo semplicemente assistendo a un periodo nel quale l'Italia vince più medaglie.
 
-Potremmo stare assistendo alla lenta costruzione di **una macchina capace di produrle con continuità**.
+Tra il 2021 e il 2026 l'Italia ha messo insieme **due Olimpiadi consecutive da 40 medaglie e due vittorie consecutive nel medagliere degli Europei di atletica**. Presi separatamente, ciascuno di questi risultati potrebbe essere spiegato almeno in parte da una generazione particolarmente favorevole. Presi insieme, iniziano a delineare qualcosa di diverso: **un aumento della profondità competitiva dell'intero sistema sportivo italiano**.
+
+Potremmo stare assistendo alla lenta costruzione di **una macchina capace di produrre medaglie con continuità**.
