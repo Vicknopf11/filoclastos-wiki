@@ -487,7 +487,8 @@ Non necessariamente manager di altre persone.
 
 L’intelligenza artificiale può aiutarci a trovare una soluzione. Può analizzare migliaia di possibilità. Può suggerire la strada apparentemente migliore. Ma rimane una domanda che nessun algoritmo dovrebbe risolvere al posto nostro:
 
-- **migliore per chi?**
+**migliore per chi o cosa?**
+
 - Produrre di più?
 - Guadagnare di più?
 - Lavorare meno?
