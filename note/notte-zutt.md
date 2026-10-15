@@ -121,7 +121,7 @@ Ottima precisazione. Quindi non possiamo affermare scientificamente che fosse un
 
 Possiamo affermare soltanto che un gruppo di uomini nudi arrivò nel deserto e cominciò a: **salire sopra Maometto, montarlo, accalcarsi sul suo corpo o cavalcarlo.** Molto più rassicurante, perché diciamolo, quale maschietto etero non ha mai sognato di farsi cavalcare da un gruppo di uomini nudi. 
 
-Nel frattempo Maometto continua a recitare il Corano. Perché ci sono uomini che perdono la concentrazione se qualcuno tossisce durante la preghiera. E poi c’è Maometto che continua la recitazione mentre viene trasformato in una **giostra beduina soprannaturale**.
+Nel frattempo Maometto continua a recitare il Corano. Perché ci sono uomini che perdono la concentrazione se qualcuno tossisce durante la preghiera. E poi c’è Maometto che continua la recitazione mentre viene trasformato in una **giostra omoerotica soprannaturale**.
 
 La faccenda continua fino all’alba. Poi gli uomini nudi finalmente se ne vanno.
 
@@ -133,9 +133,8 @@ Il testo dice:
 <div align="right">
 **ثَقِيلًا وَجِعًا**
 </div>
-**appesantito e dolorante.**
 
-Perché? Il narratore ce lo spiega immediatamente:
+**appesantito e dolorante.** Perché? Il narratore ce lo spiega immediatamente:
 
 <div align="right">
 **مِمَّا رَكِبُوهُ**
@@ -154,11 +153,11 @@ Perché abbiamo:
 - fino all’alba;
 - Dopodiché Maometto ritorna dolorante.
 
-A questo punto qualsiasi sceneggiatore pornografico avrebbe detto: **“Forse il sottotesto sta diventando troppo evidente.”**
+A questo punto qualsiasi sceneggiatore pornografico avrebbe detto: **“Forse il copione sta diventando troppo evidente.”**
 
 Ma l’hadith non ha ancora finito. Maometto torna da Ibn Masʿūd e dice: **«Mi sento pesante.»**
 
-Poi mette la testa sul grembo di Ibn Masʿūd e si addormenta. Dopo essere stato montato tutta la notte da uomini nudi. Nel deserto.
+Poi mette la testa sul grembo di Ibn Masʿūd e si addormenta. Dopo essere stato montato tutta la notte da uomini nudi. Nel deserto. Una notte come tante nella vita del profeta.
 
 Ed ecco arrivare un secondo gruppo di uomini. Fortunatamente questa volta sono vestiti. Di bianco. Sono angeli.
 
@@ -168,7 +167,7 @@ Gli angeli osservano Maometto addormentato e commentano: **«I suoi occhi dormon
 
 Dopo quella notte, francamente, il cuore era probabilmente l’unica parte del corpo ancora disponibile per il servizio.
 
-Gli angeli spiegano infine una parabola: Dio è il Signore, l’Islam è l’edificio, il Paradiso è il banchetto e Maometto è colui che invita gli uomini (anche quelli nudi) a entrarvi.
+Gli angeli spiegano infine una parabola: Dio è il Signore, l’Islam è l’edificio, il Paradiso è il banchetto e Maometto è colui che invita gli uomini a entrarvi.
 
 Perfettamente ortodosso. Rimane soltanto una domanda esegetica: **perché per comunicare tutto questo era necessario organizzare prima il gangbang nel deserto?**
 
