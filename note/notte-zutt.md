@@ -9,7 +9,6 @@ data: 2026-10-15
 
 ---
 
-
 ### La fonte
 
 Il racconto non proviene da un sito anti-islamico, ma dal **Musnad di Aḥmad ibn Ḥanbal**, nella tradizione attribuita a **ʿAbd Allāh ibn Masʿūd**.
@@ -24,7 +23,7 @@ Fonte originale araba: **Wikisource, Musnad Aḥmad, Musnad ʿAbd Allāh ibn Mas
 
 ---
 
-## Il passaggio originale
+### Il passaggio originale
 
 Il punto che ci interessa comincia quando Ibn Masʿūd descrive gli strani esseri incontrati durante la notte:
 
@@ -68,9 +67,7 @@ L’hadith **non dice esplicitamente che ci sia stato un rapporto sessuale**. È
 
 ---
 
-## La notte degli al-Zutt
-
-Chi erano gli al-Zutt?
+###Chi erano gli al-Zutt?
 
 Gli al-Zutt erano popolazioni di origine sudasiatica, generalmente identificate con i Jat della regione del Sindh e della valle dell’Indo. Erano conosciuti nel mondo arabo già nei primi secoli dell’Islam e comunità di Zutt vivevano anche in Iraq. Le fonti li descrivono generalmente come uomini dalla carnagione scura, alti e robusti. Essi compaiono nella letteratura erotica araba medievale anche come stereotipo di eccezionale virilità sessuale.
 
@@ -87,6 +84,10 @@ Letteralmente: «Descrivo un pene fra i peni degli Zutt: non si piegava mai e no
 Quindi gli Zutt sono l'equivalente islamico di un Mandingo arrapato.
 
 Nell’hadith, Ibn Masʿūd non afferma che gli esseri incontrati fossero realmente Zutt: dice che «sembravano gli Zutt». Li descrive poi come alti, molto magri e nudi, pur precisando di non riuscire a vederne le parti intime.
+
+---
+
+## La notte degli al-Zutt
 
 La tradizione islamica contiene episodi mistici, battaglie, rivelazioni e ascensioni celesti.
 
