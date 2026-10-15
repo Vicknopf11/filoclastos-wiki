@@ -74,7 +74,8 @@ Chi erano gli al-Zutt?
 
 Gli al-Zutt erano popolazioni di origine sudasiatica, generalmente identificate con i Jat della regione del Sindh e della valle dell’Indo. Erano conosciuti nel mondo arabo già nei primi secoli dell’Islam e comunità di Zutt vivevano anche in Iraq. Le fonti li descrivono generalmente come uomini dalla carnagione scura, alti e robusti. Essi compaiono nella letteratura erotica araba medievale anche come stereotipo di eccezionale virilità sessuale.
 
-La testimonianza più esplicita che ho trovato è nel Kitāb al-Tashbīhāt di Ibn Abī ʿAwn, nel capitolo sulla descrizione del pene. Vi compare questo verso:
+La testimonianza più esplicita è nel [*Kitāb al-Tashbīhāt*](https://www.islamarchive.cc/ketab_content/179/p-50) di Ibn Abī ʿAwn, in cui compare questo verso:
+
 <div align="right">
 أنعتُ أيراً من أيورِ الزطِّ
 لم ينثنِ قطُّ ولم ينحطِّ
@@ -83,7 +84,7 @@ La testimonianza più esplicita che ho trovato è nel Kitāb al-Tashbīhāt di I
 
 Letteralmente: «Descrivo un pene fra i peni degli Zutt: non si piegava mai e non si abbassava mai.»
 
-Il verso continua con altre immagini falliche. Il testo è effettivamente attestato anche in edizioni online del [*Kitāb al-Tashbīhāt*](https://www.islamarchive.cc/ketab_content/179/p-50).
+Quindi gli Zutt sono l'equivalente islamico di un Mandingo arrapato.
 
 Nell’hadith, Ibn Masʿūd non afferma che gli esseri incontrati fossero realmente Zutt: dice che «sembravano gli Zutt». Li descrive poi come alti, molto magri e nudi, pur precisando di non riuscire a vederne le parti intime.
 
