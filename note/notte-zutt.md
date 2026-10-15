@@ -96,13 +96,13 @@ Maometto porta Ibn Masʿūd fuori città.
 
 Arrivati in un luogo isolato, traccia un cerchio sul terreno e gli ordina: **«Resta lì dentro. Non uscire.»**
 
-Prima regola del gangbang profetico: portati dietro un compagno etero.
+Prima regola del gangbang profetico: portati dietro un cameraman, ma, essendo il settimo secolo in assenza di videocamere, il buon Maomentto si accontentò di un cronista.
 
 Maometto si allontana. Poi arrivano degli uomini. Alti. Magri. Nudi. Simili agli Zutt.
 
 Ibn Masʿūd aggiunge però un dettaglio rassicurante: **non riusciva a vedere i loro genitali.** Naturalmente.
 
-Perché quando un cronista dell’VIII secolo sente la necessità di precisare che un gruppo di uomini nudi nel deserto **non mostrava il cazzo**, sai già che la serata sta prendendo una direzione teologicamente complessa.
+Perché quando un cronista dell’VII secolo sente la necessità di precisare che un gruppo di uomini nudi nel deserto **non mostrava il cazzo**, sai già che la serata sta prendendo una direzione teologicamente complessa.
 
 E infatti il testo prosegue:
 
@@ -110,21 +110,17 @@ E infatti il testo prosegue:
 
 *fa-jaʿalū yarkabūna rasūla llāh.*
 
-Tradotto senza anestesia: **«Cominciarono a montare il Messaggero di Allah.»**
+Tradotto senza anestesia e senza vaselina: **«Cominciarono a montare il Messaggero di Allah.»**
 
 A questo punto entra in scena l’esegeta: “No, no, no. Non significa necessariamente quello che state pensando.”
 
-Ed è vero. *Rakiba* può significare montare, cavalcare, salire sopra, accalcarsi addosso.
+Ed è vero. *Rakiba* può significare oltre a montare, anche cavalcare, salire sopra, accalcarsi addosso. 
 
 Ottima precisazione. Quindi non possiamo affermare scientificamente che fosse un gangbang.
 
-Possiamo affermare soltanto che un gruppo di uomini nudi arrivò nel deserto e cominciò a: **salire sopra Maometto, montarlo, accalcarsi sul suo corpo o cavalcarlo.**
+Possiamo affermare soltanto che un gruppo di uomini nudi arrivò nel deserto e cominciò a: **salire sopra Maometto, montarlo, accalcarsi sul suo corpo o cavalcarlo.** Molto più rassicurante, perché diciamolo, quale maschietto etero non ha mai sognato di farsi cavalcare da un gruppo di uomini nudi. 
 
-Molto più rassicurante. Nel frattempo Maometto continua a recitare il Corano.
-
-Perché ci sono uomini che perdono la concentrazione se qualcuno tossisce durante la preghiera.
-
-E poi c’è Maometto che continua la recitazione mentre viene trasformato in una **giostra beduina soprannaturale**.
+Nel frattempo Maometto continua a recitare il Corano. Perché ci sono uomini che perdono la concentrazione se qualcuno tossisce durante la preghiera. E poi c’è Maometto che continua la recitazione mentre viene trasformato in una **giostra beduina soprannaturale**.
 
 La faccenda continua fino all’alba. Poi gli uomini nudi finalmente se ne vanno.
 
@@ -133,16 +129,16 @@ Maometto ritorna da Ibn Masʿūd. Come sta? Sereno? Illuminato? Rinfrancato dall
 No.
 
 Il testo dice:
-
+<div align="right">
 **ثَقِيلًا وَجِعًا**
-
+</div>
 **appesantito e dolorante.**
 
-Perché?
+Perché? Il narratore ce lo spiega immediatamente:
 
-Il narratore ce lo spiega immediatamente:
-
+<div align="right">
 **مِمَّا رَكِبُوهُ**
+</div>
 
 cioè: **«a causa di ciò che avevano fatto montandolo / salendogli addosso.»**
 
@@ -159,9 +155,7 @@ Perché abbiamo:
 
 A questo punto qualsiasi sceneggiatore pornografico avrebbe detto: **“Forse il sottotesto sta diventando troppo evidente.”**
 
-Ma l’hadith non ha ancora finito.
-
-Maometto torna da Ibn Masʿūd e dice: **«Mi sento pesante.»**
+Ma l’hadith non ha ancora finito. Maometto torna da Ibn Masʿūd e dice: **«Mi sento pesante.»**
 
 Poi mette la testa sul grembo di Ibn Masʿūd e si addormenta. Dopo essere stato montato tutta la notte da uomini nudi. Nel deserto.
 
@@ -173,17 +167,13 @@ Gli angeli osservano Maometto addormentato e commentano: **«I suoi occhi dormon
 
 Dopo quella notte, francamente, il cuore era probabilmente l’unica parte del corpo ancora disponibile per il servizio.
 
-Gli angeli spiegano infine una parabola: Dio è il Signore, l’Islam è l’edificio, il Paradiso è il banchetto e Maometto è colui che invita gli uomini a entrarvi.
+Gli angeli spiegano infine una parabola: Dio è il Signore, l’Islam è l’edificio, il Paradiso è il banchetto e Maometto è colui che invita gli uomini (anche quelli nudi) a entrarvi.
 
-Perfettamente ortodosso.
-
-Rimane soltanto una domanda esegetica: **perché per comunicare tutto questo era necessario organizzare prima il gangbang nel deserto?**
+Perfettamente ortodosso. Rimane soltanto una domanda esegetica: **perché per comunicare tutto questo era necessario organizzare prima il gangbang nel deserto?**
 
 Naturalmente bisogna essere rigorosi. Il verbo **rakiba** non significa necessariamente “avere rapporti sessuali”.
 
 L’hadith non dice: **«Gli al-Zutt fecero sesso con Maometto.»**
-
-E questa specifica trasmissione presenta inoltre problemi nell’isnād ed è stata giudicata debole da studiosi dell’hadith.
 
 Pertanto la formulazione storicamente e filologicamente responsabile è:
 
