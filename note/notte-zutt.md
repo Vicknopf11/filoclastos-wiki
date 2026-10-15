@@ -67,7 +67,7 @@ L’hadith **non dice esplicitamente che ci sia stato un rapporto sessuale**. È
 
 ---
 
-###Chi erano gli al-Zutt?
+### Chi erano gli al-Zutt?
 
 Gli al-Zutt erano popolazioni di origine sudasiatica, generalmente identificate con i Jat della regione del Sindh e della valle dell’Indo. Erano conosciuti nel mondo arabo già nei primi secoli dell’Islam e comunità di Zutt vivevano anche in Iraq. Le fonti li descrivono generalmente come uomini dalla carnagione scura, alti e robusti. Essi compaiono nella letteratura erotica araba medievale anche come stereotipo di eccezionale virilità sessuale.
 
