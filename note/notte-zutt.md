@@ -63,7 +63,7 @@ E disse: **«Mi sento pesante.»**
 
 Il verbo utilizzato due volte è **رَكِبَ — rakiba**. Il suo significato fondamentale è **montare, cavalcare, salire sopra**. Nel contesto può anche indicare l’accalcarsi o salire addosso a qualcuno.
 
-L’hadith **non dice esplicitamente che ci sia stato un rapporto sessuale**. È precisamente l’ambiguità grottesca della formulazione a rendere possibile la satira che segue.
+L’hadith **non dice esplicitamente che ci sia stato un rapporto sessuale**. 
 
 ---
 
@@ -93,9 +93,7 @@ La tradizione islamica contiene episodi mistici, battaglie, rivelazioni e ascens
 
 E poi c’è quella notte in cui Maometto va nel deserto e, se si traduce l’arabo senza imbottirlo preventivamente di materiale apologetico, la scena comincia ad assomigliare pericolosamente al peggior **gangbang gay soprannaturale della storia delle religioni**.
 
-Maometto porta Ibn Masʿūd fuori città.
-
-Arrivati in un luogo isolato, traccia un cerchio sul terreno e gli ordina: **«Resta lì dentro. Non uscire.»**
+Maometto porta Ibn Masʿūd fuori città. Arrivati in un luogo isolato, traccia un cerchio sul terreno e gli ordina: **«Resta lì dentro. Non uscire.»**
 
 Prima regola del gangbang profetico: portati dietro un cameraman, ma, essendo il settimo secolo in assenza di videocamere, il buon Maomentto si accontentò di un cronista.
 
@@ -106,8 +104,9 @@ Ibn Masʿūd aggiunge però un dettaglio rassicurante: **non riusciva a vedere i
 Perché quando un cronista dell’VII secolo sente la necessità di precisare che un gruppo di uomini nudi nel deserto **non mostrava il cazzo**, sai già che la serata sta prendendo una direzione teologicamente complessa.
 
 E infatti il testo prosegue:
-
+<div align="right">
 **فَجَعَلُوا يَرْكَبُونَ رَسُولَ اللَّهِ**
+</div>
 
 *fa-jaʿalū yarkabūna rasūla llāh.*
 
@@ -121,13 +120,11 @@ Ottima precisazione. Quindi non possiamo affermare scientificamente che fosse un
 
 Possiamo affermare soltanto che un gruppo di uomini nudi arrivò nel deserto e cominciò a: **salire sopra Maometto, montarlo, accalcarsi sul suo corpo o cavalcarlo.** Molto più rassicurante, perché diciamolo, quale maschietto etero non ha mai sognato di farsi cavalcare da un gruppo di uomini nudi. 
 
-Nel frattempo Maometto continua a recitare il Corano. Perché ci sono uomini che perdono la concentrazione se qualcuno tossisce durante la preghiera. E poi c’è Maometto che continua la recitazione mentre viene trasformato in una **giostra omoerotica soprannaturale**.
+Nel frattempo Maometto continua a recitare il Corano. Perché ci sono uomini che perdono la concentrazione se qualcuno tossisce durante la preghiera. E poi c’è Maometto che continua la recitazione mentre viene trasformato in una **giostra omoerotica beduina**.
 
 La faccenda continua fino all’alba. Poi gli uomini nudi finalmente se ne vanno.
 
-Maometto ritorna da Ibn Masʿūd. Come sta? Sereno? Illuminato? Rinfrancato dall’esperienza mistica?
-
-No.
+Maometto ritorna da Ibn Masʿūd. Come sta? Sereno? Illuminato? Rinfrancato dall’esperienza mistica? No.
 
 Il testo dice:
 <div align="right">
@@ -165,7 +162,7 @@ Perché evidentemente il personale del turno di giorno aveva un dress code più 
 
 Gli angeli osservano Maometto addormentato e commentano: **«I suoi occhi dormono, ma il suo cuore è sveglio.»**
 
-Dopo quella notte, francamente, il cuore era probabilmente l’unica parte del corpo ancora disponibile per il servizio.
+Dopo quella notte, francamente, il cuore era probabilmente l’unica parte del corpo ancora in servizio.
 
 Gli angeli spiegano infine una parabola: Dio è il Signore, l’Islam è l’edificio, il Paradiso è il banchetto e Maometto è colui che invita gli uomini a entrarvi.
 
