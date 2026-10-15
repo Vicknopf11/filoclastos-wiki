@@ -18,8 +18,6 @@ Il racconto non proviene da un sito anti-islamico, ma dal **Musnad di Aḥmad ib
 
 Fonte originale araba: **Wikisource, Musnad Aḥmad, Musnad ʿAbd Allāh ibn Masʿūd (4), hadith 3599.**
 
-Il testo arabo su Wikisource conferma sia **«فجعلوا يركبون رسول الله»** sia, poche righe dopo, **«وجعاً ... مما ركبوه»**. [Wikisource](https://ar.wikisource.org/wiki/%D9%85%D8%B3%D9%86%D8%AF_%D8%A3%D8%AD%D9%85%D8%AF_%D8%A8%D9%86_%D8%AD%D9%86%D8%A8%D9%84/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF_%D8%A7%D9%84%D8%A3%D9%88%D9%84/%D9%85%D8%B3%D9%86%D8%AF_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%84%D9%87_%D8%A8%D9%86_%D9%85%D8%B3%D8%B9%D9%88%D8%AF_%284%29)
-
 [Testo originale arabo — Wikisource, Musnad Aḥmad n. 3599](https://ar.wikisource.org/wiki/%D9%85%D8%B3%D9%86%D8%AF_%D8%A3%D8%AD%D9%85%D8%AF_%D8%A8%D9%86_%D8%AD%D9%86%D8%A8%D9%84/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%AF_%D8%A7%D9%84%D8%A3%D9%88%D9%84/%D9%85%D8%B3%D9%86%D8%AF_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%84%D9%87_%D8%A8%D9%86_%D9%85%D8%B3%D8%B9%D9%88%D8%AF_%284%29)
 
 [Versione araba + inglese — Musnad Aḥmad 3788](https://en.islamicurdubooks.com/hadith/hadith-.php?bookid=24&hadith_number=3788)
@@ -54,25 +52,40 @@ Ibn Masʿūd racconta che apparvero alcuni esseri **simili agli Zutt**.
 
 Non indossavano vestiti, ma egli dice di non riuscire a vedere le loro parti intime. Erano alti e magri.
 
-Poi: **«Vennero e cominciarono a _yarkabūna_ il Messaggero di Allah.»**
+Poi: **«Vennero e cominciarono a montare (_yarkabūna_) il Messaggero di Allah.»**
 
 Il Profeta continuava nel frattempo a recitare loro il Corano.
 
 Quando comparve la luce dell’alba, essi cominciarono ad andarsene.
 
-Poi il Messaggero di Allah ritornò **appesantito e dolorante, o quasi dolorante, per ciò che essi gli avevano fatto — _rakibūhu_.**
+Poi il Messaggero di Allah ritornò **appesantito e dolorante, o quasi dolorante, per ciò che essi gli avevano fatto ossia montato — _rakibūhu_.**
 
 E disse: **«Mi sento pesante.»**
 
-Il verbo utilizzato due volte è **رَكِبَ — rakiba**.
-
-Il suo significato fondamentale è **montare, cavalcare, salire sopra**. Nel contesto può anche indicare l’accalcarsi o salire addosso a qualcuno.
+Il verbo utilizzato due volte è **رَكِبَ — rakiba**. Il suo significato fondamentale è **montare, cavalcare, salire sopra**. Nel contesto può anche indicare l’accalcarsi o salire addosso a qualcuno.
 
 L’hadith **non dice esplicitamente che ci sia stato un rapporto sessuale**. È precisamente l’ambiguità grottesca della formulazione a rendere possibile la satira che segue.
 
 ---
 
 ## La notte degli al-Zutt
+
+Chi erano gli al-Zutt?
+
+Gli al-Zutt erano popolazioni di origine sudasiatica, generalmente identificate con i Jat della regione del Sindh e della valle dell’Indo. Erano conosciuti nel mondo arabo già nei primi secoli dell’Islam e comunità di Zutt vivevano anche in Iraq. Le fonti li descrivono generalmente come uomini dalla carnagione scura, alti e robusti. Essi compaiono nella letteratura erotica araba medievale anche come stereotipo di eccezionale virilità sessuale.
+
+La testimonianza più esplicita che ho trovato è nel Kitāb al-Tashbīhāt di Ibn Abī ʿAwn, nel capitolo sulla descrizione del pene. Vi compare questo verso:
+<div align="right">
+أنعتُ أيراً من أيورِ الزطِّ
+لم ينثنِ قطُّ ولم ينحطِّ
+
+</div>
+
+Letteralmente: «Descrivo un pene fra i peni degli Zutt: non si piegava mai e non si abbassava mai.»
+
+Il verso continua con altre immagini falliche. Il testo è effettivamente attestato anche in edizioni online del [*Kitāb al-Tashbīhāt*](https://www.islamarchive.cc/ketab_content/179/p-50).
+
+Nell’hadith, Ibn Masʿūd non afferma che gli esseri incontrati fossero realmente Zutt: dice che «sembravano gli Zutt». Li descrive poi come alti, molto magri e nudi, pur precisando di non riuscire a vederne le parti intime.
 
 La tradizione islamica contiene episodi mistici, battaglie, rivelazioni e ascensioni celesti.
 
