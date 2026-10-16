@@ -53,10 +53,11 @@ Nel nostro caso, fra le altre cose che narreremo: uomini nudi simili agli Zutt a
 
 <div align="right">
 يَرْكَبُونَ رَسُولَ اللَّهِ
+
 yarkabūna rasūla Allāh,
 </div>
 
-e al mattino Maometto ritorna appesantito e dolorante. È qui che la critica testuale incontra improvvisamente il cabaret.
+e al mattino Maometto ritorna appesantito e dolorante. È qui che la critica testuale incontra improvvisamente il cabaret come presto vedremo.
 
 ### Ṣaḥīḥ, ḥasan, ḍaʿīf: non tutti gli hadith sono uguali
 
@@ -101,7 +102,8 @@ Deve essere letto come qualcosa di molto più interessante: «Ecco una storia ch
 E adesso possiamo finalmente entrare nel deserto.
 
 ---
-### La notte degli al-Zuzz ossia Maometto e il rodeo ambiguamente gay nel deserto
+
+### La notte degli al-Zutt ossia Maometto e il rodeo ambiguamente gay nel deserto
 
 La tradizione islamica contiene episodi mistici, battaglie, rivelazioni e ascensioni celesti.
 
@@ -232,7 +234,7 @@ Il punto che ci interessa comincia quando Ibn Masʿūd descrive gli strani esser
 
 </div>
 
-### Traduzione italiana molto letterale
+### Traduzione italiana 
 
 Ibn Masʿūd racconta che apparvero alcuni esseri **simili agli Zutt**.
 
@@ -244,7 +246,7 @@ Il Profeta continuava nel frattempo a recitare loro il Corano.
 
 Quando comparve la luce dell’alba, essi cominciarono ad andarsene.
 
-Poi il Messaggero di Allah ritornò **appesantito e dolorante, o quasi dolorante, per ciò che essi gli avevano fatto ossia montato — _rakibūhu_.**
+Poi il Messaggero di Allah ritornò **appesantito e dolorante, o quasi dolorante, per ciò che essi gli avevano fatto, ossia montato — _rakibūhu_.**
 
 E disse: **«Mi sento pesante.»**
 
@@ -268,7 +270,7 @@ La testimonianza più esplicita è nel [*Kitāb al-Tashbīhāt*](https://www.isl
 
 Letteralmente: «Descrivo un pene fra i peni degli Zutt: non si piegava mai e non si abbassava mai.»
 
-In pratica gli al-Zutt sono l'equivalente islamico di un gruppo di Mandinghi arrapati e in overdose di Viagra.
+In pratica gli al-Zutt sono l'equivalente islamico di un gruppo di mandinghi arrapati e in overdose di Viagra.
 
 ---
 
