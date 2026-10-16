@@ -54,8 +54,8 @@ Nel nostro caso, fra le altre cose che narreremo: uomini nudi simili agli Zutt a
 <div align="right">
 يَرْكَبُونَ رَسُولَ اللَّهِ
 
-yarkabūna rasūla Allāh,
 </div>
+*yarkabūna rasūla Allāh,*
 
 e al mattino Maometto ritorna appesantito e dolorante. È qui che la critica testuale incontra improvvisamente il cabaret come presto vedremo.
 
@@ -71,17 +71,17 @@ Una classificazione semplificata è:
 
 ḍaʿīf — debole;
 
-e poi esistono categorie ancora più problematiche, fino alle tradizioni considerate fabbricate.
+e poi esistono categorie ancora più problematiche, fino alle tradizioni considerate completamente false.
 
 Questa distinzione è particolarmente importante nel nostro caso.
 
-Il racconto del Musnad Aḥmad attribuito a Ibn Masʿūd che stiamo utilizzando non appartiene semplicemente alla categoria “questa cosa è certamente successa”. La sua catena di trasmissione presenta problemi ed è stata giudicata debole da studiosi dell'hadith.
+Il racconto del Musnad Aḥmad attribuito a Ibn Masʿūd che stiamo utilizzando non appartiene semplicemente alla categoria *“questa cosa è certamente successa”*. La sua catena di trasmissione presenta problemi ed è stata giudicata debole da studiosi dell'hadith.
 
-Quindi è bene non dire: «Ibn Masʿūd dimostra che Maometto fece questo.»
+Quindi è bene non dire: *«Ibn Masʿūd dimostra che Maometto fece questo.»*
 
-Più correttamente: «Una tradizione islamica attribuita a Ibn Masʿūd racconta questo.»
+Più correttamente: *«Una tradizione islamica attribuita a Ibn Masʿūd racconta questo.»*
 
-La differenza è importante. Specialmente quando ciò che viene raccontato comprende uomini nudi, una notte nel deserto e il verbo arabo “montare”.
+La differenza è importante. Specialmente quando ciò che viene raccontato comprende uomini nudi, una notte nel deserto e il verbo arabo **“montare”.**
 
 Riassumendo
 
@@ -93,11 +93,11 @@ Il Musnad Aḥmad non è un blog satirico. È una delle grandi raccolte della tr
 
 Ma l'hadith specifico non è considerato unanimemente autentico.
 
-Perciò ciò che segue non deve essere letto come: «Ecco la prova storica che Maometto partecipò a un gangbang nel deserto.»
+Perciò ciò che segue non deve essere letto come: *«Ecco la prova storica che Maometto partecipò a un gangbang nel deserto.»* 
 
 Sarebbe filologicamente disonesto.
 
-Deve essere letto come qualcosa di molto più interessante: «Ecco una storia che qualcuno nella tradizione islamica antica ritenne sufficientemente degna di essere trasmessa: uomini nudi simili agli Zutt, Maometto, una notte nel deserto e una scelta lessicale che avrebbe garantito lavoro agli esegeti per i secoli successivi.»
+Deve essere letto come qualcosa di molto più interessante: *«Ecco una storia che qualcuno nella tradizione islamica antica ritenne sufficientemente degna di essere trasmessa: uomini nudi simili agli Zutt, Maometto, una notte nel deserto e una scelta lessicale che avrebbe garantito lavoro agli esegeti per i secoli successivi.»*
 
 E adesso possiamo finalmente entrare nel deserto.
 
@@ -113,7 +113,7 @@ Maometto porta Ibn Masʿūd fuori città. Arrivati in un luogo isolato, traccia 
 
 Prima regola del gangbang profetico: portati dietro un cameraman, ma, essendo il settimo secolo e le videocamere non erano ancora state inventate, il buon Maomentto si accontentò del cronista di fiducia, che alla fine del racconto avrà un'altra importante funzione, ma non anticipiamo troppo.
 
-Mentre il buon Ibn Masʿūd se ne sta, metaforicamente e fisicamente, con le chiappe al sicuro dietro la linea che chiameremo defloration-line, e capirete tra poco il perché, Maometto si allontana. Poi arrivano degli uomini. Alti. Magri. Nudi. Simili agli Zutt.
+Mentre il buon Ibn Masʿūd se ne sta, metaforicamente e fisicamente, con le chiappe al sicuro dietro la linea che chiameremo *defloration-line*, e capirete tra poco il perché, Maometto si allontana. Poi arrivano degli uomini. Alti. Magri. Nudi. Simili agli al-Zutt.
 
 Ibn Masʿūd aggiunge però un dettaglio rassicurante: **non riusciva a vedere i loro genitali.** Naturalmente.
 
@@ -128,13 +128,13 @@ E infatti il testo prosegue:
 
 Tradotto senza anestesia e senza vaselina: **«Cominciarono a montare il Messaggero di Allah.»**
 
-A questo punto entra in scena l’esegeta islamico: “No, no, no. Non significa necessariamente quello che state pensando.”
+A questo punto entra in scena l’esegeta islamico: **“No, no, no. Non significa necessariamente quello che state pensando.”**
 
 Ed è vero. *Rakiba* radice del verbo *yarkabūna* può significare oltre a montare, anche cavalcare, ingroppare, salire sopra, accalcarsi addosso. 
 
 Ottima precisazione. Quindi non possiamo affermare scientificamente che fosse un gangbang.
 
-Possiamo affermare soltanto che un gruppo di uomini nudi arrivò nel deserto e cominciò a: **salire sopra Maometto, montarlo, ingropparlo, accalcarsi sul suo corpo o cavalcarlo.** Molto più rassicurante, perché diciamolo, quale maschietto etero non ha mai sognato di farsi ingroppare da un gruppo di uomini nudi. 
+Possiamo affermare soltanto che un gruppo di uomini nudi arrivò nel deserto e cominciò a: **salire sopra Maometto, montarlo, ingropparlo, accalcarsi sul suo corpo o cavalcarlo.** Molto più rassicurante, perché diciamolo, quale maschietto etero non ha mai sognato di farsi ingroppare o cavalcare da un gruppo di uomini nudi. 
 
 Nel frattempo Maometto continua a recitare il Corano. Perché ci sono uomini che perdono la concentrazione se qualcuno tossisce durante la preghiera. E poi c’è Maometto che continua la recitazione mentre viene trasformato in una **giostra omoerotica beduina**.
 
@@ -172,21 +172,21 @@ Ma l’hadith non ha ancora finito. Maometto torna da Ibn Masʿūd e dice: **«M
 
 E qui il buon Ibn Masʿūd ricopre la sua seconda funzione sacra che avevamo preannunciato, oltre a essere il cronista dell'ammucchiata omoerotica del profeta, ne diventa anche il cuscino. Maometto mette la testa sul grembo di Ibn Masʿūd e si addormenta. Dopo essere stato montato tutta la notte da uomini nudi. Nel deserto. 
 
-Una notte come tante nella vita del profeta e di un uomo vero, perché ammettiamolo, ogni uomo vero sogna nella sua vita di posare la testa sulle cosce di un altro uomo e riposarsi dalle fatiche al-Zuttiane, soprattutto se ti chiami Lapo o Vladimir ... no, non Putin, intendo il Vladimir nostrano, Luxuria. 
+Una notte come tante nella vita del profeta e di un uomo vero, perché ammettiamolo, ogni uomo vero sogna nella sua vita di posare la testa sulle cosce di un altro uomo e riposarsi dalle fatiche al-Zuttiane, soprattutto se ti chiami *Lapo* o *Vladimir* … no, non Putin, intendo il *Vladimir* nostrano, **Luxuria**. 
 
 Ed ecco arrivare un secondo gruppo di uomini. Fortunatamente questa volta sono vestiti. Di bianco. Sono angeli.
 
-Perché evidentemente il personale del turno di giorno aveva un dress-code più rigoroso.
+Perché evidentemente il personale del turno di giorno aveva un *dress-code* più rigoroso.
 
 Gli angeli osservano Maometto addormentato e commentano: **«I suoi occhi dormono, ma il suo cuore è sveglio.»**
 
 Dopo quella notte, francamente, il cuore era probabilmente l’unica parte del corpo ancora abile al servizio.
 
-Gli angeli spiegano infine una parabola che vi risparmio nei dettagli, ma il succo è: Dio è il Signore, l’Islam è l’edificio, il Paradiso è il banchetto e Maometto è colui che invita gli uomini a entrarvi.
+Gli angeli spiegano infine una parabola che vi risparmio nei dettagli, ma il succo è: *Dio è il Signore, l’Islam è l’edificio, il Paradiso è il banchetto e Maometto è colui che invita gli uomini a entrarvi.*
 
 Perfettamente ortodosso. Rimane soltanto una domanda esegetica: **perché per comunicare tutto questo era necessario organizzare prima il gangbang nel deserto?**
 
-Naturalmente bisogna essere rigorosi. Il verbo **rakiba** non significa necessariamente “avere rapporti sessuali”.
+Naturalmente bisogna essere rigorosi. Il verbo **rakiba** non significa necessariamente *“avere rapporti sessuali”.*
 
 L’hadith non dice: **«Gli al-Zutt fecero sesso con Maometto.»**
 
@@ -282,6 +282,6 @@ Nell’hadith compare prima come يَرْكَبُونَ — yarkabūna, cioè «
 
 Quindi non abbiamo due verbi diversi infilati casualmente nello stesso racconto: il testo insiste proprio sulla stessa radice.
 
-Naturalmente, rakiba può avere usi contestuali più ampi e non significa automaticamente *«fare sesso con qualcuno».* Ma se in una storia compaiono uomini nudi nel deserto che *yarkabūna* Maometto fino a lasciarlo dolorante per ciò che *rakibūhu*, bisogna ammettere che Ibn Masʿūd ha fatto tutto il possibile per rendere difficile il lavoro dell’apologeta.
+Naturalmente, rakiba può avere usi contestuali più ampi e non significa automaticamente *«fare sesso con qualcuno».* Ma se in una storia compaiono uomini nudi nel deserto che *yarkabūna* Maometto fino a lasciarlo dolorante per ciò che *rakibūhu*, bisogna ammettere che Ibn Masʿūd ha fatto tutto il possibile per rendere difficile il lavoro dell’apologeta islamico.
 
 La filologia non prova il gangbang. Ma, in questo caso, gli prepara accuratamente la scenografia.
