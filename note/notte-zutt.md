@@ -74,7 +74,9 @@ A questo punto qualsiasi sceneggiatore pornografico avrebbe detto: **“Forse il
 
 Ma l’hadith non ha ancora finito. Maometto torna da Ibn Masʿūd e dice: **«Mi sento pesante.»**
 
-E qui il buon Ibn Masʿūd ricopre la sua seconda funzione sacra che avevamo preannunciato, oltre a essere il cronista delle avventure omoerotiche del profeta, ne diventa anche il cuscino. Maometto mette la testa sul grembo di Ibn Masʿūd e si addormenta. Dopo essere stato montato tutta la notte da uomini nudi. Nel deserto. Una notte come tante nella vita del profeta e di un uomo vero, perché ammettiamolo, ogni uomo vero sogna nella sua vita di posare la testa sulle cosce di un altro uomo e riposare dalle fatiche al-Zuttiane, soprattutto se ti chiamo Lapo. 
+E qui il buon Ibn Masʿūd ricopre la sua seconda funzione sacra che avevamo preannunciato, oltre a essere il cronista dell'ammucchiata omoerotica del profeta, ne diventa anche il cuscino. Maometto mette la testa sul grembo di Ibn Masʿūd e si addormenta. Dopo essere stato montato tutta la notte da uomini nudi. Nel deserto. 
+
+Una notte come tante nella vita del profeta e di un uomo vero, perché ammettiamolo, ogni uomo vero sogna nella sua vita di posare la testa sulle cosce di un altro uomo e riposare dalle fatiche al-Zuttiane, soprattutto se ti chiami Lapo o Vladimir ... no, non Putin, intendo il Vladimir nostrano, Luxuria. 
 
 Ed ecco arrivare un secondo gruppo di uomini. Fortunatamente questa volta sono vestiti. Di bianco. Sono angeli.
 
@@ -172,4 +174,4 @@ La testimonianza più esplicita è nel [*Kitāb al-Tashbīhāt*](https://www.isl
 
 Letteralmente: «Descrivo un pene fra i peni degli Zutt: non si piegava mai e non si abbassava mai.»
 
-Quindi gli Zutt sono l'equivalente islamico di un Mandingo arrapato.
+In pratica gli al-Zutt sono l'equivalente islamico di un gruppo di Mandinghi arrapati e in overdose di Viagra.
