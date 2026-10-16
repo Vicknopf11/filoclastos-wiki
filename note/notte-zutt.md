@@ -15,9 +15,9 @@ E poi c’è quella notte in cui Maometto va nel deserto e, se si traduce l’ar
 
 Maometto porta Ibn Masʿūd fuori città. Arrivati in un luogo isolato, traccia un cerchio sul terreno e gli ordina: **«Resta lì dentro. Non uscire.»**
 
-Prima regola del gangbang profetico: portati dietro un cameraman, ma, essendo il settimo secolo e le videocamere non erano ancora state inventate, il buon Maomentto si accontentò del cronista di fiducia, che poi alla fine del racconto avrà un'altra importante funzione, ma non anticipiamo troppo.
+Prima regola del gangbang profetico: portati dietro un cameraman, ma, essendo il settimo secolo e le videocamere non erano ancora state inventate, il buon Maomentto si accontentò del cronista di fiducia, che alla fine del racconto avrà un'altra importante funzione, ma non anticipiamo troppo.
 
-Mentre il buon Ibn Masʿūd se ne sta metaforicamente e fisicamente con le chiappe al sicuro dietro la linea che chiameremo defloration-line, e capirete tra poco il perché,  Maometto si allontana. Poi arrivano degli uomini. Alti. Magri. Nudi. Simili agli Zutt.
+Mentre il buon Ibn Masʿūd se ne sta, metaforicamente e fisicamente, con le chiappe al sicuro dietro la linea che chiameremo defloration-line, e capirete tra poco il perché, Maometto si allontana. Poi arrivano degli uomini. Alti. Magri. Nudi. Simili agli Zutt.
 
 Ibn Masʿūd aggiunge però un dettaglio rassicurante: **non riusciva a vedere i loro genitali.** Naturalmente.
 
@@ -74,7 +74,7 @@ A questo punto qualsiasi sceneggiatore pornografico avrebbe detto: **“Forse il
 
 Ma l’hadith non ha ancora finito. Maometto torna da Ibn Masʿūd e dice: **«Mi sento pesante.»**
 
-E ui il buon Ibn Masʿūd ricopre la sua seconda funzione sacra, oltre a essere il cronista delle avventure omoerotiche del profeta, ne diventa anche il cuscino. Maometto mette la testa sul grembo di Ibn Masʿūd e si addormenta. Dopo essere stato montato tutta la notte da uomini nudi. Nel deserto. Una notte come tante nella vita del profeta e di uomo vero perché ammettiamolo ogni uomo vero sogna nella sua vita di posare la testa sulle cosce di un altro uomo e riposare dalle fatiche al-Zuttiane.
+E qui il buon Ibn Masʿūd ricopre la sua seconda funzione sacra che avevamo preannunciato, oltre a essere il cronista delle avventure omoerotiche del profeta, ne diventa anche il cuscino. Maometto mette la testa sul grembo di Ibn Masʿūd e si addormenta. Dopo essere stato montato tutta la notte da uomini nudi. Nel deserto. Una notte come tante nella vita del profeta e di un uomo vero, perché ammettiamolo, ogni uomo vero sogna nella sua vita di posare la testa sulle cosce di un altro uomo e riposare dalle fatiche al-Zuttiane, soprattutto se ti chiamo Lapo. 
 
 Ed ecco arrivare un secondo gruppo di uomini. Fortunatamente questa volta sono vestiti. Di bianco. Sono angeli.
 
